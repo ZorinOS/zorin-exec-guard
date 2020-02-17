@@ -1,0 +1,104 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: Zorin OS\n"
+"Language: te\n"
+
+#: 
+msgid "Install Linux Application"
+msgstr "Linux అప్లికేషన్ను ఇన్స్టాల్ చేయండి"
+
+#: 
+msgid "Install Linux Applications"
+msgstr "Linux అప్లికేషన్స్ ఇన్స్టాల్"
+
+#: 
+msgid "Install Windows Application"
+msgstr "Windows అప్లికేషన్ను ఇన్స్టాల్ చేయండి"
+
+#: 
+msgid "Install Windows Applications"
+msgstr "Windows అనువర్తనాలను ఇన్స్టాల్ చేయండి"
+
+#: 
+#, fuzzy
+
+msgid "Are you sure you want to run %s?"
+msgstr "మీరు ఖచ్చితంగా %s ను రన్ చేయాలనుకుంటున్నారా?"
+
+#: 
+#, fuzzy
+
+msgid "%s is available on Steam"
+msgstr "%s ఆవిరిలో అందుబాటులో ఉంది"
+
+#: 
+#, fuzzy
+
+msgid "%s is already installed"
+msgstr "%s ఇప్పటికే వ్యవస్థాపించబడింది"
+
+#: 
+#, fuzzy
+
+msgid "%s can be installed from Software"
+msgstr "%s సాఫ్ట్‌వేర్ నుండి ఇన్స్టాల్ చేయబడవచ్చు"
+
+#: 
+
+msgid "%s is an alternative to %s."
+msgstr "%s %s కు ప్రత్యామ్నాయం."
+
+#: 
+
+msgid "%s is an unknown package."
+msgstr "%s తెలియని ప్యాకేజీ."
+
+#: 
+
+msgid "%s is an unknown Windows app."
+msgstr "%s తెలియని విండోస్ అనువర్తనం."
+
+#: 
+msgid "Your computer and personal data may be vulnerable to a breach when running apps from unknown sources."
+msgstr "తెలియని మూలాల నుండి అనువర్తనాలను అమలు చేస్తున్నప్పుడు మీ కంప్యూటర్ మరియు వ్యక్తిగత డేటా ఉల్లంఘనకు గురవుతుంది."
+
+#: 
+msgid "Some Windows apps may not be compatible with Windows App Support."
+msgstr "కొన్ని Windows అనువర్తనాలు Windows App మద్దతుతో అనుకూలంగా ఉండకపోవచ్చు."
+
+#: 
+
+msgid "%s has been installed"
+msgstr "%s వ్యవస్థాపించబడింది"
+
+#: 
+
+msgid "Run %s anyway"
+msgstr "ఏదేమైనా %s ను రన్ చేయండి"
+
+#: 
+
+msgid "Launch %s"
+msgstr "%s ప్రారంభించండి"
+
+#: 
+
+msgid "Install %s"
+msgstr "%s ను వ్యవస్థాపించండి"
+
+#: 
+msgid "Install Windows App Support"
+msgstr "Windows App మద్దతుని ఇన్స్టాల్ చేయండి"
+
+#: 
+
+msgid "Install Windows App Support to run %s?"
+msgstr "%s ను అమలు చేయడానికి Windows App మద్దతుని ఇన్స్టాల్ చేయాలా?"
+
+#: 
+msgid "Installed"
+msgstr "ఇన్స్టాల్"

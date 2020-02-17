@@ -1,0 +1,100 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: Zorin OS\n"
+"Language: hu\n"
+
+#: 
+msgid "Install Linux Application"
+msgstr "Linux alkalmazás telepítése"
+
+#: 
+msgid "Install Linux Applications"
+msgstr "Linux alkalmazások telepítése"
+
+#: 
+msgid "Install Windows Application"
+msgstr "Windows alkalmazás telepítése"
+
+#: 
+msgid "Install Windows Applications"
+msgstr "Windows alkalmazások telepítése"
+
+#: 
+
+msgid "Are you sure you want to run %s?"
+msgstr "Biztos benne hogy elindítja a %s alkalmazást?"
+
+#: 
+
+msgid "%s is available on Steam"
+msgstr "%s elérhető a Steam"
+
+#: 
+
+msgid "%s is already installed"
+msgstr "%s már fel van telepítve"
+
+#: 
+
+msgid "%s can be installed from Software"
+msgstr "%s telepíthető a Programokból"
+
+#: 
+
+msgid "%s is an alternative to %s."
+msgstr "A %s megfelelője a %s -nek"
+
+#: 
+
+msgid "%s is an unknown package."
+msgstr "%s egy ismeretlen csomag."
+
+#: 
+
+msgid "%s is an unknown Windows app."
+msgstr "%s egy ismeretlen Windowsos alkalmazás."
+
+#: 
+msgid "Your computer and personal data may be vulnerable to a breach when running apps from unknown sources."
+msgstr "A számítógéped és személyes adataid sérülhetnek, ha ismeretlen forrásokból futtatsz alkalmazást."
+
+#: 
+msgid "Some Windows apps may not be compatible with Windows App Support."
+msgstr "Néhány Windowsos alkalmazás nem kompatibilis a Windows Szoftvertámogatással."
+
+#: 
+
+msgid "%s has been installed"
+msgstr "%s sikeresen feltelepítve."
+
+#: 
+
+msgid "Run %s anyway"
+msgstr "%s futtatása mindenképp."
+
+#: 
+
+msgid "Launch %s"
+msgstr "%s indítása"
+
+#: 
+
+msgid "Install %s"
+msgstr "%s telepítése"
+
+#: 
+msgid "Install Windows App Support"
+msgstr "Windows alkalmazástámogatás telepítése"
+
+#: 
+
+msgid "Install Windows App Support to run %s?"
+msgstr "Kívánja a Windows Alkalmazástámogatást feltelepíteni a %s futtatásához?"
+
+#: 
+msgid "Installed"
+msgstr "Telepítve"

@@ -1,0 +1,100 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: Zorin OS\n"
+"Language: zh-hk\n"
+
+#: 
+msgid "Install Linux Application"
+msgstr "安裝Linux應用程式"
+
+#: 
+msgid "Install Linux Applications"
+msgstr "安裝Linux應用程式"
+
+#: 
+msgid "Install Windows Application"
+msgstr "安裝Windows應用程式"
+
+#: 
+msgid "Install Windows Applications"
+msgstr "安裝Windows應用程式"
+
+#: 
+
+msgid "Are you sure you want to run %s?"
+msgstr "你確定要運行%s嗎？"
+
+#: 
+
+msgid "%s is available on Steam"
+msgstr "%s在Steam上可用"
+
+#: 
+
+msgid "%s is already installed"
+msgstr "%s已安裝"
+
+#: 
+
+msgid "%s can be installed from Software"
+msgstr "%s可以從「軟件」安裝"
+
+#: 
+
+msgid "%s is an alternative to %s."
+msgstr "%s是%s的替代品。"
+
+#: 
+
+msgid "%s is an unknown package."
+msgstr "%s為未知的套件。"
+
+#: 
+
+msgid "%s is an unknown Windows app."
+msgstr "%s為未知的Windows應用程式。"
+
+#: 
+msgid "Your computer and personal data may be vulnerable to a breach when running apps from unknown sources."
+msgstr "在運行來自未知來源的應用時，您的電腦和個人資料可能容易受到攻擊。"
+
+#: 
+msgid "Some Windows apps may not be compatible with Windows App Support."
+msgstr "某些Windows應用程式可能與Windows應用程式支援不相容。"
+
+#: 
+
+msgid "%s has been installed"
+msgstr "%s已安裝"
+
+#: 
+
+msgid "Run %s anyway"
+msgstr "無論如何都要運行%s"
+
+#: 
+
+msgid "Launch %s"
+msgstr "啟動%s"
+
+#: 
+
+msgid "Install %s"
+msgstr "安裝%s"
+
+#: 
+msgid "Install Windows App Support"
+msgstr "安裝Windows應用程式支援"
+
+#: 
+
+msgid "Install Windows App Support to run %s?"
+msgstr "安裝Windows應用程式支援以運行%s？"
+
+#: 
+msgid "Installed"
+msgstr "已安裝"

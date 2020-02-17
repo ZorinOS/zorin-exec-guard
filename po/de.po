@@ -1,0 +1,100 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: Zorin OS\n"
+"Language: de\n"
+
+#: 
+msgid "Install Linux Application"
+msgstr "Installiere Linux Programm"
+
+#: 
+msgid "Install Linux Applications"
+msgstr "Installiere Linux Programme"
+
+#: 
+msgid "Install Windows Application"
+msgstr "Installiere Windows Programm"
+
+#: 
+msgid "Install Windows Applications"
+msgstr "Installiere Windows Programme"
+
+#: 
+
+msgid "Are you sure you want to run %s?"
+msgstr "Bist du sicher, dass du %s starten möchtest?"
+
+#: 
+
+msgid "%s is available on Steam"
+msgstr "%s ist in Steam verfügbar"
+
+#: 
+
+msgid "%s is already installed"
+msgstr "%s ist bereits installiert"
+
+#: 
+
+msgid "%s can be installed from Software"
+msgstr "%s kann über Software installiert werden"
+
+#: 
+
+msgid "%s is an alternative to %s."
+msgstr "%s ist eine Alternative für %s."
+
+#: 
+
+msgid "%s is an unknown package."
+msgstr "%s ist ein unbekanntes Paket."
+
+#: 
+
+msgid "%s is an unknown Windows app."
+msgstr "%s ist eine unbekannte Windows-App."
+
+#: 
+msgid "Your computer and personal data may be vulnerable to a breach when running apps from unknown sources."
+msgstr "Dein Computer und deine persönlichen Daten könnten abgreifbar sein, wenn du Programme von unbekannten Quellen startest."
+
+#: 
+msgid "Some Windows apps may not be compatible with Windows App Support."
+msgstr "Manche Windows Programme könnten mit der Windows Programmunterstützung nicht kompatibel sein."
+
+#: 
+
+msgid "%s has been installed"
+msgstr "%s wurde installiert"
+
+#: 
+
+msgid "Run %s anyway"
+msgstr "%s trotzdem starten"
+
+#: 
+
+msgid "Launch %s"
+msgstr "Starte %s"
+
+#: 
+
+msgid "Install %s"
+msgstr "Installiere %s"
+
+#: 
+msgid "Install Windows App Support"
+msgstr "Installiere Windows Programmunterstützung"
+
+#: 
+
+msgid "Install Windows App Support to run %s?"
+msgstr "Installiere Windows Programmunterstützung um %s zu starten"
+
+#: 
+msgid "Installed"
+msgstr "Installiert"

@@ -1,0 +1,100 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: Zorin OS\n"
+"Language: he\n"
+
+#: 
+msgid "Install Linux Application"
+msgstr "התקנת אפליקצית לינוקס"
+
+#: 
+msgid "Install Linux Applications"
+msgstr "התקנת אפליקציות לינוקס"
+
+#: 
+msgid "Install Windows Application"
+msgstr "התקנת אפליקצית ווינדוס"
+
+#: 
+msgid "Install Windows Applications"
+msgstr "התקנת אפליקציות ווינדוס"
+
+#: 
+
+msgid "Are you sure you want to run %s?"
+msgstr "האם אתה בטוח שאתה רוצה להעריץ %s"
+
+#: 
+
+msgid "%s is available on Steam"
+msgstr "%s Steam זמין ב"
+
+#: 
+
+msgid "%s is already installed"
+msgstr "%s כבר מותקן"
+
+#: 
+
+msgid "%s can be installed from Software"
+msgstr "%s יכול להיות מותקן ממרכז תוכנות"
+
+#: 
+
+msgid "%s is an alternative to %s."
+msgstr "%s היא חלופה ל %s."
+
+#: 
+
+msgid "%s is an unknown package."
+msgstr "%s חבילה אינה מוכרת."
+
+#: 
+
+msgid "%s is an unknown Windows app."
+msgstr "%s הינה אפליקציה לא מוכרת."
+
+#: 
+msgid "Your computer and personal data may be vulnerable to a breach when running apps from unknown sources."
+msgstr "המחשב והנתונים האישיים שלך עלולים להיות חשופים לפריצה בעת הפעלת אפליקציות ממקורות לא ידועים."
+
+#: 
+msgid "Some Windows apps may not be compatible with Windows App Support."
+msgstr "ייתכן שיישומי ווינדוס מסוימים אינם תואמים לתמיכת אפליקציות ווינדוס."
+
+#: 
+
+msgid "%s has been installed"
+msgstr "%s הותקן בהצלחה"
+
+#: 
+
+msgid "Run %s anyway"
+msgstr "הרץ %s בכל מקרה"
+
+#: 
+
+msgid "Launch %s"
+msgstr "הפעל %s"
+
+#: 
+
+msgid "Install %s"
+msgstr "התקן %s"
+
+#: 
+msgid "Install Windows App Support"
+msgstr "התקן תמיכת אפליקצית ווינדוס"
+
+#: 
+
+msgid "Install Windows App Support to run %s?"
+msgstr "התקן תמיכת אפליקצית ווינדוס להריץ %s"
+
+#: 
+msgid "Installed"
+msgstr "מותקן"

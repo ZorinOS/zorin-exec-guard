@@ -1,0 +1,7 @@
+usr/lib/python*/*/*.egg-info 
+usr/lib/python*/*/zorin_exec_guard/*
+usr/bin/zorin-exec-guard-linux
+usr/bin/zorin-exec-guard-windows
+usr/share/applications/com.zorin.exec-guard.linux.desktop
+usr/share/applications/com.zorin.exec-guard.windows.desktop
+usr/share/locale/*

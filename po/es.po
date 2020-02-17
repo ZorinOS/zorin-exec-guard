@@ -1,0 +1,100 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: Zorin OS\n"
+"Language: es\n"
+
+#: 
+msgid "Install Linux Application"
+msgstr "Instalar una aplicación de Linux"
+
+#: 
+msgid "Install Linux Applications"
+msgstr "Instalar aplicaciones de Linux"
+
+#: 
+msgid "Install Windows Application"
+msgstr "Instalar una aplicación de Windows"
+
+#: 
+msgid "Install Windows Applications"
+msgstr "Instalar aplicaciones de Windows"
+
+#: 
+
+msgid "Are you sure you want to run %s?"
+msgstr "¿Está seguro que desea ejecutar %s?"
+
+#: 
+
+msgid "%s is available on Steam"
+msgstr "%s está disponible en Steam"
+
+#: 
+
+msgid "%s is already installed"
+msgstr "%s ya está instalado"
+
+#: 
+
+msgid "%s can be installed from Software"
+msgstr "%s se puede instalar desde Software"
+
+#: 
+
+msgid "%s is an alternative to %s."
+msgstr "%s es una alternativa a %s."
+
+#: 
+
+msgid "%s is an unknown package."
+msgstr "%s es un paquete desconocido."
+
+#: 
+
+msgid "%s is an unknown Windows app."
+msgstr "%s es una aplicación desconocida de Windows."
+
+#: 
+msgid "Your computer and personal data may be vulnerable to a breach when running apps from unknown sources."
+msgstr "Su equipo y datos personales pueden ser vulnerables al ejecutar aplicaciones de fuentes desconocidas."
+
+#: 
+msgid "Some Windows apps may not be compatible with Windows App Support."
+msgstr "Puede que algunas aplicaciones de Windows no sean compatibles con el Soporte de aplicaciones para Windows."
+
+#: 
+
+msgid "%s has been installed"
+msgstr "Se ha instalado %s"
+
+#: 
+
+msgid "Run %s anyway"
+msgstr "Ejecutar %s de todas formas"
+
+#: 
+
+msgid "Launch %s"
+msgstr "Ejecutar %s"
+
+#: 
+
+msgid "Install %s"
+msgstr "Instalar %s"
+
+#: 
+msgid "Install Windows App Support"
+msgstr "Instalar Soporte de Aplicaciones de Windows"
+
+#: 
+
+msgid "Install Windows App Support to run %s?"
+msgstr "¿Instalar Soporte de Aplicaciones de Windows para ejecutar %s?"
+
+#: 
+msgid "Installed"
+msgstr "Instalado"

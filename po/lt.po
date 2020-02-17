@@ -1,0 +1,100 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: Zorin OS\n"
+"Language: lt\n"
+
+#: 
+msgid "Install Linux Application"
+msgstr "Įdiegti Linux programą"
+
+#: 
+msgid "Install Linux Applications"
+msgstr "Įdiegti Linux programas"
+
+#: 
+msgid "Install Windows Application"
+msgstr "Įdiegti Windows programą"
+
+#: 
+msgid "Install Windows Applications"
+msgstr "Įdiegti Windows programas"
+
+#: 
+
+msgid "Are you sure you want to run %s?"
+msgstr "Ar jūs tikrai norite paleisti %s?"
+
+#: 
+
+msgid "%s is available on Steam"
+msgstr "%s yra prieinama Steam"
+
+#: 
+
+msgid "%s is already installed"
+msgstr "%s jau įdiegtas"
+
+#: 
+
+msgid "%s can be installed from Software"
+msgstr "%s gali būti įdiegta iš Software"
+
+#: 
+
+msgid "%s is an alternative to %s."
+msgstr "%s yra alternatyva %s."
+
+#: 
+
+msgid "%s is an unknown package."
+msgstr "%s yra nežinomas paketas."
+
+#: 
+
+msgid "%s is an unknown Windows app."
+msgstr "%s yra nežinoma Windows programa."
+
+#: 
+msgid "Your computer and personal data may be vulnerable to a breach when running apps from unknown sources."
+msgstr "Jūsų kompiuteris ir asmeniniai duomenys gali būti pažeidžiami jei naudosite programas iš nežinomų šaltinių."
+
+#: 
+msgid "Some Windows apps may not be compatible with Windows App Support."
+msgstr "Kai kurios Windows programos gali būti nesuderinamos su Windows App Support."
+
+#: 
+
+msgid "%s has been installed"
+msgstr "%s įdiegtas"
+
+#: 
+
+msgid "Run %s anyway"
+msgstr "Vistiek paleisti %s"
+
+#: 
+
+msgid "Launch %s"
+msgstr "Paleiskite %s"
+
+#: 
+
+msgid "Install %s"
+msgstr "Įdiegti %s"
+
+#: 
+msgid "Install Windows App Support"
+msgstr "Įdiegti Windows App Support"
+
+#: 
+
+msgid "Install Windows App Support to run %s?"
+msgstr "Įdiegti Windows App Support, kad paleisti %s?"
+
+#: 
+msgid "Installed"
+msgstr "Įdiegta"

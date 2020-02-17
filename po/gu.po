@@ -1,0 +1,105 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: Zorin OS\n"
+"Language: gu\n"
+
+#: 
+msgid "Install Linux Application"
+msgstr "લિનક્સ એપ્લિકેશન સ્થાપિત કરો"
+
+#: 
+msgid "Install Linux Applications"
+msgstr "લિનક્સ એપ્લિકેશન્સ સ્થાપિત કરો"
+
+#: 
+msgid "Install Windows Application"
+msgstr "વિન્ડોઝ એપ્લિકેશન સ્થાપિત કરો"
+
+#: 
+msgid "Install Windows Applications"
+msgstr "વિન્ડોઝ એપ્લિકેશન્સ સ્થાપિત કરો"
+
+#: 
+
+msgid "Are you sure you want to run %s?"
+msgstr "શું તમે ખરેખર %s ચલાવવા માંગો છો?"
+
+#: 
+
+msgid "%s is available on Steam"
+msgstr "%s Steam પર ઉપલબ્ધ છે"
+
+#: 
+
+msgid "%s is already installed"
+msgstr "%s પહેલાંથી જ સ્થાપિત છે"
+
+#: 
+
+msgid "%s can be installed from Software"
+msgstr "%s સોફ્ટવેર ભંડાર માંથી સ્થાપિત થઈ શકે છે"
+
+#: 
+
+msgid "%s is an alternative to %s."
+msgstr "%s ,  %s નો વિકલ્પ છે."
+
+#: 
+
+msgid "%s is an unknown package."
+msgstr "%s અજાણ્યું પેકેજ છે."
+
+#: 
+
+msgid "%s is an unknown Windows app."
+msgstr "%s અજાણી વિન્ડોઝ એપ્લિકેશન છે."
+
+#: 
+msgid "Your computer and personal data may be vulnerable to a breach when running apps from unknown sources."
+msgstr "તમારા કમ્પ્યુટર અને અંગત માહિતીની સુરક્ષા જોખમાય શકે છે જો તમે કોઈ અજાણ્યા માધ્યમથી તમારી એપ્લિકેશન ચલાવો તો."
+
+#: 
+msgid "Some Windows apps may not be compatible with Windows App Support."
+msgstr "કેટલીક વિન્ડોઝ એપ્લિકેશન્સ, વિન્ડોઝ એપ્લિકેશન સપોર્ટ સાથે સુસંગત હોઈ શકતી નથી."
+
+#: 
+#, fuzzy
+
+msgid "%s has been installed"
+msgstr "%s સ્થાપિત થયેલ છે"
+
+#: 
+#, fuzzy
+
+msgid "Run %s anyway"
+msgstr "કોઈપણ રીતે %s ચલાવો"
+
+#: 
+#, fuzzy
+
+msgid "Launch %s"
+msgstr "%s લોન્ચ કરો"
+
+#: 
+#, fuzzy
+
+msgid "Install %s"
+msgstr "%s ઇન્સ્ટોલ કરો"
+
+#: 
+msgid "Install Windows App Support"
+msgstr "વિન્ડોઝ એપ્લિકેશન સપોર્ટ ઇન્સ્ટોલ કરો"
+
+#: 
+#, fuzzy
+
+msgid "Install Windows App Support to run %s?"
+msgstr "%s ચલાવવા માટે વિન્ડોઝ એપ્લિકેશન સપોર્ટ ઇન્સ્ટોલ કરીએ?"
+
+#: 
+msgid "Installed"
+msgstr "ઇન્સ્ટોલ કરેલું"

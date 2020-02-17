@@ -1,0 +1,100 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: Zorin OS\n"
+"Language: ja\n"
+
+#: 
+msgid "Install Linux Application"
+msgstr "Linuxアプリケーションをインストールします"
+
+#: 
+msgid "Install Linux Applications"
+msgstr "Linuxアプリケーション(複数)をインストールします"
+
+#: 
+msgid "Install Windows Application"
+msgstr "Windowsアプリケーションをインストールします"
+
+#: 
+msgid "Install Windows Applications"
+msgstr "Windowsアプリケーション(複数)をインストールします"
+
+#: 
+
+msgid "Are you sure you want to run %s?"
+msgstr "本当に%sを実行しますか？"
+
+#: 
+
+msgid "%s is available on Steam"
+msgstr "%sはSteam上で実行可能です"
+
+#: 
+
+msgid "%s is already installed"
+msgstr "%sは既にインストールされています"
+
+#: 
+
+msgid "%s can be installed from Software"
+msgstr "%sはSoftwareからインストールできます"
+
+#: 
+
+msgid "%s is an alternative to %s."
+msgstr "%sは%sに代わるものです。"
+
+#: 
+
+msgid "%s is an unknown package."
+msgstr "%sは不明なパッケージです。"
+
+#: 
+
+msgid "%s is an unknown Windows app."
+msgstr "%sは不明なWindowsアプリケーションです。"
+
+#: 
+msgid "Your computer and personal data may be vulnerable to a breach when running apps from unknown sources."
+msgstr "ソースの不明なアプリケーションを実行するとコンピュータや個人のデータが危険にさらされる可能性があります。"
+
+#: 
+msgid "Some Windows apps may not be compatible with Windows App Support."
+msgstr "いくつかのWindowsアプリはWindows App Supportと互換性がありません。"
+
+#: 
+
+msgid "%s has been installed"
+msgstr "%sをインストールしました"
+
+#: 
+
+msgid "Run %s anyway"
+msgstr "それでも%sを実行する"
+
+#: 
+
+msgid "Launch %s"
+msgstr "%sを起動します"
+
+#: 
+
+msgid "Install %s"
+msgstr "%sをインストールします"
+
+#: 
+msgid "Install Windows App Support"
+msgstr "Windows App Supportをインストールします"
+
+#: 
+
+msgid "Install Windows App Support to run %s?"
+msgstr "%sを実行するためにWindows App Supportをインストールしますか？"
+
+#: 
+msgid "Installed"
+msgstr "インストールしました"

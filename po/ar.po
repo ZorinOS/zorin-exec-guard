@@ -1,0 +1,101 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: Zorin OS\n"
+"Language: ar\n"
+
+#: 
+msgid "Install Linux Application"
+msgstr "تثبيث تطبيق لينوكس"
+
+#: 
+msgid "Install Linux Applications"
+msgstr "تثبيث تطبيقات لينوكس"
+
+#: 
+msgid "Install Windows Application"
+msgstr "تثبيث تطبيق ويندوز"
+
+#: 
+msgid "Install Windows Applications"
+msgstr "حمل تطبيقات ويندوز"
+
+#. هل تريد تشغيل %s?
+#: 
+
+msgid "Are you sure you want to run %s?"
+msgstr "هل تريد تشغيل %s؟"
+
+#: 
+
+msgid "%s is available on Steam"
+msgstr "%s متوفر في Steam"
+
+#: 
+
+msgid "%s is already installed"
+msgstr "%s تم تثبيثه مسبقا"
+
+#: 
+
+msgid "%s can be installed from Software"
+msgstr "%s يمكن تثبيثه من برنامج"
+
+#: 
+
+msgid "%s is an alternative to %s."
+msgstr "%s هو بديل ل %s"
+
+#: 
+
+msgid "%s is an unknown package."
+msgstr "%s هو تطبيق غير معروف."
+
+#: 
+
+msgid "%s is an unknown Windows app."
+msgstr "%s هو تطبيق ويندوز غير معروف."
+
+#: 
+msgid "Your computer and personal data may be vulnerable to a breach when running apps from unknown sources."
+msgstr "قد يكون الكمبيوتر والبيانات الشخصية عرضة للاختراق عند تشغيل تطبيقات من مصادر غير معروفة."
+
+#: 
+msgid "Some Windows apps may not be compatible with Windows App Support."
+msgstr "بعض تطبيقات ويندوز قد لا تكون متلائمة مع تطبيق الدعم في ويندوز."
+
+#: 
+
+msgid "%s has been installed"
+msgstr "تم تثبيث %s"
+
+#: 
+
+msgid "Run %s anyway"
+msgstr "تشغيل %s على كل حال"
+
+#: 
+
+msgid "Launch %s"
+msgstr "إطلاق %s"
+
+#: 
+
+msgid "Install %s"
+msgstr "تثبيت %s"
+
+#: 
+msgid "Install Windows App Support"
+msgstr "تثبيت دعم تطبيق ويندوز"
+
+#: 
+
+msgid "Install Windows App Support to run %s?"
+msgstr "هل تريد تثبيت تطبيق دعم ويندوز لتشغيل %s ؟"
+
+#: 
+msgid "Installed"
+msgstr "تم التثبيث"

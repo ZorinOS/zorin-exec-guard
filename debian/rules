@@ -1,0 +1,25 @@
+#!/usr/bin/make -f
+# -*- makefile -*-
+
+# Uncomment this to turn on verbose mode.
+#export DH_VERBOSE=1
+
+%:
+	dh $@ -Spython_distutils --with python3
+
+override_dh_auto_build:
+	python3 setup.py build
+
+override_dh_auto_install:
+	python3 setup.py install --root=$(CURDIR)/debian/tmp --install-layout=deb
+
+override_dh_auto_clean:
+	python3 setup.py clean
+
+override_dh_python3:
+	dh_python3 -p zorin-exec-guard
+
+override_dh_clean:
+	rm -rf build
+	find -name __pycache__ -print0 | xargs -0r rm -rf
+	dh_clean

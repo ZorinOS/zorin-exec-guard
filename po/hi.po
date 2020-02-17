@@ -1,0 +1,101 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: Zorin OS\n"
+"Language: hi\n"
+
+#: 
+msgid "Install Linux Application"
+msgstr "लाईनेक्स एप्लिकेशन इनस्टौल करें"
+
+#: 
+msgid "Install Linux Applications"
+msgstr "लाईनेक्स एप्लिकेशनष इनस्टौल करें"
+
+#: 
+msgid "Install Windows Application"
+msgstr "विंडोज एप्लिकेशन इनस्टौल करें"
+
+#: 
+msgid "Install Windows Applications"
+msgstr "विंडोज एप्लिकेशनष इनस्टौल करें"
+
+#: 
+
+msgid "Are you sure you want to run %s?"
+msgstr "क्या आप सुनिश्चित हैं कि आप %s चलाना चाहते हैं?"
+
+#: 
+
+msgid "%s is available on Steam"
+msgstr "%s Steam पर उपलब्ध है"
+
+#: 
+
+msgid "%s is already installed"
+msgstr "%s पहले से इनस्टौलड है"
+
+#: 
+
+msgid "%s can be installed from Software"
+msgstr "%s को सॉफ्टवेयर स्टोर से इनस्टौल किया जा सकता है"
+
+#: 
+
+msgid "%s is an alternative to %s."
+msgstr "%s, %s का विकल्प है।"
+
+#: 
+
+msgid "%s is an unknown package."
+msgstr "%s एक अज्ञात पैकेज है।"
+
+#: 
+
+msgid "%s is an unknown Windows app."
+msgstr "%s एक अज्ञात विंडोज ऐप है।"
+
+#: 
+msgid "Your computer and personal data may be vulnerable to a breach when running apps from unknown sources."
+msgstr "अज्ञात स्रोतों से एप्लिकेशन चलाने पर आपका कंप्यूटर और व्यक्तिगत डेटा असुरक्षित और चोरी हो सकता है।"
+
+#. 'Windows app' is repeated twice in Hindi translation so I've used quotes to differentiate it with Windows app support
+#: 
+msgid "Some Windows apps may not be compatible with Windows App Support."
+msgstr "कुछ 'विंडोज ऐप' विंडोज ऐप सपोर्ट के अनुकूल नहीं हो सकते हैं।"
+
+#: 
+
+msgid "%s has been installed"
+msgstr "%s स्थापित किया गया है"
+
+#: 
+
+msgid "Run %s anyway"
+msgstr "फिर भी %s चलाएं"
+
+#: 
+
+msgid "Launch %s"
+msgstr "%s लॉन्च करें"
+
+#: 
+
+msgid "Install %s"
+msgstr "%s इनस्टौल करें"
+
+#: 
+msgid "Install Windows App Support"
+msgstr "विंडोज ऐप सपोरट स्थापित करें"
+
+#: 
+
+msgid "Install Windows App Support to run %s?"
+msgstr "%s को चलाने के लिए विंडोज ऐप सपोर्ट स्थापित करें?"
+
+#: 
+msgid "Installed"
+msgstr "स्थापित है"

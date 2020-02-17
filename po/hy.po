@@ -1,0 +1,100 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: Zorin OS\n"
+"Language: hy\n"
+
+#: 
+msgid "Install Linux Application"
+msgstr "Տեղադրել Լինուքս Հավելված"
+
+#: 
+msgid "Install Linux Applications"
+msgstr "Տեղադրել Լինուքս Հավելվածներ"
+
+#: 
+msgid "Install Windows Application"
+msgstr "Տեղադրել Windows Հավելված"
+
+#: 
+msgid "Install Windows Applications"
+msgstr "Տեղադրել Windows հավելվածներ"
+
+#: 
+
+msgid "Are you sure you want to run %s?"
+msgstr "Դուք համոզվա՞ծ եք, որ ցանկանում եք թողարկել %s-ը"
+
+#: 
+
+msgid "%s is available on Steam"
+msgstr "%s-ը հասանելի է Steam-ում"
+
+#: 
+
+msgid "%s is already installed"
+msgstr "%s-ն արդեն տեղադրված է"
+
+#: 
+
+msgid "%s can be installed from Software"
+msgstr "%s-ը կարող է տեղադրվել Software-ից"
+
+#: 
+
+msgid "%s is an alternative to %s."
+msgstr "%s-ը %s-ի ալտերնատիվ է"
+
+#: 
+
+msgid "%s is an unknown package."
+msgstr "%s-ն անհայտ փաթեթ է"
+
+#: 
+
+msgid "%s is an unknown Windows app."
+msgstr "%s-ն անհայտ Windows ափփ է"
+
+#: 
+msgid "Your computer and personal data may be vulnerable to a breach when running apps from unknown sources."
+msgstr "Անհայտ ծագմամբ ծրագրեր օգտագործելու դեպքում Ձեր համակարգիչը և անձնական ինֆորմացիան կարող են դառնալ խոցելի"
+
+#: 
+msgid "Some Windows apps may not be compatible with Windows App Support."
+msgstr "Որոշ Windows ծրագրեր կարող են համատեղելի չլինել  Windows App Support-ի հետ"
+
+#: 
+
+msgid "%s has been installed"
+msgstr "%s-ը տեղադրվել է"
+
+#: 
+
+msgid "Run %s anyway"
+msgstr "Միևնույն է գործարկել %s-ը"
+
+#: 
+
+msgid "Launch %s"
+msgstr "Միացնել %s"
+
+#: 
+
+msgid "Install %s"
+msgstr "Տեղադրել %s"
+
+#: 
+msgid "Install Windows App Support"
+msgstr "Տեղադրել Windows app support"
+
+#: 
+
+msgid "Install Windows App Support to run %s?"
+msgstr "Տեղադրել Windows App Support-ը՝ %s գործարկելու համար"
+
+#: 
+msgid "Installed"
+msgstr "Տեղադրված է"

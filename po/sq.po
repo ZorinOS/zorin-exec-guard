@@ -1,0 +1,100 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: Zorin OS\n"
+"Language: sq\n"
+
+#: 
+msgid "Install Linux Application"
+msgstr "Instalo Linux Aplikim"
+
+#: 
+msgid "Install Linux Applications"
+msgstr "Instalo Linux Aplikacione"
+
+#: 
+msgid "Install Windows Application"
+msgstr "Instaloni Windows Aplikimi"
+
+#: 
+msgid "Install Windows Applications"
+msgstr "Instaluar Windows Aplikacione"
+
+#: 
+
+msgid "Are you sure you want to run %s?"
+msgstr "A jeni i sigurt që ju doni të drejtuar %s?"
+
+#: 
+
+msgid "%s is available on Steam"
+msgstr "%s është në dispozicion në Steam"
+
+#: 
+
+msgid "%s is already installed"
+msgstr "%s është instaluar tashmë"
+
+#: 
+
+msgid "%s can be installed from Software"
+msgstr "%s mund të instalohet nga Softueri"
+
+#: 
+
+msgid "%s is an alternative to %s."
+msgstr "%s është një alternativë për %s."
+
+#: 
+
+msgid "%s is an unknown package."
+msgstr "%s është një paketë e panjohur."
+
+#: 
+
+msgid "%s is an unknown Windows app."
+msgstr "%s është një aplikacion i panjohur i Windows."
+
+#: 
+msgid "Your computer and personal data may be vulnerable to a breach when running apps from unknown sources."
+msgstr "kompjuterin tuaj dhe të dhënat personale mund të jenë të prekshme për një shkelje kur drejtimin Apps nga burime të panjohura."
+
+#: 
+msgid "Some Windows apps may not be compatible with Windows App Support."
+msgstr "Disa aplikacione Windows-i nuk mund të jetë në përputhje me mbështetjen e Windows App."
+
+#: 
+
+msgid "%s has been installed"
+msgstr "%s është instaluar"
+
+#: 
+
+msgid "Run %s anyway"
+msgstr "Nis %s gjithsesi"
+
+#: 
+
+msgid "Launch %s"
+msgstr "Nis %s"
+
+#: 
+
+msgid "Install %s"
+msgstr "Instalo %s"
+
+#: 
+msgid "Install Windows App Support"
+msgstr "Install Mbështetje të Windows App"
+
+#: 
+
+msgid "Install Windows App Support to run %s?"
+msgstr "Instaloni Windows App Mbështetje për të drejtuar %s?"
+
+#: 
+msgid "Installed"
+msgstr "Instaluar"

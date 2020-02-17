@@ -1,0 +1,119 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: Zorin OS\n"
+"Language: sk\n"
+
+#: 
+msgid "Install Linux Application"
+msgstr "Nainštalujte aplikáciu Linux"
+
+#: 
+#, fuzzy
+msgid "Install Linux Applications"
+msgstr "Nainštalujte aplikácie Linux"
+
+#: 
+#, fuzzy
+msgid "Install Windows Application"
+msgstr "Nainštalujte aplikáciu Windows"
+
+#: 
+#, fuzzy
+msgid "Install Windows Applications"
+msgstr "Nainštalujte aplikácie Windows"
+
+#: 
+#, fuzzy
+
+msgid "Are you sure you want to run %s?"
+msgstr "Naozaj chcete spustiť %s?"
+
+#: 
+#, fuzzy
+
+msgid "%s is available on Steam"
+msgstr "%s je k dispozícii v službe Steam"
+
+#: 
+#, fuzzy
+
+msgid "%s is already installed"
+msgstr "%s je nainštalovaných"
+
+#: 
+#, fuzzy
+
+msgid "%s can be installed from Software"
+msgstr "%s je nainštalovaných zo softvéru"
+
+#: 
+#, fuzzy
+
+msgid "%s is an alternative to %s."
+msgstr "%s je alternatívou k %s."
+
+#: 
+#, fuzzy
+
+msgid "%s is an unknown package."
+msgstr "%s je neznámy balík."
+
+#: 
+#, fuzzy
+
+msgid "%s is an unknown Windows app."
+msgstr "%s je neznáma aplikácia Windows."
+
+#: 
+#, fuzzy
+msgid "Your computer and personal data may be vulnerable to a breach when running apps from unknown sources."
+msgstr "Pri spúšťaní aplikácií z neznámych zdrojov môže byť váš počítač a osobné údaje zraniteľné."
+
+#: 
+#, fuzzy
+msgid "Some Windows apps may not be compatible with Windows App Support."
+msgstr "Niektoré aplikácie Windows nemusia byť kompatibilné s Windows podporou aplikácií."
+
+#: 
+#, fuzzy
+
+msgid "%s has been installed"
+msgstr "%s bol nainštalovaný"
+
+#: 
+#, fuzzy
+
+msgid "Run %s anyway"
+msgstr "Spustite %s akokoľvek"
+
+#: 
+#, fuzzy
+
+msgid "Launch %s"
+msgstr "Spustiť %s"
+
+#: 
+#, fuzzy
+
+msgid "Install %s"
+msgstr "Inštalovať %s"
+
+#: 
+#, fuzzy
+msgid "Install Windows App Support"
+msgstr "Nainštalujte podporu Windows aplikácií"
+
+#: 
+#, fuzzy
+
+msgid "Install Windows App Support to run %s?"
+msgstr "Nainštalujte Windows podporu aplikácií na spustenie %s?"
+
+#: 
+#, fuzzy
+msgid "Installed"
+msgstr "Nainštalovaný"

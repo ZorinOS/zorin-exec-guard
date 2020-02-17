@@ -1,0 +1,100 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: Zorin OS\n"
+"Language: tr\n"
+
+#: 
+msgid "Install Linux Application"
+msgstr "Uygulamayı kur"
+
+#: 
+msgid "Install Linux Applications"
+msgstr "Uygulamaları kur"
+
+#: 
+msgid "Install Windows Application"
+msgstr "Windows uygulamasını kur"
+
+#: 
+msgid "Install Windows Applications"
+msgstr "Windows uygulamalarını kur"
+
+#: 
+
+msgid "Are you sure you want to run %s?"
+msgstr "%s'i çalıştırmak istediğinize emin misiniz?"
+
+#: 
+
+msgid "%s is available on Steam"
+msgstr "%s Steam'de mevcut"
+
+#: 
+
+msgid "%s is already installed"
+msgstr "%s zaten kurulu"
+
+#: 
+
+msgid "%s can be installed from Software"
+msgstr "%s yazılım merkezinden kurulabilir"
+
+#: 
+
+msgid "%s is an alternative to %s."
+msgstr "%s, %s'e alternatif olabilir."
+
+#: 
+
+msgid "%s is an unknown package."
+msgstr "Bilinmeyen paket: %s."
+
+#: 
+
+msgid "%s is an unknown Windows app."
+msgstr "Bilinmeyen Windows uygulaması: %s."
+
+#: 
+msgid "Your computer and personal data may be vulnerable to a breach when running apps from unknown sources."
+msgstr "Bilinmeyen kaynaklardan edinilmiş dosyaları çalıştırmak bilgisayarınızı tehditlere karşı savunmasız bırakabilir."
+
+#: 
+msgid "Some Windows apps may not be compatible with Windows App Support."
+msgstr "Bazı Windows uygulamaları Windows program desteği ile uyumlu olmayabilir."
+
+#: 
+
+msgid "%s has been installed"
+msgstr "%s kurulumu tamamlandı"
+
+#: 
+
+msgid "Run %s anyway"
+msgstr "%s'i yine de çalıştır"
+
+#: 
+
+msgid "Launch %s"
+msgstr "%s'i çalıştır"
+
+#: 
+
+msgid "Install %s"
+msgstr "%s'i kur"
+
+#: 
+msgid "Install Windows App Support"
+msgstr "Windows program desteğini kur"
+
+#: 
+
+msgid "Install Windows App Support to run %s?"
+msgstr "Windows program desteğini kurup %s'i çalıştırmak ister misiniz?"
+
+#: 
+msgid "Installed"
+msgstr "Kuruldu"

@@ -1,0 +1,100 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: Zorin OS\n"
+"Language: id\n"
+
+#: 
+msgid "Install Linux Application"
+msgstr "Instalasi aplikasi Linux"
+
+#: 
+msgid "Install Linux Applications"
+msgstr "Instalasi beberapa aplikasi linux"
+
+#: 
+msgid "Install Windows Application"
+msgstr "Instal aplikasi Windows"
+
+#: 
+msgid "Install Windows Applications"
+msgstr "Instalasi beberapa aplikasi Windows"
+
+#: 
+
+msgid "Are you sure you want to run %s?"
+msgstr "Anda yakin akan menjalankan %s?"
+
+#: 
+
+msgid "%s is available on Steam"
+msgstr "%s ini tersedia pada Steam"
+
+#: 
+
+msgid "%s is already installed"
+msgstr "%s  ini sudah terinstal"
+
+#: 
+
+msgid "%s can be installed from Software"
+msgstr "%s dapat diinstal"
+
+#: 
+
+msgid "%s is an alternative to %s."
+msgstr "%s ini adalah alternatif lain untuk %s."
+
+#: 
+
+msgid "%s is an unknown package."
+msgstr "%s ini adalah paket aplikasi yang tidak dikenal."
+
+#: 
+
+msgid "%s is an unknown Windows app."
+msgstr "%s ini adalah aplikasi windows yang tidak dikenal."
+
+#: 
+msgid "Your computer and personal data may be vulnerable to a breach when running apps from unknown sources."
+msgstr "Komputer dan data pribadi anda akan rawan dari gangguan malware atau serangan jika menjalankan aplikasi dari sumber yang tidak resmi."
+
+#: 
+msgid "Some Windows apps may not be compatible with Windows App Support."
+msgstr "Beberapa aplikasi mungkin tidak bisa berjalan baik atau tidak kompatibel dengan Windows App Support."
+
+#: 
+
+msgid "%s has been installed"
+msgstr "%s telah terinstal"
+
+#: 
+
+msgid "Run %s anyway"
+msgstr "Jalankan %s kapanpun"
+
+#: 
+
+msgid "Launch %s"
+msgstr "Menjalankan %s"
+
+#: 
+
+msgid "Install %s"
+msgstr "Instal %s"
+
+#: 
+msgid "Install Windows App Support"
+msgstr "Install Windows App Support"
+
+#: 
+
+msgid "Install Windows App Support to run %s?"
+msgstr "Install Windows App Support untuk menjalankan %s?"
+
+#: 
+msgid "Installed"
+msgstr "Diinstal"

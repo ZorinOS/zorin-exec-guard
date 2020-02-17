@@ -1,0 +1,100 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: Zorin OS\n"
+"Language: ga\n"
+
+#: 
+msgid "Install Linux Application"
+msgstr "Suiteáil Feidhmchlár Linux"
+
+#: 
+msgid "Install Linux Applications"
+msgstr "Suiteáil Feidhmchláir Linux"
+
+#: 
+msgid "Install Windows Application"
+msgstr "Suiteáil Feidhmchlár Windows"
+
+#: 
+msgid "Install Windows Applications"
+msgstr "Suiteáil Feidhmchláir Windows"
+
+#: 
+
+msgid "Are you sure you want to run %s?"
+msgstr "An bhfuil tú cinnte gur mian leat %s a fhorghníomhú?"
+
+#: 
+
+msgid "%s is available on Steam"
+msgstr "Tá %s ar fáil ar Steam"
+
+#: 
+
+msgid "%s is already installed"
+msgstr "Tá %s suiteáilte cheana féin"
+
+#: 
+
+msgid "%s can be installed from Software"
+msgstr "Is féidir %s a shuiteáil ó Software"
+
+#: 
+
+msgid "%s is an alternative to %s."
+msgstr "Is malairt é %s ar %s."
+
+#: 
+
+msgid "%s is an unknown package."
+msgstr "Is pacáiste anaithnid é %s."
+
+#: 
+
+msgid "%s is an unknown Windows app."
+msgstr "Feidhmchlár anaithnid Windows is ea %s."
+
+#: 
+msgid "Your computer and personal data may be vulnerable to a breach when running apps from unknown sources."
+msgstr "D'fhéadfadh sé go mbeadh sárú ar do ríomhaire agus ar do shonraí pearsanta nuair a bhíonn feidhmchláir á reáchtáil ó fhoinsí anaithnide."
+
+#: 
+msgid "Some Windows apps may not be compatible with Windows App Support."
+msgstr "B'fhéidir nach mbeidh roinnt feidhmchlár Windows comhoiriúnach le Windows App Support."
+
+#: 
+
+msgid "%s has been installed"
+msgstr "Tá %s suiteáilte"
+
+#: 
+
+msgid "Run %s anyway"
+msgstr "Feidhmigh %s ar aon nós"
+
+#: 
+
+msgid "Launch %s"
+msgstr "Feidhmigh %s"
+
+#: 
+
+msgid "Install %s"
+msgstr "Suiteáil %s"
+
+#: 
+msgid "Install Windows App Support"
+msgstr "Suiteáil Windows App Support"
+
+#: 
+
+msgid "Install Windows App Support to run %s?"
+msgstr "Suiteáil Feidhmchláir Windows App Support chun %s a rith?"
+
+#: 
+msgid "Installed"
+msgstr "Suiteáilte"

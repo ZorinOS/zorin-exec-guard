@@ -1,0 +1,100 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: Zorin OS\n"
+"Language: et\n"
+
+#: 
+msgid "Install Linux Application"
+msgstr "Linux rakendus"
+
+#: 
+msgid "Install Linux Applications"
+msgstr "Paigaldada Linux rakendusi"
+
+#: 
+msgid "Install Windows Application"
+msgstr "Windows rakendus"
+
+#: 
+msgid "Install Windows Applications"
+msgstr "Installige Windowsi rakendusi"
+
+#: 
+
+msgid "Are you sure you want to run %s?"
+msgstr "Kas soovite kindlasti käivitada %s?"
+
+#: 
+
+msgid "%s is available on Steam"
+msgstr "%s on saadaval Steam"
+
+#: 
+
+msgid "%s is already installed"
+msgstr "%s on juba installitud"
+
+#: 
+
+msgid "%s can be installed from Software"
+msgstr "%s saab installida tarkvara"
+
+#: 
+
+msgid "%s is an alternative to %s."
+msgstr "%s on %s asemel."
+
+#: 
+
+msgid "%s is an unknown package."
+msgstr "%s on tundmatu pakett."
+
+#: 
+
+msgid "%s is an unknown Windows app."
+msgstr "%s on tundmatu Windows rakendusi."
+
+#: 
+msgid "Your computer and personal data may be vulnerable to a breach when running apps from unknown sources."
+msgstr "Oma arvutit ja isikuandmeid võib olla vastuvõtlik rikkumisena, kui installitud rakenduste tundmatutest allikatest."
+
+#: 
+msgid "Some Windows apps may not be compatible with Windows App Support."
+msgstr "Mõned Windowsi rakendused ei pruugi ühilduda Windows App tugi."
+
+#: 
+
+msgid "%s has been installed"
+msgstr "%s on paigaldatud"
+
+#: 
+
+msgid "Run %s anyway"
+msgstr "Käivitage %s niikuinii"
+
+#: 
+
+msgid "Launch %s"
+msgstr "Käivitada %s"
+
+#: 
+
+msgid "Install %s"
+msgstr "%s installimine"
+
+#: 
+msgid "Install Windows App Support"
+msgstr "Installige Windows App tugi"
+
+#: 
+
+msgid "Install Windows App Support to run %s?"
+msgstr "Installige Windows App tugi käivitada %s?"
+
+#: 
+msgid "Installed"
+msgstr "Paigaldatud"

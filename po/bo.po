@@ -1,0 +1,100 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: Zorin OS\n"
+"Language: bo\n"
+
+#: 
+msgid "Install Linux Application"
+msgstr "ཨཱིནསྟལལ་Lཨིནུx་ཨཱཔཔླིཅཏིཨོན"
+
+#: 
+msgid "Install Linux Applications"
+msgstr "ཨཱིནསྟལལ་Lཨིནུx་ཨཱཔཔླིཅཏིཨོནས"
+
+#: 
+msgid "Install Windows Application"
+msgstr "ཨཱིནསྟལལ་ཝིནདོཝས་ཨཱཔཔླིཅཏིཨོན"
+
+#: 
+msgid "Install Windows Applications"
+msgstr "ཨཱིནསྟལལ་ཝིནདོཝས་ཨཱཔཔླིཅཏིཨོནས"
+
+#: 
+
+msgid "Are you sure you want to run %s?"
+msgstr "ཨཱརེ་ཡོཨུ་སུརེ་ཡོཨུ་ཝནཏ་ཏོ་རུན་%s་?"
+
+#: 
+
+msgid "%s is available on Steam"
+msgstr "%s་ཨིས་ཨབཻ༹ལབླེ་ཨོན་Sཏེཨམ"
+
+#: 
+
+msgid "%s is already installed"
+msgstr "%s་ཨིས་ཨལྲེཨདཡ་ཨིནསྟལླེད"
+
+#: 
+
+msgid "%s can be installed from Software"
+msgstr "%s་ཅན་བེ་ཨིནསྟལླེད་ཕ༹ྲོམ་Sཨོཕ༹ཏྭརེ"
+
+#: 
+
+msgid "%s is an alternative to %s."
+msgstr "%sཨིས་ཨན་ཨལྟེརྣཏིབེ༹་ཏོ་%s."
+
+#: 
+
+msgid "%s is an unknown package."
+msgstr "%s་ཨིས་ཨན་ཨུནཀནོཝན་པཅཀགེ"
+
+#: 
+
+msgid "%s is an unknown Windows app."
+msgstr "%s་ཨིས་ཨན་ཨུནཀནོཝན་ཝིནདོཝས་ཨཔཔ"
+
+#: 
+msgid "Your computer and personal data may be vulnerable to a breach when running apps from unknown sources."
+msgstr "ཡོཨུར་ཅོམཔུཏེར་ཨནད་པེརསོནལ་དཏ་མཡ་བེ་བུ༹ལནེརབླེ་ཏོ་ཨ་བྲེཨཆ་ཝཧེན་རུནནིང་ཨཔཔས་ཕ༹ྲོམ་ཨུནཀནོཝན་སོཨུརཅེས"
+
+#: 
+msgid "Some Windows apps may not be compatible with Windows App Support."
+msgstr "Sཨོམེ་ཝིནདོཝས་ཨཔཔས་མཡ་ནོཏ་བེ་ཅོམཔཏིབླེ་ཝིཐ་ཝིནདོཝས་ཨཱཔཔ་Sཨུཔཔོརཏ"
+
+#: 
+
+msgid "%s has been installed"
+msgstr "%s་ཧས་བེཨེན་ཨིནསྟལླེད"
+
+#: 
+
+msgid "Run %s anyway"
+msgstr "ཪུན་%s་ཨཉྭཡ"
+
+#: 
+
+msgid "Launch %s"
+msgstr "Lཨཽནཆ་%s"
+
+#: 
+
+msgid "Install %s"
+msgstr "ཨཱིནསྟལལ་%s"
+
+#: 
+msgid "Install Windows App Support"
+msgstr "ཨཱིནསྟལལ་ཝིནདོཝས་ཨཱཔཔ་Sཨུཔཔོརཏ"
+
+#: 
+
+msgid "Install Windows App Support to run %s?"
+msgstr "ཨཱིནསྟལལ་ཝིནདོཝས་ཨཱཔཔ་Sཨུཔཔོརཏ་ཏོ་རུན་%s?"
+
+#: 
+msgid "Installed"
+msgstr "ཨཱིནསྟལླེད"

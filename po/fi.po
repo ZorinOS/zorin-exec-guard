@@ -1,0 +1,100 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: Zorin OS\n"
+"Language: fi\n"
+
+#: 
+msgid "Install Linux Application"
+msgstr "Asenna Linux-sovellus"
+
+#: 
+msgid "Install Linux Applications"
+msgstr "Asenna Linux-sovelluksia"
+
+#: 
+msgid "Install Windows Application"
+msgstr "Asenna Windows-sovellus"
+
+#: 
+msgid "Install Windows Applications"
+msgstr "Asenna Windows-sovelluksia"
+
+#: 
+
+msgid "Are you sure you want to run %s?"
+msgstr "Oletko varma, että haluat suorittaa %s?"
+
+#: 
+
+msgid "%s is available on Steam"
+msgstr "%s on saatavilla Steam:issä"
+
+#: 
+
+msgid "%s is already installed"
+msgstr "%s on jo asennettu"
+
+#: 
+
+msgid "%s can be installed from Software"
+msgstr "%s on asennettavissa Software-sovelluksella"
+
+#: 
+
+msgid "%s is an alternative to %s."
+msgstr "%s on vaihtoehto sovellukselle %s."
+
+#: 
+
+msgid "%s is an unknown package."
+msgstr "%s on tuntematon paketti."
+
+#: 
+
+msgid "%s is an unknown Windows app."
+msgstr "%s on tuntematon Windows-sovellus."
+
+#: 
+msgid "Your computer and personal data may be vulnerable to a breach when running apps from unknown sources."
+msgstr "Suoritettaessa sovelluksia tuntemattomista lähteistä tietokoneesi ja henkilökohtainen datasi voivat olla haavoittuvia tietomurrolle."
+
+#: 
+msgid "Some Windows apps may not be compatible with Windows App Support."
+msgstr "Jotkut Windows-sovellukset voivat olla yhteensopimattomia Windows Sovellustuen kanssa."
+
+#: 
+
+msgid "%s has been installed"
+msgstr "%s on asennettu"
+
+#: 
+
+msgid "Run %s anyway"
+msgstr "Suorita %s kuitenkin"
+
+#: 
+
+msgid "Launch %s"
+msgstr "Käynnistä %s"
+
+#: 
+
+msgid "Install %s"
+msgstr "Asenna %s"
+
+#: 
+msgid "Install Windows App Support"
+msgstr "Asenna Windows Sovellustuki"
+
+#: 
+
+msgid "Install Windows App Support to run %s?"
+msgstr "Asennetaanko Windows Sovellustuki %s:n suorittamiseen?"
+
+#: 
+msgid "Installed"
+msgstr "Asennettu"

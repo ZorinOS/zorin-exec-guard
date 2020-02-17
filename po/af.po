@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: Zorin OS\n"
+"Language: af\n"
+
+#: 
+msgid "Install Linux Application"
+msgstr "Installeer Linux Toepassing"
+
+#: 
+msgid "Install Linux Applications"
+msgstr "Installeer Linux Toepassings"
+
+#: 
+msgid "Install Windows Application"
+msgstr "Installeer Windows Toepassing"
+
+#: 
+msgid "Install Windows Applications"
+msgstr "Installeer Windows Toepassing"
+
+#: 
+
+msgid "Are you sure you want to run %s?"
+msgstr "Is jy seker jy wil %s uitvoer?"
+
+#: 
+
+msgid "%s is available on Steam"
+msgstr "%s is beskikbaar op Steam"
+
+#: 
+
+msgid "%s is already installed"
+msgstr "%s is reeds geïnstalleer"
+
+#: 
+
+msgid "%s can be installed from Software"
+msgstr "%s kan geïnstalleer word vanaf Software"
+
+#: 
+
+msgid "%s is an alternative to %s."
+msgstr "%s is 'n alternatiewe opsie ipv %s."
+
+#: 
+
+msgid "%s is an unknown package."
+msgstr "%s is 'n onbekende pakket."
+
+#: 
+
+msgid "%s is an unknown Windows app."
+msgstr "%s is 'n onbekende Windows toepassing."
+
+#: 
+#, fuzzy
+msgid "Your computer and personal data may be vulnerable to a breach when running apps from unknown sources."
+msgstr "Jou rekenaar en persoonlike data kan kwesbaar vir 'n oortreding wees wanneer hy hardloop programme van onbekende bronne."
+
+#: 
+#, fuzzy
+msgid "Some Windows apps may not be compatible with Windows App Support."
+msgstr "Sommige Windows toepassings mag nie versoenbaar wees met Windows Toepassing Ondersteuning nie."
+
+#: 
+
+msgid "%s has been installed"
+msgstr "%s is geïnstalleer"
+
+#: 
+
+msgid "Run %s anyway"
+msgstr "Hardloop %s buitendien"
+
+#: 
+
+msgid "Launch %s"
+msgstr "Loods %s"
+
+#: 
+
+msgid "Install %s"
+msgstr "Installeer %s"
+
+#: 
+msgid "Install Windows App Support"
+msgstr "Installeer Windows Toepassing Ondersteuning"
+
+#: 
+
+msgid "Install Windows App Support to run %s?"
+msgstr "Windows Toepassing Ondersteuning om %s te hardloop?"
+
+#: 
+msgid "Installed"
+msgstr "Geïnstalleer"

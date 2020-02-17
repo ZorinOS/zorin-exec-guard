@@ -1,0 +1,100 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: Zorin OS\n"
+"Language: ko\n"
+
+#: 
+msgid "Install Linux Application"
+msgstr "리눅스 어플리케이션 설치"
+
+#: 
+msgid "Install Linux Applications"
+msgstr "여러 리눅스 어플리케이션 설치"
+
+#: 
+msgid "Install Windows Application"
+msgstr "윈도우 어플리케이션 설치"
+
+#: 
+msgid "Install Windows Applications"
+msgstr "여러 윈도우 어플리케이션 설치"
+
+#: 
+
+msgid "Are you sure you want to run %s?"
+msgstr "%s을(를) 실행하시겠습니까?"
+
+#: 
+
+msgid "%s is available on Steam"
+msgstr "%s은(는) 스팀에서 이용할 수 있습니다."
+
+#: 
+
+msgid "%s is already installed"
+msgstr "%s은(는) 이미 설치되어있습니다."
+
+#: 
+
+msgid "%s can be installed from Software"
+msgstr "%s는 소프트웨어에서 설치할 수 있습니다."
+
+#: 
+
+msgid "%s is an alternative to %s."
+msgstr "%s은(는) %s를 대체합니다."
+
+#: 
+
+msgid "%s is an unknown package."
+msgstr "%s은(는) 알려지지 않은 패키지입니다."
+
+#: 
+
+msgid "%s is an unknown Windows app."
+msgstr "%s은(는) 알려지지 않은 윈도우 앱입니다."
+
+#: 
+msgid "Your computer and personal data may be vulnerable to a breach when running apps from unknown sources."
+msgstr "알려지지 않은 출처의 앱을 실행하는 것은 컴퓨터와 개인 정보를 위험에 노출시킬 수 있습니다."
+
+#: 
+msgid "Some Windows apps may not be compatible with Windows App Support."
+msgstr "몇몇 윈도우 앱은 호환되지 않을 수 있습니다."
+
+#: 
+
+msgid "%s has been installed"
+msgstr "%s은(는) 이미 설치되어 있습니다."
+
+#: 
+
+msgid "Run %s anyway"
+msgstr "무조건 %s을(를) 실행"
+
+#: 
+
+msgid "Launch %s"
+msgstr "%s 실행"
+
+#: 
+
+msgid "Install %s"
+msgstr "%s 설치"
+
+#: 
+msgid "Install Windows App Support"
+msgstr "윈도우 앱 지원을 설치"
+
+#: 
+
+msgid "Install Windows App Support to run %s?"
+msgstr "%s을(를) 실행하기 위해 윈도우 앱 지원을 설치하시겠습니까?"
+
+#: 
+msgid "Installed"
+msgstr "설치됨"

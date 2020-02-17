@@ -1,0 +1,9 @@
+[Desktop Entry]
+_Name=Install Windows Application
+_GenericName=Install Windows Application
+_Comment=Install Windows Applications
+Exec=zorin-exec-guard-windows %f
+Icon=application-x-executable
+Type=Application
+NoDisplay=true
+MimeType=application/x-ms-dos-executable;application/x-msi

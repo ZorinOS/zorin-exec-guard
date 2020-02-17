@@ -1,0 +1,100 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: Zorin OS\n"
+"Language: ms\n"
+
+#: 
+msgid "Install Linux Application"
+msgstr "Pasang Aplikasi Linux"
+
+#: 
+msgid "Install Linux Applications"
+msgstr "Pasang Aplikasi-aplikasi Linux"
+
+#: 
+msgid "Install Windows Application"
+msgstr "Pasang Aplikasi Windows"
+
+#: 
+msgid "Install Windows Applications"
+msgstr "Pasang Aplikasi-aplikasi Windows"
+
+#: 
+
+msgid "Are you sure you want to run %s?"
+msgstr "Anda pasti mahu mengoperasikan \"%s\" ?"
+
+#: 
+
+msgid "%s is available on Steam"
+msgstr "\"%s\" disediakan dalam Steam"
+
+#: 
+
+msgid "%s is already installed"
+msgstr "\"%s\" telah pun dipasang"
+
+#: 
+
+msgid "%s can be installed from Software"
+msgstr "\"%s\" boleh dipasang melalui Perisian"
+
+#: 
+
+msgid "%s is an alternative to %s."
+msgstr "\"%s\" adalah alternatif kepada \"%s\"."
+
+#: 
+
+msgid "%s is an unknown package."
+msgstr "\"%s\" adalah pakej yang tidak diketahui."
+
+#: 
+
+msgid "%s is an unknown Windows app."
+msgstr "\"%s\" adalah perisian window yang tidak diketahui."
+
+#: 
+msgid "Your computer and personal data may be vulnerable to a breach when running apps from unknown sources."
+msgstr "Komputer dan data peribadi anda mungkin terdedah kepada perlanggaran semasa menggunakan aplikasi dari sumber yang tidak diketahui."
+
+#: 
+msgid "Some Windows apps may not be compatible with Windows App Support."
+msgstr "Sesetengah aplikasi windows mungkin tidak serasi dengan Sokongan Windows App."
+
+#: 
+
+msgid "%s has been installed"
+msgstr "%s telah dipasang"
+
+#: 
+
+msgid "Run %s anyway"
+msgstr "Pelancaran %s juga"
+
+#: 
+
+msgid "Launch %s"
+msgstr "Pelancaran %s"
+
+#: 
+
+msgid "Install %s"
+msgstr "Pasang %s"
+
+#: 
+msgid "Install Windows App Support"
+msgstr "Pasang Sokongan Windows App"
+
+#: 
+
+msgid "Install Windows App Support to run %s?"
+msgstr "Pasang Sokongan Windows App untuk menjalankan %s?"
+
+#: 
+msgid "Installed"
+msgstr "Terpasang"

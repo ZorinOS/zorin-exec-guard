@@ -1,0 +1,21 @@
+Source: zorin-exec-guard
+Section: misc
+Priority: optional
+Standards-Version: 4.1.4
+Maintainer: Artyom Zorin <azorin@zoringroup.com>
+Build-Depends: debhelper (>= 11),
+               dh-translations,
+               dh-python,
+               python3,
+               python3-distutils-extra,
+X-Python3-Version: >= 3.2
+
+Package: zorin-exec-guard
+Architecture: all
+Section: misc
+Priority: extra
+Depends: ${python3:Depends}, ${misc:Depends}, python3-gi, gir1.2-gtk-3.0 (>= 3.12), gir1.2-glib-2.0, gir1.2-flatpak-1.0, python3-apt, python3-aptdaemon, python3-aptdaemon.gtk3widgets
+Recommends: zorin-exec-guard-app-db
+Description: Shows a warning when attempting to run unknown apps
+ Zorin Exec Guard shows a warning when attempting to run unknown Linux or
+ Windows executables and offers more trusted alternatives.

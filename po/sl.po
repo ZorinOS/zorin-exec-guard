@@ -1,0 +1,100 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: Zorin OS\n"
+"Language: sl\n"
+
+#: 
+msgid "Install Linux Application"
+msgstr "Namestite aplikacijo Linux"
+
+#: 
+msgid "Install Linux Applications"
+msgstr "Namestite aplikacije Linux"
+
+#: 
+msgid "Install Windows Application"
+msgstr "Namestite aplikacijo Windows"
+
+#: 
+msgid "Install Windows Applications"
+msgstr "Namestite Windows aplikacije"
+
+#: 
+
+msgid "Are you sure you want to run %s?"
+msgstr "Ali ste prepričani, da želite zagnati %s?"
+
+#: 
+
+msgid "%s is available on Steam"
+msgstr "%s je na voljo v Steam"
+
+#: 
+
+msgid "%s is already installed"
+msgstr "%s je že nameščen"
+
+#: 
+
+msgid "%s can be installed from Software"
+msgstr "%s lahko namestite iz programske opreme"
+
+#: 
+
+msgid "%s is an alternative to %s."
+msgstr "%s je alternativa %s."
+
+#: 
+
+msgid "%s is an unknown package."
+msgstr "%s je neznan paket."
+
+#: 
+
+msgid "%s is an unknown Windows app."
+msgstr "%s je neznana aplikacija za Windows."
+
+#: 
+msgid "Your computer and personal data may be vulnerable to a breach when running apps from unknown sources."
+msgstr "Vaš računalnik in osebni podatki so lahko izpostavljeni kršitvi pri zaganjanju aplikacij iz neznanih virov."
+
+#: 
+msgid "Some Windows apps may not be compatible with Windows App Support."
+msgstr "Nekatere aplikacije za Windows morda niso združljive s podporo za aplikacije Windows."
+
+#: 
+
+msgid "%s has been installed"
+msgstr "%s je nameščen"
+
+#: 
+
+msgid "Run %s anyway"
+msgstr "Vseeno zaženite %s"
+
+#: 
+
+msgid "Launch %s"
+msgstr "Zaženi %s"
+
+#: 
+
+msgid "Install %s"
+msgstr "Namesti %s"
+
+#: 
+msgid "Install Windows App Support"
+msgstr "Namestite podporo za aplikacijo Windows"
+
+#: 
+
+msgid "Install Windows App Support to run %s?"
+msgstr "Namestite podporo za aplikacijo Windows, da zaženete %s?"
+
+#: 
+msgid "Installed"
+msgstr "Nameščen"

@@ -1,0 +1,100 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: Zorin OS\n"
+"Language: uk\n"
+
+#: 
+msgid "Install Linux Application"
+msgstr "Встановити додаток Linux"
+
+#: 
+msgid "Install Linux Applications"
+msgstr "Встановити додатки Linux"
+
+#: 
+msgid "Install Windows Application"
+msgstr "Встановити додаток Windows"
+
+#: 
+msgid "Install Windows Applications"
+msgstr "Встановити додатки Windows"
+
+#: 
+
+msgid "Are you sure you want to run %s?"
+msgstr "Ви впевнені, що хочете запустити %s?"
+
+#: 
+
+msgid "%s is available on Steam"
+msgstr "%s є на Steam"
+
+#: 
+
+msgid "%s is already installed"
+msgstr "%s вже встановлено"
+
+#: 
+
+msgid "%s can be installed from Software"
+msgstr "%s може бути встановлений з програмного забезпечення"
+
+#: 
+
+msgid "%s is an alternative to %s."
+msgstr "%s є альтернативою до %s."
+
+#: 
+
+msgid "%s is an unknown package."
+msgstr "%s є невідомим пакунком."
+
+#: 
+
+msgid "%s is an unknown Windows app."
+msgstr "%s є невідомом додатком Windows."
+
+#: 
+msgid "Your computer and personal data may be vulnerable to a breach when running apps from unknown sources."
+msgstr "Ваш комп'ютер і особисті дані можуть бути уразливі до порушення буде запущено програму з невідомих джерел."
+
+#: 
+msgid "Some Windows apps may not be compatible with Windows App Support."
+msgstr "Підтримка Windows може бути не сумісна з деякими додатками Windows."
+
+#: 
+
+msgid "%s has been installed"
+msgstr "%s встановлено"
+
+#: 
+
+msgid "Run %s anyway"
+msgstr "Все одно виконати %s"
+
+#: 
+
+msgid "Launch %s"
+msgstr "Запустити %s"
+
+#: 
+
+msgid "Install %s"
+msgstr "Встановити %s"
+
+#: 
+msgid "Install Windows App Support"
+msgstr "Встановити підтримку додатку Windows"
+
+#: 
+
+msgid "Install Windows App Support to run %s?"
+msgstr "Установка App підтримки Windows для запуску %s?"
+
+#: 
+msgid "Installed"
+msgstr "Встановлено"

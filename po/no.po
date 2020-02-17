@@ -1,0 +1,100 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: Zorin OS\n"
+"Language: no\n"
+
+#: 
+msgid "Install Linux Application"
+msgstr "Installer Linux-applikasjon"
+
+#: 
+msgid "Install Linux Applications"
+msgstr "Installer Linux-applikasjoner"
+
+#: 
+msgid "Install Windows Application"
+msgstr "Installer Windows-applikasjon"
+
+#: 
+msgid "Install Windows Applications"
+msgstr "Installer Windows-applikasjoner"
+
+#: 
+
+msgid "Are you sure you want to run %s?"
+msgstr "Er du sikker på at du vil kjøre %s?"
+
+#: 
+
+msgid "%s is available on Steam"
+msgstr "%s er tilgjengelig på Steam"
+
+#: 
+
+msgid "%s is already installed"
+msgstr "%s er allerede installert"
+
+#: 
+
+msgid "%s can be installed from Software"
+msgstr "%s kan installeres fra Programvaresenter"
+
+#: 
+
+msgid "%s is an alternative to %s."
+msgstr "%s er et alternativ til %s."
+
+#: 
+
+msgid "%s is an unknown package."
+msgstr "%s er en ukjent pakke."
+
+#: 
+
+msgid "%s is an unknown Windows app."
+msgstr "%s er en ukjent Windows-app."
+
+#: 
+msgid "Your computer and personal data may be vulnerable to a breach when running apps from unknown sources."
+msgstr "Datamaskinen din samt dine personlige data kan være sårbar for angrep ved kjøring av apper fra ukjente kilder."
+
+#: 
+msgid "Some Windows apps may not be compatible with Windows App Support."
+msgstr "Enkelte Windows-apper er kanskje ikke kompatible med Windows-appstøtte."
+
+#: 
+
+msgid "%s has been installed"
+msgstr "%s har blitt installert"
+
+#: 
+
+msgid "Run %s anyway"
+msgstr "Kjør %s likevel"
+
+#: 
+
+msgid "Launch %s"
+msgstr "Start %s"
+
+#: 
+
+msgid "Install %s"
+msgstr "Installer %s"
+
+#: 
+msgid "Install Windows App Support"
+msgstr "Installer Windows-appstøtte"
+
+#: 
+
+msgid "Install Windows App Support to run %s?"
+msgstr "Installere Windows-appstøtte for å kjøre %s?"
+
+#: 
+msgid "Installed"
+msgstr "Installert"

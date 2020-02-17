@@ -1,0 +1,109 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: Zorin OS\n"
+"Language: am\n"
+
+#: 
+msgid "Install Linux Application"
+msgstr "የ Linux ትግበራ ጫን"
+
+#: 
+msgid "Install Linux Applications"
+msgstr "የ Linux መተግበሪያዎች ይጫኑ"
+
+#: 
+msgid "Install Windows Application"
+msgstr "የ Windows ትግበራ ጫን"
+
+#: 
+msgid "Install Windows Applications"
+msgstr "የ Windows መተግበሪያዎችን ጫን"
+
+#: 
+
+msgid "Are you sure you want to run %s?"
+msgstr "እርግጠኛ ነዎት%s መሄድ ይፈልጋሉ?"
+
+#: 
+#, fuzzy
+
+msgid "%s is available on Steam"
+msgstr "%s በ Steam ውስጥ ይገኛል"
+
+#: 
+#, fuzzy
+
+msgid "%s is already installed"
+msgstr "%s አስቀድሞ ተጭኗል"
+
+#: 
+#, fuzzy
+
+msgid "%s can be installed from Software"
+msgstr "%s ከሶፍትዌር ሊጫን ይችላል"
+
+#: 
+
+msgid "%s is an alternative to %s."
+msgstr "%s ለ %s አማራጭ ነው."
+
+#: 
+#, fuzzy
+
+msgid "%s is an unknown package."
+msgstr "%s ያልታወቀ ጥቅል ነው."
+
+#: 
+
+msgid "%s is an unknown Windows app."
+msgstr "% s የማይታወቅ የዊንዶውስ መተግበሪያ ነው."
+
+#: 
+msgid "Your computer and personal data may be vulnerable to a breach when running apps from unknown sources."
+msgstr "ከማይታወቁ ምንጮች መተግበሪያዎችን ሲሄዱ የእርስዎ ኮምፒተርዎ እና የግል ውሂብዎ ለአደጋ ሊጋለጥ ይችላል."
+
+#: 
+msgid "Some Windows apps may not be compatible with Windows App Support."
+msgstr "አንዳንድ የ Windows መተግበሪያዎች ከ Windows መተግበሪያ ድጋፍ ጋር ተኳሃኝ ላይሆኑ ይችላሉ."
+
+#: 
+#, fuzzy
+
+msgid "%s has been installed"
+msgstr "%s ተጭኗል"
+
+#: 
+#, fuzzy
+
+msgid "Run %s anyway"
+msgstr "ለማንኛውም%s አሂድ"
+
+#: 
+#, fuzzy
+
+msgid "Launch %s"
+msgstr "%s ን አስነሳ"
+
+#: 
+#, fuzzy
+
+msgid "Install %s"
+msgstr "%s ጫን"
+
+#: 
+msgid "Install Windows App Support"
+msgstr "የ Windows መተግበሪያ ድጋፍን ይጫኑ"
+
+#: 
+#, fuzzy
+
+msgid "Install Windows App Support to run %s?"
+msgstr "%s ለማሄድ የ Windows መተግበሪያ ድጋፍን ይጫኑ?"
+
+#: 
+msgid "Installed"
+msgstr "ተጭኗል"

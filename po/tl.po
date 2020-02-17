@@ -1,0 +1,100 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: Zorin OS\n"
+"Language: tl\n"
+
+#: 
+msgid "Install Linux Application"
+msgstr "Maglagay ng Application na pang Linux"
+
+#: 
+msgid "Install Linux Applications"
+msgstr "Maglagay ng mga Application na pang Linux"
+
+#: 
+msgid "Install Windows Application"
+msgstr "Maglagay ng Application na pang Windows"
+
+#: 
+msgid "Install Windows Applications"
+msgstr "Maglagay ng mga Application na pang Windows"
+
+#: 
+
+msgid "Are you sure you want to run %s?"
+msgstr "Sigurado ka ba na gusto mong buksan ang %s?"
+
+#: 
+
+msgid "%s is available on Steam"
+msgstr "Mayroong %s sa Steam"
+
+#: 
+
+msgid "%s is already installed"
+msgstr "Ang %s ay na install na"
+
+#: 
+
+msgid "%s can be installed from Software"
+msgstr "Ang %s ay maaaring ma-install galing sa Software"
+
+#: 
+
+msgid "%s is an alternative to %s."
+msgstr "Ang %s ay alternatibo sa %s."
+
+#: 
+
+msgid "%s is an unknown package."
+msgstr "Ang %s ay isang unknown package."
+
+#: 
+
+msgid "%s is an unknown Windows app."
+msgstr "Ang %s ay isang unknown Windows app."
+
+#: 
+msgid "Your computer and personal data may be vulnerable to a breach when running apps from unknown sources."
+msgstr "Ang iyong computer at personal data ay maaaring maging delikado kung bubuksan ang mga app galing sa mga di matukoy na pinanggalingan."
+
+#: 
+msgid "Some Windows apps may not be compatible with Windows App Support."
+msgstr "Ang ilang Windows app ay maaring hindi akma sa Windows App Support."
+
+#: 
+
+msgid "%s has been installed"
+msgstr "Na-install na ang %s"
+
+#: 
+
+msgid "Run %s anyway"
+msgstr "Buksan pa rin ang %s"
+
+#: 
+
+msgid "Launch %s"
+msgstr "Buksan ang %s"
+
+#: 
+
+msgid "Install %s"
+msgstr "I-install ang %s"
+
+#: 
+msgid "Install Windows App Support"
+msgstr "Ilagay ang Windows App Support"
+
+#: 
+
+msgid "Install Windows App Support to run %s?"
+msgstr "Ilagay ang Windows App Support para buksan ang %s?"
+
+#: 
+msgid "Installed"
+msgstr "Na-ilagay na"

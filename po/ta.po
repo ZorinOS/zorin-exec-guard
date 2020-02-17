@@ -1,0 +1,104 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: Zorin OS\n"
+"Language: ta\n"
+
+#: 
+msgid "Install Linux Application"
+msgstr "லினக்ஸ் பயன்பாடுகள் நிறுவவும்"
+
+#: 
+msgid "Install Linux Applications"
+msgstr "லினக்ஸ் பயன்பாடுகள் நிறுவவும்"
+
+#: 
+msgid "Install Windows Application"
+msgstr "விண்டோஸ் பயன்பாடு நிறுவவும்"
+
+#: 
+msgid "Install Windows Applications"
+msgstr "விண்டோஸ் பயன்பாடு நிறுவவும்"
+
+#: 
+#, fuzzy
+
+msgid "Are you sure you want to run %s?"
+msgstr "%s ஐ நிச்சயமாக இயக்க விரும்புகிறீர்களா?"
+
+#: 
+#, fuzzy
+
+msgid "%s is available on Steam"
+msgstr "Steam இல் %s கிடைக்கிறது"
+
+#: 
+#, fuzzy
+
+msgid "%s is already installed"
+msgstr "%s ஏற்கனவே நிறுவப்பட்டுள்ளது"
+
+#: 
+#, fuzzy
+
+msgid "%s can be installed from Software"
+msgstr "%s ஐ மென்பொருளை கொண்டு  நிறுவ முடியும்"
+
+#: 
+
+msgid "%s is an alternative to %s."
+msgstr "%s என்பது %s க்கு ஒரு மாற்று ஆகும்."
+
+#: 
+
+msgid "%s is an unknown package."
+msgstr "%s என்பது அறியப்படாத ஒரு தொகுப்பாகும்."
+
+#: 
+
+msgid "%s is an unknown Windows app."
+msgstr "%s அறியப்படாத விண்டோஸ் பயன்பாடாகும்."
+
+#: 
+msgid "Your computer and personal data may be vulnerable to a breach when running apps from unknown sources."
+msgstr "அறியப்படாத மூலங்களிலிருந்து பெறப்பட்ட பயன்பாடுகளை இயக்கும் பொழுது, உங்கள் கணினி மற்றும்  மீது உங்கள் தனிப்பட்ட தரவுகள் மீது உங்கள் தனியுரிமை மீறப்படலாம்."
+
+#: 
+msgid "Some Windows apps may not be compatible with Windows App Support."
+msgstr "சில விண்டோஸ் செயலிகள் விண்டோஸ் செயலி உதவிக்கு ஒத்துழைக்காமல் இருக்கலாம்."
+
+#: 
+
+msgid "%s has been installed"
+msgstr "%s நிறுவப்பட்டது"
+
+#: 
+
+msgid "Run %s anyway"
+msgstr "எவ்வகையிலேனும் %s ஐ இயக்கவும்"
+
+#: 
+
+msgid "Launch %s"
+msgstr "%s ஐத் தொடங்குங்கள்"
+
+#: 
+
+msgid "Install %s"
+msgstr "%s நிறுவவும்"
+
+#: 
+msgid "Install Windows App Support"
+msgstr "Windows App ஆதரவு நிறுவவும்"
+
+#: 
+
+msgid "Install Windows App Support to run %s?"
+msgstr "%s ஐ இயக்க விண்டோஸ் பயன்பாடு ஆதரவு நிறுவவும்?"
+
+#: 
+msgid "Installed"
+msgstr "நிறுவப்பட்ட"

@@ -1,0 +1,103 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: Zorin OS\n"
+"Language: sr-cyrl\n"
+
+#: 
+msgid "Install Linux Application"
+msgstr "Инсталирајте Линукс апликацију"
+
+
+#: 
+msgid "Install Linux Applications"
+msgstr "Инсталирајте Линукс апликације"
+
+
+#: 
+msgid "Install Windows Application"
+msgstr "Инсталирајте Виндовс апликацију"
+
+#: 
+msgid "Install Windows Applications"
+msgstr "Инсталирајте Виндовс апликације"
+
+#: 
+
+msgid "Are you sure you want to run %s?"
+msgstr "Да ли сте сигурни да желите да покренете %s?"
+
+#: 
+
+msgid "%s is available on Steam"
+msgstr "%s је доступан на Стеам-у"
+
+#: 
+
+msgid "%s is already installed"
+msgstr "%s већ инсталиран"
+
+#: 
+
+msgid "%s can be installed from Software"
+msgstr "%s може се инсталирати из софтвера"
+
+#: 
+
+msgid "%s is an alternative to %s."
+msgstr "%s је алтернатива у %s."
+
+#: 
+
+msgid "%s is an unknown package."
+msgstr "%s је непознат пакет."
+
+#: 
+
+msgid "%s is an unknown Windows app."
+msgstr "%s је непозната Виндовс апликација."
+
+#: 
+msgid "Your computer and personal data may be vulnerable to a breach when running apps from unknown sources."
+msgstr "Ваш рачунар и лични подаци могу бити подложни кршењу приликом покретања апликација из непознатих извора."
+
+#: 
+msgid "Some Windows apps may not be compatible with Windows App Support."
+msgstr "Неке Виндовс апликације можда нису компатибилне са Виндовс Апп подршком."
+
+#: 
+
+msgid "%s has been installed"
+msgstr "%s је инсталиран"
+
+#: 
+
+msgid "Run %s anyway"
+msgstr "покренете %s у сваком случају"
+
+
+#: 
+
+msgid "Launch %s"
+msgstr "Покрени %s"
+
+#: 
+
+msgid "Install %s"
+msgstr "Инсталирај %s"
+
+#: 
+msgid "Install Windows App Support"
+msgstr "Инсталирајте Виндовс Апп подршка"
+
+#: 
+
+msgid "Install Windows App Support to run %s?"
+msgstr "Инсталирајте Виндовс апликације подршку за покретање %s?"
+
+#: 
+msgid "Installed"
+msgstr "Инсталиран"

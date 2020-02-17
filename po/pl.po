@@ -1,0 +1,100 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: Zorin OS\n"
+"Language: pl\n"
+
+#: 
+msgid "Install Linux Application"
+msgstr "Zainstaluj aplikację linuksową"
+
+#: 
+msgid "Install Linux Applications"
+msgstr "Zainstaluj aplikacje linuksowe"
+
+#: 
+msgid "Install Windows Application"
+msgstr "Zainstaluj aplikację z Windows"
+
+#: 
+msgid "Install Windows Applications"
+msgstr "Zainstaluj aplikacje Windows"
+
+#: 
+
+msgid "Are you sure you want to run %s?"
+msgstr "Czy na pewno chcesz uruchomić %s?"
+
+#: 
+
+msgid "%s is available on Steam"
+msgstr "%s jest dostępny na serwisie Steam"
+
+#: 
+
+msgid "%s is already installed"
+msgstr "%s jest już zainstalowany"
+
+#: 
+
+msgid "%s can be installed from Software"
+msgstr "%s może być zainstalowany z Centrum Oprogramowania"
+
+#: 
+
+msgid "%s is an alternative to %s."
+msgstr "%s jest alternatywą dla %s."
+
+#: 
+
+msgid "%s is an unknown package."
+msgstr "%s jest nie znanym pakietem."
+
+#: 
+
+msgid "%s is an unknown Windows app."
+msgstr "%s jest nieznaną aplikacją Windows."
+
+#: 
+msgid "Your computer and personal data may be vulnerable to a breach when running apps from unknown sources."
+msgstr "Twój komputer i dane mogą być zagrożone, gdy uruchomisz aplikację z nieznanego źródła."
+
+#: 
+msgid "Some Windows apps may not be compatible with Windows App Support."
+msgstr "Niektóre aplikacje Windows mogą być niekompatybilne z Windows App Support."
+
+#: 
+
+msgid "%s has been installed"
+msgstr "%s został zainstalowany"
+
+#: 
+
+msgid "Run %s anyway"
+msgstr "Uruchom %s mimo to"
+
+#: 
+
+msgid "Launch %s"
+msgstr "Uruchom %s"
+
+#: 
+
+msgid "Install %s"
+msgstr "Zainstaluj %s"
+
+#: 
+msgid "Install Windows App Support"
+msgstr "Zainstaluj Wsparcie dla Aplikacji Windows"
+
+#: 
+
+msgid "Install Windows App Support to run %s?"
+msgstr "Zainstalować Wsparcie dla Aplikacji Windows aby uruchomić %s?"
+
+#: 
+msgid "Installed"
+msgstr "Zainstalowano"

@@ -1,0 +1,100 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: Zorin OS\n"
+"Language: be\n"
+
+#: 
+msgid "Install Linux Application"
+msgstr "Ўстаноўка Linux Application"
+
+#: 
+msgid "Install Linux Applications"
+msgstr "Ўстаноўка прыкладанняў для Linux"
+
+#: 
+msgid "Install Windows Application"
+msgstr "Ўстаноўка Windows Application"
+
+#: 
+msgid "Install Windows Applications"
+msgstr "Ўстаноўка прыкладанняў Windows"
+
+#: 
+
+msgid "Are you sure you want to run %s?"
+msgstr "Вы ўпэўненыя, што жадаеце запусціць %s?"
+
+#: 
+
+msgid "%s is available on Steam"
+msgstr "%s даступна на Steam"
+
+#: 
+
+msgid "%s is already installed"
+msgstr "%s ужо ўсталяваны"
+
+#: 
+
+msgid "%s can be installed from Software"
+msgstr "%s можа быць усталяваны з Software"
+
+#: 
+
+msgid "%s is an alternative to %s."
+msgstr "%s з'яўляецца альтэрнатывай %s."
+
+#: 
+
+msgid "%s is an unknown package."
+msgstr "%s невядомы пакет."
+
+#: 
+
+msgid "%s is an unknown Windows app."
+msgstr "%s з'яўляецца невядомым прыкладаннем для Windows."
+
+#: 
+msgid "Your computer and personal data may be vulnerable to a breach when running apps from unknown sources."
+msgstr "Ваш кампутар і асабістыя дадзеныя могуць быць ўразлівыя да парушэння пры запуску прыкладанняў з невядомых крыніц."
+
+#: 
+msgid "Some Windows apps may not be compatible with Windows App Support."
+msgstr "Пэўныя праграмы Windows, не могуць быць сумяшчальныя з падтрымкай прыкладанняў Windows."
+
+#: 
+
+msgid "%s has been installed"
+msgstr "Быў усталяваны %s"
+
+#: 
+
+msgid "Run %s anyway"
+msgstr "Запуск %s у любым выпадку"
+
+#: 
+
+msgid "Launch %s"
+msgstr "Запуск %s"
+
+#: 
+
+msgid "Install %s"
+msgstr "Ўсталяваць %s"
+
+#: 
+msgid "Install Windows App Support"
+msgstr "Ўсталяваць падтрымка ўстаноўкі прыкладанняў Windows"
+
+#: 
+
+msgid "Install Windows App Support to run %s?"
+msgstr "Ўсталяваць падтрымка ўстаноўкі прыкладанняў Windows для запуску %s?"
+
+#: 
+msgid "Installed"
+msgstr "Устаноўленая"

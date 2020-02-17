@@ -1,0 +1,101 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: Zorin OS\n"
+"Language: pt-br\n"
+
+#: 
+msgid "Install Linux Application"
+msgstr "Instalar uma aplicação do Linux"
+
+#: 
+msgid "Install Linux Applications"
+msgstr "Instalar aplicações do Linux"
+
+#: 
+msgid "Install Windows Application"
+msgstr "Instalar uma aplicação do Windows"
+
+#: 
+msgid "Install Windows Applications"
+msgstr "Instalar aplicações do Windows"
+
+#: 
+
+msgid "Are you sure you want to run %s?"
+msgstr "Você tem certeza de que deseja executar %s?"
+
+#: 
+
+msgid "%s is available on Steam"
+msgstr "%s está disponível na Steam"
+
+#: 
+
+msgid "%s is already installed"
+msgstr "%s já está instalado"
+
+#. Pode ser instalado por meio do gerenciador de software / may be installed using the software manager
+#: 
+
+msgid "%s can be installed from Software"
+msgstr "%s pode ser instalado por meio de um Software"
+
+#: 
+
+msgid "%s is an alternative to %s."
+msgstr "%s é uma alternativa a %s."
+
+#: 
+
+msgid "%s is an unknown package."
+msgstr "%s é um pacote desconhecido."
+
+#: 
+
+msgid "%s is an unknown Windows app."
+msgstr "%s é um aplicativo desconhecido do Windows."
+
+#: 
+msgid "Your computer and personal data may be vulnerable to a breach when running apps from unknown sources."
+msgstr "Seu computador e seus dados pessoais podem estar vulneráveis ao executar aplicativos de fontes desconhecidas."
+
+#: 
+msgid "Some Windows apps may not be compatible with Windows App Support."
+msgstr "Pode ser que alguns aplicativos do Windows não sejam compatíveis com o Windows App Support."
+
+#: 
+
+msgid "%s has been installed"
+msgstr "%s foi instalado"
+
+#: 
+
+msgid "Run %s anyway"
+msgstr "Execute %s de qualquer forma"
+
+#: 
+
+msgid "Launch %s"
+msgstr "Lançar %s"
+
+#: 
+
+msgid "Install %s"
+msgstr "Instalar %s"
+
+#: 
+msgid "Install Windows App Support"
+msgstr "Instalar o Suporte de Aplicações Windows"
+
+#: 
+
+msgid "Install Windows App Support to run %s?"
+msgstr "Instalar o Suporte de Aplicações Windows para executar %s?"
+
+#: 
+msgid "Installed"
+msgstr "Instalado"

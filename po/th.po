@@ -1,0 +1,112 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: Zorin OS\n"
+"Language: th\n"
+
+#: 
+msgid "Install Linux Application"
+msgstr "ติดตั้ง Linux Application"
+
+#: 
+msgid "Install Linux Applications"
+msgstr "ติดตั้ง Linux Applications"
+
+#: 
+msgid "Install Windows Application"
+msgstr "ติดตั้ง Windows Application"
+
+#: 
+msgid "Install Windows Applications"
+msgstr "ติดตั้ง Windows Applications"
+
+#: 
+#, fuzzy
+
+msgid "Are you sure you want to run %s?"
+msgstr "คุณแน่ใจหรือไม่ว่าต้องการเรียกใช้ %s"
+
+#: 
+#, fuzzy
+
+msgid "%s is available on Steam"
+msgstr "%s พร้อมใช้งานบน Steam"
+
+#: 
+#, fuzzy
+
+msgid "%s is already installed"
+msgstr "ติดตั้ง %s แล้ว"
+
+#: 
+#, fuzzy
+
+msgid "%s can be installed from Software"
+msgstr "%s สามารถติดตั้งได้จากซอฟต์แวร์"
+
+#: 
+#, fuzzy
+
+msgid "%s is an alternative to %s."
+msgstr "%s เป็นทางเลือกแทน %s"
+
+#: 
+#, fuzzy
+
+msgid "%s is an unknown package."
+msgstr "%s เป็นแพ็คเกจที่ไม่รู้จัก"
+
+#: 
+#, fuzzy
+
+msgid "%s is an unknown Windows app."
+msgstr "%s เป็นแอพ Windows ที่ไม่รู้จัก"
+
+#: 
+msgid "Your computer and personal data may be vulnerable to a breach when running apps from unknown sources."
+msgstr "คอมพิวเตอร์และข้อมูลส่วนบุคคลของคุณอาจเสี่ยงต่อการละเมิดเมื่อเรียกใช้แอพจากแหล่งที่ไม่รู้จัก"
+
+#: 
+msgid "Some Windows apps may not be compatible with Windows App Support."
+msgstr "แอพ Windows บางตัวอาจไม่รองรับการใช้งาน Windows App"
+
+#: 
+#, fuzzy
+
+msgid "%s has been installed"
+msgstr "ติดตั้ง %s แล้ว"
+
+#: 
+#, fuzzy
+
+msgid "Run %s anyway"
+msgstr "เรียกใช้ %s ต่อไป"
+
+#: 
+#, fuzzy
+
+msgid "Launch %s"
+msgstr "เปิดตัว %s"
+
+#: 
+#, fuzzy
+
+msgid "Install %s"
+msgstr "ติดตั้ง %s"
+
+#: 
+msgid "Install Windows App Support"
+msgstr "ติดตั้งการสนับสนุน Windows App"
+
+#: 
+#, fuzzy
+
+msgid "Install Windows App Support to run %s?"
+msgstr "ติดตั้ง Windows App Support เพื่อเรียกใช้ %s หรือไม่"
+
+#: 
+msgid "Installed"
+msgstr "การติดตั้ง"

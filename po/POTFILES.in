@@ -1,0 +1,6 @@
+./zorin_exec_guard/exec_guard.py
+./zorin_exec_guard/__init__.py
+./desktop/com.zorin.exec-guard.windows.desktop.in
+./desktop/com.zorin.exec-guard.linux.desktop.in
+./bin/zorin-exec-guard-linux
+./bin/zorin-exec-guard-windows

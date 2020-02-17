@@ -1,0 +1,100 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: Zorin OS\n"
+"Language: lv\n"
+
+#: 
+msgid "Install Linux Application"
+msgstr "Instalējiet Linux lietojumprogrammu"
+
+#: 
+msgid "Install Linux Applications"
+msgstr "Instalējiet Linux lietojumprogrammas"
+
+#: 
+msgid "Install Windows Application"
+msgstr "Instalējiet Windows lietojumprogrammu"
+
+#: 
+msgid "Install Windows Applications"
+msgstr "Instalējiet Windows lietojumprogrammas"
+
+#: 
+
+msgid "Are you sure you want to run %s?"
+msgstr "Vai tiešām vēlaties palaist %s?"
+
+#: 
+
+msgid "%s is available on Steam"
+msgstr "%s ir pieejams Steam"
+
+#: 
+
+msgid "%s is already installed"
+msgstr "%s jau ir instalēts"
+
+#: 
+
+msgid "%s can be installed from Software"
+msgstr "%s var instalēt no Software"
+
+#: 
+
+msgid "%s is an alternative to %s."
+msgstr "%s ir alternatīva %s."
+
+#: 
+
+msgid "%s is an unknown package."
+msgstr "%s ir nezināma pakete."
+
+#: 
+
+msgid "%s is an unknown Windows app."
+msgstr "%s ir nezināma Windows lietotne."
+
+#: 
+msgid "Your computer and personal data may be vulnerable to a breach when running apps from unknown sources."
+msgstr "Dators un personas dati var būt neaizsargāti pret pārkāpumiem, ja lietojat lietotnes no nezināmiem avotiem."
+
+#: 
+msgid "Some Windows apps may not be compatible with Windows App Support."
+msgstr "Dažas Windows lietotnes var nebūt saderīgas ar Windows Lietotņu Atbalstu."
+
+#: 
+
+msgid "%s has been installed"
+msgstr "%s ir instalēta"
+
+#: 
+
+msgid "Run %s anyway"
+msgstr "Jebkurā gadījumā uzsākt %s"
+
+#: 
+
+msgid "Launch %s"
+msgstr "Uzsākt %s"
+
+#: 
+
+msgid "Install %s"
+msgstr "Instalējiet %s"
+
+#: 
+msgid "Install Windows App Support"
+msgstr "Instalējiet Windows Lietotņu Atbalstu"
+
+#: 
+
+msgid "Install Windows App Support to run %s?"
+msgstr "Lai instalētu %s, instalējiet Windows Lietotņu Atbalstu?"
+
+#: 
+msgid "Installed"
+msgstr "Instalēts"

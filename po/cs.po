@@ -1,0 +1,103 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: Zorin OS\n"
+"Language: cs\n"
+
+#: 
+msgid "Install Linux Application"
+msgstr "Nainstalovat Linuxovou aplikaci"
+
+#: 
+msgid "Install Linux Applications"
+msgstr "Nainstalovat Linuxové aplikace"
+
+#. Nainstalovat aplikaci pro Windows
+#: 
+msgid "Install Windows Application"
+msgstr "Nainstalovat aplikaci pro Windows"
+
+#. Nainstalovat aplikace pro Windows
+#: 
+msgid "Install Windows Applications"
+msgstr "Nainstalovat aplikace pro Windows"
+
+#: 
+
+msgid "Are you sure you want to run %s?"
+msgstr "Jste si jistí, že chcete spustit %s?"
+
+#: 
+
+msgid "%s is available on Steam"
+msgstr "%s je k dispozici na Steamu"
+
+#: 
+
+msgid "%s is already installed"
+msgstr "%s je již nainstalován"
+
+#: 
+
+msgid "%s can be installed from Software"
+msgstr "%s může být nainstalován ze Softwarového manageru"
+
+#: 
+
+msgid "%s is an alternative to %s."
+msgstr "%s je alternativou k %s."
+
+#: 
+
+msgid "%s is an unknown package."
+msgstr "%s je neznámým balíčkem."
+
+#: 
+
+msgid "%s is an unknown Windows app."
+msgstr "%s je neznáma aplikace pro Windows."
+
+#: 
+msgid "Your computer and personal data may be vulnerable to a breach when running apps from unknown sources."
+msgstr "Spouštěním aplikací z neznámých zdrojů můžete ohrozit bezpečnost vašeho počítače a vašich dat."
+
+#: 
+msgid "Some Windows apps may not be compatible with Windows App Support."
+msgstr "Některé aplikace pro Windows mohou být nekompatibilní se systémem podpory aplikací pro Windows."
+
+#: 
+
+msgid "%s has been installed"
+msgstr "%s byl nainstalován"
+
+#: 
+
+msgid "Run %s anyway"
+msgstr "Přesto spustit %s"
+
+#: 
+
+msgid "Launch %s"
+msgstr "Spustit %s"
+
+#: 
+
+msgid "Install %s"
+msgstr "Nainstalovat %s"
+
+#: 
+msgid "Install Windows App Support"
+msgstr "Nainstalovat podporu aplikací pro Windows"
+
+#. "aby jste" není česky - správný tvar je "abyste"
+#: 
+
+msgid "Install Windows App Support to run %s?"
+msgstr "Nainstalovat podporu aplikací pro Windows, aby bylo možné spustit %s?"
+
+#: 
+msgid "Installed"
+msgstr "Nainstalováno"

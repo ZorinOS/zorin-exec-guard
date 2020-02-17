@@ -1,0 +1,57 @@
+#!/usr/bin/python3
+
+# This file is part of the Zorin Exec Guard program.
+#
+# Copyright 2018 Zorin OS Technologies Ltd.
+#
+# This program is free software you can redistribute it and/or modify it
+# under the terms and conditions of the GNU General Public License,
+# version 3, as published by the Free Software Foundation.
+#
+# This program is distributed in the hope it will be useful, but WITHOUT ANY
+# WARRANTY without even the implied warranty of MERCHANTABILITY or FITNESS
+# FOR A PARTICULAR PURPOSE.  See the GNU Lesser General Public License for
+# more details.
+
+import gi
+import gettext
+import sys
+
+gi.require_version('Gtk', '3.0')
+from gi.repository import Gtk, Gio, GLib
+
+import zorin_exec_guard.exec_guard as ZorinExecGuard
+
+t = gettext.translation('zorin-exec-guard', '/usr/share/locale',
+                        fallback=True)
+_ = t.gettext
+
+
+class ExecGuardApplicationLinux(ZorinExecGuard.ExecGuardApplication):
+
+    APP_ID = 'com.zorin.exec-guard.linux'
+
+    def _launch_executable(self, widget):
+        ZorinExecGuard.spawn_process(['gnome-software', '--local-filename', self.executable["path"]])
+        self.quit()
+
+    def _get_buttons(self, box):
+        button = None
+
+        button = Gtk.Button(label=_("Run %s anyway") % ZorinExecGuard.truncate_with_ellipses(self.executable["filename"], ZorinExecGuard.MAX_EXEC_CHAR_LENGTH))
+        button.connect('clicked', self._launch_executable)
+        button.get_style_context().add_class('destructive-action')
+        box.add(button)
+
+        super(ExecGuardApplicationLinux, self)._get_buttons(box)
+
+def main(argv):
+    executable = ZorinExecGuard.get_executable(argv)
+
+    if not executable:
+        print('No argument provided - exiting')
+        return 1
+
+    return (ExecGuardApplicationLinux({"executable": executable, "platform": "linux"})).run(None)
+
+main(sys.argv)
