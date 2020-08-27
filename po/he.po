@@ -9,29 +9,29 @@ msgstr ""
 
 #: 
 msgid "Install Linux Application"
-msgstr "התקנת אפליקצית לינוקס"
+msgstr "התקנת יישום לינוקס"
 
 #: 
 msgid "Install Linux Applications"
-msgstr "התקנת אפליקציות לינוקס"
+msgstr "התקנת יישומי לינוקס"
 
 #: 
 msgid "Install Windows Application"
-msgstr "התקנת אפליקצית ווינדוס"
+msgstr "התקנת יישום Windows"
 
 #: 
 msgid "Install Windows Applications"
-msgstr "התקנת אפליקציות ווינדוס"
+msgstr "התקנת יישומי Windows"
 
 #: 
 
 msgid "Are you sure you want to run %s?"
-msgstr "האם אתה בטוח שאתה רוצה להעריץ %s"
+msgstr "האם הנך בטוח/ה שברצונך להריץ את %s"
 
 #: 
 
 msgid "%s is available on Steam"
-msgstr "%s Steam זמין ב"
+msgstr "%s זמין ב־Steam"
 
 #: 
 
@@ -41,22 +41,22 @@ msgstr "%s כבר מותקן"
 #: 
 
 msgid "%s can be installed from Software"
-msgstr "%s יכול להיות מותקן ממרכז תוכנות"
+msgstr "ניתן להתקין את %s ממרכז התכנה"
 
 #: 
 
 msgid "%s is an alternative to %s."
-msgstr "%s היא חלופה ל %s."
+msgstr "%s הוא חלופה עבור %s."
 
 #: 
 
 msgid "%s is an unknown package."
-msgstr "%s חבילה אינה מוכרת."
+msgstr "%s היא חבילה לא ידועה."
 
 #: 
 
 msgid "%s is an unknown Windows app."
-msgstr "%s הינה אפליקציה לא מוכרת."
+msgstr "%s היא חבילת Windows לא ידועה."
 
 #: 
 msgid "Your computer and personal data may be vulnerable to a breach when running apps from unknown sources."
@@ -64,7 +64,7 @@ msgstr "המחשב והנתונים האישיים שלך עלולים להיו�
 
 #: 
 msgid "Some Windows apps may not be compatible with Windows App Support."
-msgstr "ייתכן שיישומי ווינדוס מסוימים אינם תואמים לתמיכת אפליקציות ווינדוס."
+msgstr "ייתכן שיישומי Windows מסוימים אינם תואמים לתמיכת יישומי Windows."
 
 #: 
 
@@ -88,12 +88,12 @@ msgstr "התקן %s"
 
 #: 
 msgid "Install Windows App Support"
-msgstr "התקן תמיכת אפליקצית ווינדוס"
+msgstr "התקן תמיכת אפליקצית Windows"
 
 #: 
 
 msgid "Install Windows App Support to run %s?"
-msgstr "התקן תמיכת אפליקצית ווינדוס להריץ %s"
+msgstr "התקן תמיכת אפליקצית Windows להריץ %s"
 
 #: 
 msgid "Installed"
