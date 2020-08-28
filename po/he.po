@@ -56,7 +56,7 @@ msgstr "%s היא חבילה לא ידועה."
 #: 
 
 msgid "%s is an unknown Windows app."
-msgstr "%s היא חבילת Windows לא ידועה."
+msgstr "%s הוא יישום Windows לא ידוע."
 
 #: 
 msgid "Your computer and personal data may be vulnerable to a breach when running apps from unknown sources."
@@ -74,26 +74,26 @@ msgstr "%s הותקן בהצלחה"
 #: 
 
 msgid "Run %s anyway"
-msgstr "הרץ %s בכל מקרה"
+msgstr "הרצה %s בכל מקרה"
 
 #: 
 
 msgid "Launch %s"
-msgstr "הפעל %s"
+msgstr "הפעלת %s"
 
 #: 
 
 msgid "Install %s"
-msgstr "התקן %s"
+msgstr "התקנת %s"
 
 #: 
 msgid "Install Windows App Support"
-msgstr "התקן תמיכת אפליקצית Windows"
+msgstr "התקנת תמיכה ביישומי Windows"
 
 #: 
 
 msgid "Install Windows App Support to run %s?"
-msgstr "התקן תמיכת אפליקצית Windows להריץ %s"
+msgstr "להתקין תמיכה ביישומי Windows כדי להריץ את %s"
 
 #: 
 msgid "Installed"
