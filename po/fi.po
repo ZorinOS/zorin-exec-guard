@@ -98,3 +98,9 @@ msgstr "Asennetaanko Windows Sovellustuki %s:n suorittamiseen?"
 #: 
 msgid "Installed"
 msgstr "Asennettu"
+
+msgid "Archive Manager"
+msgstr "Pakettienkäsittely"
+
+msgid "Document Viewer"
+msgstr "Asiakirjakatselin"

@@ -98,3 +98,9 @@ msgstr "Инсталиране на 'Поддръжка за Windows Прило�
 #: 
 msgid "Installed"
 msgstr "Инсталирано"
+
+msgid "Archive Manager"
+msgstr "Архиватор"
+
+msgid "Document Viewer"
+msgstr "Преглед на документи"

@@ -98,3 +98,9 @@ msgstr "Kívánja a Windows Alkalmazástámogatást feltelepíteni a %s futtatá
 #: 
 msgid "Installed"
 msgstr "Telepítve"
+
+msgid "Archive Manager"
+msgstr "Archívumkezelő"
+
+msgid "Document Viewer"
+msgstr "Dokumentummegjelenítő"

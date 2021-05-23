@@ -98,3 +98,9 @@ msgstr "您要安装Windows应用运行器以便运行%s吗？"
 #: 
 msgid "Installed"
 msgstr "安装完成"
+
+msgid "Archive Manager"
+msgstr "归档管理器"
+
+msgid "Document Viewer"
+msgstr "文档查看器"

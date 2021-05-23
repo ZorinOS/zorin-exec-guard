@@ -98,3 +98,9 @@ msgstr "%s চালানোর জন্য উইন্ডোজ এপ্ল
 #: 
 msgid "Installed"
 msgstr "ইনস্টল হয়েছে"
+
+msgid "Archive Manager"
+msgstr "আর্কাইভ ম্যানেজার"
+
+msgid "Document Viewer"
+msgstr "নথি প্রদর্শক"

@@ -98,3 +98,9 @@ msgstr "Pasang Sokongan Windows App untuk menjalankan %s?"
 #: 
 msgid "Installed"
 msgstr "Terpasang"
+
+msgid "Archive Manager"
+msgstr "Pengurus Arkib"
+
+msgid "Document Viewer"
+msgstr "Pelihat Dokumen"

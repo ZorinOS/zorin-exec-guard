@@ -101,3 +101,9 @@ msgstr "Nainstalovat podporu aplikací pro Windows, aby bylo možné spustit %s?
 #: 
 msgid "Installed"
 msgstr "Nainstalováno"
+
+msgid "Archive Manager"
+msgstr "Správa archivů"
+
+msgid "Document Viewer"
+msgstr "Prohlížeč dokumentů"

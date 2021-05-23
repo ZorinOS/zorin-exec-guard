@@ -110,3 +110,9 @@ msgstr "ติดตั้ง Windows App Support เพื่อเรียก
 #: 
 msgid "Installed"
 msgstr "การติดตั้ง"
+
+msgid "Archive Manager"
+msgstr "โปรแกรมจัดการแฟ้มจัดเก็บ"
+
+msgid "Document Viewer"
+msgstr "โปรแกรมดูเอกสาร"

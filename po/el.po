@@ -98,3 +98,9 @@ msgstr "Εγκατάσταση της υποστήριξης εφαρμογών 
 #: 
 msgid "Installed"
 msgstr "Εγκαταστήθηκε"
+
+msgid "Archive Manager"
+msgstr "Διαχειριστής συμπιεσμένων αρχείων"
+
+msgid "Document Viewer"
+msgstr "Προβολή εγγράφων"

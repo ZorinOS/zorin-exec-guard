@@ -98,3 +98,9 @@ msgstr "Suiteáil Feidhmchláir Windows App Support chun %s a rith?"
 #: 
 msgid "Installed"
 msgstr "Suiteáilte"
+
+msgid "Archive Manager"
+msgstr "Bainisteoir Cartlann"
+
+msgid "Document Viewer"
+msgstr "Amharcán Cáipéisí"

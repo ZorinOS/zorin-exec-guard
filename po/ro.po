@@ -98,3 +98,9 @@ msgstr "Instalați Suportul pentru aplicații Windows pentru a rula %s"
 #: 
 msgid "Installed"
 msgstr "Instalat"
+
+msgid "Archive Manager"
+msgstr "Administrator de arhive"
+
+msgid "Document Viewer"
+msgstr "Vizualizator de documente"

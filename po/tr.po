@@ -98,3 +98,9 @@ msgstr "Windows program desteğini kurup %s'i çalıştırmak ister misiniz?"
 #: 
 msgid "Installed"
 msgstr "Kuruldu"
+
+msgid "Archive Manager"
+msgstr "Arşiv Yöneticisi"
+
+msgid "Document Viewer"
+msgstr "Belge Görüntüleyici"

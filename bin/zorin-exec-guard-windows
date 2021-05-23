@@ -44,7 +44,7 @@ class ExecGuardApplicationWindows(ZorinExecGuard.ExecGuardApplication):
         self.window.hide()
         package_install = ZorinExecGuard.AptInstallation(WINDOWS_APP_SUPPORT)
         package_install.connect("finished", self._launch_executable)
-        package_install.run()
+        package_install.do_update() # Update cache before installing to avoid missing dependencies error
 
     def _get_main_message(self):
         if (not is_wine_installed()) and (not self.replacement):
@@ -78,12 +78,10 @@ class ExecGuardApplicationWindows(ZorinExecGuard.ExecGuardApplication):
         if is_wine_installed():
             button = Gtk.Button(label=_("Run %s anyway") % ZorinExecGuard.truncate_with_ellipses(self.executable["filename"], ZorinExecGuard.MAX_EXEC_CHAR_LENGTH))
             button.connect('clicked', self._launch_executable)
-            button.get_style_context().add_class('destructive-action')
             box.add(button)
         else:
             button = Gtk.Button(label=_("Install Windows App Support"))
             button.connect('clicked',self._install_windows_app_support)
-            button.get_style_context().add_class('destructive-action')
             box.add(button)
 
         super(ExecGuardApplicationWindows, self)._get_buttons(box)

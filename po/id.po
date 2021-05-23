@@ -98,3 +98,9 @@ msgstr "Install Windows App Support untuk menjalankan %s?"
 #: 
 msgid "Installed"
 msgstr "Diinstal"
+
+msgid "Archive Manager"
+msgstr "Manajer Arsip"
+
+msgid "Document Viewer"
+msgstr "Penampil Dokumen"

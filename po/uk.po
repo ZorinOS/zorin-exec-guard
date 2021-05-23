@@ -98,3 +98,9 @@ msgstr "Установка App підтримки Windows для запуску 
 #: 
 msgid "Installed"
 msgstr "Встановлено"
+
+msgid "Archive Manager"
+msgstr "Менеджер архівів"
+
+msgid "Document Viewer"
+msgstr "Переглядач документів"

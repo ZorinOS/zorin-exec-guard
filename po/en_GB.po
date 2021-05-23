@@ -73,3 +73,9 @@ msgstr ""
 
 msgid "Installed"
 msgstr ""
+
+msgid "Archive Manager"
+msgstr "Archive Manager"
+
+msgid "Document Viewer"
+msgstr "Document Viewer"

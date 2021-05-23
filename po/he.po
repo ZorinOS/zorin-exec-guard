@@ -98,3 +98,9 @@ msgstr "להתקין תמיכה ביישומי Windows כדי להריץ את %s
 #: 
 msgid "Installed"
 msgstr "מותקן"
+
+msgid "Archive Manager"
+msgstr "מנהל הארכיונים"
+
+msgid "Document Viewer"
+msgstr "מציג מסמכים"

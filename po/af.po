@@ -100,3 +100,9 @@ msgstr "Windows Toepassing Ondersteuning om %s te hardloop?"
 #: 
 msgid "Installed"
 msgstr "Geïnstalleer"
+
+msgid "Archive Manager"
+msgstr "Argiefbestuurder"
+
+msgid "Document Viewer"
+msgstr "Dokumentbekyker"

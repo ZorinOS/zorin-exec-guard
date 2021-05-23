@@ -98,3 +98,9 @@ msgstr "Установить Поддержку Приложений Windows, ч
 #: 
 msgid "Installed"
 msgstr "Установлено"
+
+msgid "Archive Manager"
+msgstr "Менеджер архивов"
+
+msgid "Document Viewer"
+msgstr "Просмотр документов"

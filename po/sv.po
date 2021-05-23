@@ -98,3 +98,9 @@ msgstr "Installera stöd för Windowsprogram för att köra %s?"
 #: 
 msgid "Installed"
 msgstr "Installerad"
+
+msgid "Archive Manager"
+msgstr "Arkivhanterare"
+
+msgid "Document Viewer"
+msgstr "Dokumentvisare"

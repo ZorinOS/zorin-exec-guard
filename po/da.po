@@ -98,3 +98,9 @@ msgstr "Installere Windows Program Støtte for at køre %s?"
 #: 
 msgid "Installed"
 msgstr "Installeret"
+
+msgid "Archive Manager"
+msgstr "Arkivhåndtering"
+
+msgid "Document Viewer"
+msgstr "Dokumentfremviser"

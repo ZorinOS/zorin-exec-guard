@@ -98,3 +98,9 @@ msgstr "Zainstalować Wsparcie dla Aplikacji Windows aby uruchomić %s?"
 #: 
 msgid "Installed"
 msgstr "Zainstalowano"
+
+msgid "Archive Manager"
+msgstr "Archiwa"
+
+msgid "Document Viewer"
+msgstr "Przeglądarka dokumentów"

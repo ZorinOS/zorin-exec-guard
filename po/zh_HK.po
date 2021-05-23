@@ -98,3 +98,9 @@ msgstr "安裝Windows應用程式支援以運行%s？"
 #: 
 msgid "Installed"
 msgstr "已安裝"
+
+msgid "Archive Manager"
+msgstr "壓縮檔管理員"
+
+msgid "Document Viewer"
+msgstr "文件檢視器"

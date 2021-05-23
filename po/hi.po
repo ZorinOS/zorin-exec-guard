@@ -99,3 +99,9 @@ msgstr "%s को चलाने के लिए विंडोज ऐप स
 #: 
 msgid "Installed"
 msgstr "स्थापित है"
+
+msgid "Archive Manager"
+msgstr "अभिलेख प्रबंधक"
+
+msgid "Document Viewer"
+msgstr "लेखपत्र प्रदर्शक"

@@ -98,3 +98,9 @@ msgstr "Installiere Windows Programmunterstützung um %s zu starten"
 #: 
 msgid "Installed"
 msgstr "Installiert"
+
+msgid "Archive Manager"
+msgstr "Archivverwaltung"
+
+msgid "Document Viewer"
+msgstr "Dokumentenbetrachter"

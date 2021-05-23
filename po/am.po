@@ -107,3 +107,6 @@ msgstr "%s ለማሄድ የ Windows መተግበሪያ ድጋፍን ይጫኑ?"
 #: 
 msgid "Installed"
 msgstr "ተጭኗል"
+
+msgid "Archive Manager"
+msgstr "የመዝገብ ቤት መቆጣጠሪያ"

@@ -98,3 +98,9 @@ msgstr "Namestite podporo za aplikacijo Windows, da zaženete %s?"
 #: 
 msgid "Installed"
 msgstr "Nameščen"
+
+msgid "Archive Manager"
+msgstr "Upravljalnik arhivov"
+
+msgid "Document Viewer"
+msgstr "Pregledovalnik dokumentov"

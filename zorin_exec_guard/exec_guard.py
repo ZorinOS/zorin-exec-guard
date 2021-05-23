@@ -1,6 +1,6 @@
 # This file is part of the Zorin Exec Guard program.
 #
-# Copyright 2018 Zorin OS Technologies Ltd.
+# Copyright 2018-2021 Zorin OS Technologies Ltd.
 #
 # This program is free software you can redistribute it and/or modify it
 # under the terms and conditions of the GNU General Public License,
@@ -201,11 +201,13 @@ class ExecGuardApplication(Gtk.Application):
         if self._replacement_installed:
             button = Gtk.Button(visible=True, label=_("Launch %s") % name)
             button.connect('clicked', application.launch_replacement_app)
+            button.get_style_context().add_class('suggested-action')
             box.add(button)
             return
         else:
             button = Gtk.Button(visible=True, label=_("Install %s") % name)
             button.connect('clicked', application.install_replacement_app)
+            button.get_style_context().add_class('suggested-action')
             box.add(button)
             return
 
@@ -321,7 +323,10 @@ class AptInstallation(GObject.GObject):
                 replacement_desktop = Gio.DesktopAppInfo.new(self.replacement["desktopLauncher"])
                 launch_desktop_app(replacement_desktop)
             except:
-                self.finished_dialog(_("%s has been installed") % self.replacement["name"])
+                installed_package_name = self.replacement["name"]
+                if "alternative" in self.replacement:
+                    installed_package_name = self.replacement["alternative"]["name"]
+                self.finished_dialog(_("%s has been installed") % installed_package_name)
 
         self.emit("finished")
 

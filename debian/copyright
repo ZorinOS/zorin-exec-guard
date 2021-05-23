@@ -2,7 +2,7 @@ Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: Zorin Exec Guard
 
 Files: *
-Copyright: 2018 Zorin OS Technologies Ltd.
+Copyright: 2018-2021 Zorin OS Technologies Ltd.
 License: GPL-3+
 
 License: GPL-3+

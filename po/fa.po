@@ -98,3 +98,9 @@ msgstr "آیا می‌خواهید Windows App Support را برای اجرای 
 #: 
 msgid "Installed"
 msgstr "نصب‌شده"
+
+msgid "Archive Manager"
+msgstr "مدیر بایگانی"
+
+msgid "Document Viewer"
+msgstr "نمایشگر سند"

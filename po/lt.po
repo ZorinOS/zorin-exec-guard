@@ -98,3 +98,9 @@ msgstr "Įdiegti Windows App Support, kad paleisti %s?"
 #: 
 msgid "Installed"
 msgstr "Įdiegta"
+
+msgid "Archive Manager"
+msgstr "Archyvų tvarkymo programa"
+
+msgid "Document Viewer"
+msgstr "Dokumentų peržiūros programa"

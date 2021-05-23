@@ -103,3 +103,9 @@ msgstr "%s ચલાવવા માટે વિન્ડોઝ એપ્લિ
 #: 
 msgid "Installed"
 msgstr "ઇન્સ્ટોલ કરેલું"
+
+msgid "Archive Manager"
+msgstr "પેટીનો વ્યવસ્થાપક"
+
+msgid "Document Viewer"
+msgstr "દસ્તાવેજ દર્શક"

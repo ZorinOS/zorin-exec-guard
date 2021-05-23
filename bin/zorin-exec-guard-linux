@@ -40,7 +40,6 @@ class ExecGuardApplicationLinux(ZorinExecGuard.ExecGuardApplication):
 
         button = Gtk.Button(label=_("Run %s anyway") % ZorinExecGuard.truncate_with_ellipses(self.executable["filename"], ZorinExecGuard.MAX_EXEC_CHAR_LENGTH))
         button.connect('clicked', self._launch_executable)
-        button.get_style_context().add_class('destructive-action')
         box.add(button)
 
         super(ExecGuardApplicationLinux, self)._get_buttons(box)

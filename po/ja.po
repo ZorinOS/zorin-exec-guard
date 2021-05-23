@@ -98,3 +98,9 @@ msgstr "%sを実行するためにWindows App Supportをインストールしま
 #: 
 msgid "Installed"
 msgstr "インストールしました"
+
+msgid "Archive Manager"
+msgstr "アーカイブマネージャー"
+
+msgid "Document Viewer"
+msgstr "ドキュメントビューアー"

@@ -98,3 +98,9 @@ msgstr "Instalirajte Vindovs Podrška za aplikacije za instalaciju %s?"
 #: 
 msgid "Installed"
 msgstr "Instalirano"
+
+msgid "Archive Manager"
+msgstr "Upravljač arhivom"
+
+msgid "Document Viewer"
+msgstr "Pregledač dokumenata"

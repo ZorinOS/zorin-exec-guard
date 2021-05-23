@@ -98,3 +98,9 @@ msgstr "Инсталирајте Windows App Support за да покренит�
 #: 
 msgid "Installed"
 msgstr "Инсталирано"
+
+msgid "Archive Manager"
+msgstr "Менаџер на архиви"
+
+msgid "Document Viewer"
+msgstr "Прегледувач за документи"

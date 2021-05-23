@@ -98,3 +98,9 @@ msgstr "%s을(를) 실행하기 위해 윈도우 앱 지원을 설치하시겠�
 #: 
 msgid "Installed"
 msgstr "설치됨"
+
+msgid "Archive Manager"
+msgstr "압축 관리자"
+
+msgid "Document Viewer"
+msgstr "문서 보기"

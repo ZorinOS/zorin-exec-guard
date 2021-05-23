@@ -98,3 +98,9 @@ msgstr "Cài đặt Windows App Support để chạy %s chứ?"
 #: 
 msgid "Installed"
 msgstr "Đã cài đặt"
+
+msgid "Archive Manager"
+msgstr "Quản lý kho nén"
+
+msgid "Document Viewer"
+msgstr "Xem tài liệu"

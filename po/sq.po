@@ -98,3 +98,9 @@ msgstr "Instaloni Windows App Mbështetje për të drejtuar %s?"
 #: 
 msgid "Installed"
 msgstr "Instaluar"
+
+msgid "Archive Manager"
+msgstr "Menazhues arkivësh"
+
+msgid "Document Viewer"
+msgstr "Shikues dokumentesh"

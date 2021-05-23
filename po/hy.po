@@ -98,3 +98,6 @@ msgstr "Տեղադրել Windows App Support-ը՝ %s գործարկելու հա
 #: 
 msgid "Installed"
 msgstr "Տեղադրված է"
+
+msgid "Archive Manager"
+msgstr "Արխիվի մենեջեր"

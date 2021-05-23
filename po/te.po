@@ -102,3 +102,9 @@ msgstr "%s ను అమలు చేయడానికి Windows App మద్
 #: 
 msgid "Installed"
 msgstr "ఇన్స్టాల్"
+
+msgid "Archive Manager"
+msgstr "సంగ్రహ నిర్వాహకం"
+
+msgid "Document Viewer"
+msgstr "పత్ర వీక్షకం"

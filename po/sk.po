@@ -117,3 +117,9 @@ msgstr "Nainštalujte Windows podporu aplikácií na spustenie %s?"
 #, fuzzy
 msgid "Installed"
 msgstr "Nainštalovaný"
+
+msgid "Archive Manager"
+msgstr "Správca archívov"
+
+msgid "Document Viewer"
+msgstr "Prehliadač dokumentov"

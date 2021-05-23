@@ -98,3 +98,9 @@ msgstr "Installeer Windows App Support om %s uit te voeren?"
 #: 
 msgid "Installed"
 msgstr "Geínstalleerd"
+
+msgid "Archive Manager"
+msgstr "Archiefbeheer"
+
+msgid "Document Viewer"
+msgstr "Documentweergave"

@@ -98,3 +98,9 @@ msgstr "Installare l'applicazione Windows Support per eseguire %s?"
 #: 
 msgid "Installed"
 msgstr "Installato"
+
+msgid "Archive Manager"
+msgstr "Gestore di archivi"
+
+msgid "Document Viewer"
+msgstr "Visualizzatore documenti"

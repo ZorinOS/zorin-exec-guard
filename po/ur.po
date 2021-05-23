@@ -100,3 +100,6 @@ msgstr "%s چلانے کیلئے ونڈوز اپلی کیشن انسٹال کر�
 #: 
 msgid "Installed"
 msgstr "انسٹال"
+
+msgid "Archive Manager"
+msgstr "محفوظہ منیجر"

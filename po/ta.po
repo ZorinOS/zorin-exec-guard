@@ -102,3 +102,9 @@ msgstr "%s ஐ இயக்க விண்டோஸ் பயன்பாடு
 #: 
 msgid "Installed"
 msgstr "நிறுவப்பட்ட"
+
+msgid "Archive Manager"
+msgstr "காப்பு மேலாளர்"
+
+msgid "Document Viewer"
+msgstr "ஆவண காட்டி"

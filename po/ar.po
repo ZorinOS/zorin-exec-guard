@@ -99,3 +99,9 @@ msgstr "هل تريد تثبيت تطبيق دعم ويندوز لتشغيل %s 
 #: 
 msgid "Installed"
 msgstr "تم التثبيث"
+
+msgid "Archive Manager"
+msgstr "مدير الأرشيفات"
+
+msgid "Document Viewer"
+msgstr "عارض المستندات"

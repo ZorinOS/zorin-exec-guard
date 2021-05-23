@@ -98,3 +98,9 @@ msgstr "Lai instalētu %s, instalējiet Windows Lietotņu Atbalstu?"
 #: 
 msgid "Installed"
 msgstr "Instalēts"
+
+msgid "Archive Manager"
+msgstr "Arhīvu pārvaldnieks"
+
+msgid "Document Viewer"
+msgstr "Dokumentu skatītājs"

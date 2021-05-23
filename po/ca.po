@@ -98,3 +98,9 @@ msgstr "Instal·lar la compatibilitat d’aplicacions de Windows per executar %s
 #: 
 msgid "Installed"
 msgstr "Instal·lat"
+
+msgid "Archive Manager"
+msgstr "Gestor d'arxius"
+
+msgid "Document Viewer"
+msgstr "Visualitzador de documents"

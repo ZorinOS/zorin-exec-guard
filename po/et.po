@@ -98,3 +98,9 @@ msgstr "Installige Windows App tugi käivitada %s?"
 #: 
 msgid "Installed"
 msgstr "Paigaldatud"
+
+msgid "Archive Manager"
+msgstr "Arhiivihaldur"
+
+msgid "Document Viewer"
+msgstr "Dokumendinäitaja"
