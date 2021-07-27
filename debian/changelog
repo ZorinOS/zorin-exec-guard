@@ -1,3 +1,9 @@
+zorin-exec-guard (1.4.2) focal; urgency=medium
+
+  * Fixed a translation string
+
+ -- Artyom Zorin <azorin@zoringroup.com>  Tue, 27 Jul 2021 20:33:39 +0100
+
 zorin-exec-guard (1.4.1) focal; urgency=medium
 
   * Added translations for newer text strings

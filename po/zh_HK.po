@@ -136,7 +136,7 @@ msgid "World of Warcraft is available on Lutris"
 msgstr ""
 
 msgid "Zorin OS is already resistant to Windows viruses and malware"
-msgstr "Zorin操作系统已经可以抵抗Windows病毒和恶意软件的攻击\n"
+msgstr "Zorin操作系统已经可以抵抗Windows病毒和恶意软件的攻击"
 
 msgid "Flash Player is no longer supported"
 msgstr "Flash Player已不再被支持"
