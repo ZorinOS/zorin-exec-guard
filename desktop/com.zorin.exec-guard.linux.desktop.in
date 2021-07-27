@@ -6,4 +6,4 @@ Exec=zorin-exec-guard-linux %f
 Icon=application-x-deb
 Type=Application
 NoDisplay=true
-MimeType=application/x-deb;application/x-debian-package
+MimeType=application/x-deb;application/x-debian-package;application/x-iso9660-appimage;application/x-appimage;application/vnd.appimage

@@ -104,3 +104,48 @@ msgstr "Gestionnaire d’archives"
 
 msgid "Document Viewer"
 msgstr "Visionneur de documents"
+
+msgid "You can download Google Chrome (.deb package) for Zorin OS from the web"
+msgstr "Vous pouvez télécharger Google Chrome (paquet .deb) pour Zorin OS depuis le web"
+
+msgid "You can download Dropbox (Ubuntu package) for Zorin OS from the web"
+msgstr "Vous pouvez télécharger Dropbox (package Ubuntu) pour Zorin OS à partir du Web"
+
+msgid "You can download Itch (Linux package) for Zorin OS from the web"
+msgstr "Vous pouvez télécharger Itch (package Linux) pour Zorin OS à partir du Web"
+
+msgid "You can download TeamViewer (.deb package) for Zorin OS from the web"
+msgstr "Vous pouvez télécharger TeamViewer (package .deb) pour Zorin OS à partir du Web"
+
+msgid "You can download Genymotion (Ubuntu package) for Zorin OS from the web"
+msgstr "Vous pouvez télécharger Genymotion (package Ubuntu) pour Zorin OS à partir du Web"
+
+msgid "You can use WhatsApp on the web"
+msgstr "Vous pouvez utiliser WhatsApp via l'interface Web"
+
+msgid "League of Legends is available on Lutris"
+msgstr "League of Legends est disponible sur Lutris"
+
+msgid "Overwatch is available on Lutris"
+msgstr "Overwatch est disponible sur Lutris"
+
+msgid "Warframe is available on Lutris"
+msgstr "Warframe est disponible sur Lutris"
+
+msgid "World of Warcraft is available on Lutris"
+msgstr "World of Warcraft est disponible sur Lutris"
+
+msgid "Zorin OS is already resistant to Windows viruses and malware"
+msgstr "Zorin OS est déjà résistant aux virus et aux logiciels malveillants venant de l'environnement Windows"
+
+msgid "Flash Player is no longer supported"
+msgstr "Flash Player n'est plus supporté"
+
+msgid "Install GNOME Boxes to run Microsoft Windows inside a Virtual Machine in Zorin OS"
+msgstr "Installer GNOME Boxes pour exécuter Microsoft Windows dans une machine virtuelle dans Zorin OS"
+
+msgid ".rar file support"
+msgstr "prise en charge des fichiers .rar"
+
+msgid ".7z file support"
+msgstr "prise en charge des fichiers .7z"

@@ -105,3 +105,48 @@ msgstr "مدير الأرشيفات"
 
 msgid "Document Viewer"
 msgstr "عارض المستندات"
+
+msgid "You can download Google Chrome (.deb package) for Zorin OS from the web"
+msgstr "يمكنك تحميل متصفح قوقل كروم (ملفات deb.) على زورين من خلال اﻹنترنت"
+
+msgid "You can download Dropbox (Ubuntu package) for Zorin OS from the web"
+msgstr "يمكنك تحميل دروب بوكس Dropbox (ملفات Ubuntu) على زورين من خلال اﻹنترنت"
+
+msgid "You can download Itch (Linux package) for Zorin OS from the web"
+msgstr "يمكنك تحميل إيتش (ملفات Linux) على زورين من خلال الانترنت"
+
+msgid "You can download TeamViewer (.deb package) for Zorin OS from the web"
+msgstr "يمكنك تحميل تيم فيور TeamViewer (ملفات deb.) على زورين من خلال اﻹنترنت"
+
+msgid "You can download Genymotion (Ubuntu package) for Zorin OS from the web"
+msgstr "يمكنك تحميل جينيموشن Genymotion (ملفات Ubuntu) على زورين من خلال اﻹنترنت"
+
+msgid "You can use WhatsApp on the web"
+msgstr "يمكنك إستعمال واتساب على اﻹنترنت"
+
+msgid "League of Legends is available on Lutris"
+msgstr "ليج أوف ليجندز متوفرة على تطبيق Lutris"
+
+msgid "Overwatch is available on Lutris"
+msgstr "أوفرواتش متوفرة على تطبيق Lutris"
+
+msgid "Warframe is available on Lutris"
+msgstr "وارفريم متوفرة على تطبيق Lutris"
+
+msgid "World of Warcraft is available on Lutris"
+msgstr "وورلد أوف واركرافت WoW متوفرة على Lutris"
+
+msgid "Zorin OS is already resistant to Windows viruses and malware"
+msgstr "زورين مقاوم لفيروسات وبرامج ويندوز الخبيثه"
+
+msgid "Flash Player is no longer supported"
+msgstr "رفع الدعم على مشغل فلاش"
+
+msgid "Install GNOME Boxes to run Microsoft Windows inside a Virtual Machine in Zorin OS"
+msgstr "قم بتنصيب برنامج Gnome Boxes لمحاكاة ويندوز عبر زورين"
+
+msgid ".rar file support"
+msgstr "دعم لصيغة الـrar"
+
+msgid ".7z file support"
+msgstr "دعم لصيغة الـ7z"

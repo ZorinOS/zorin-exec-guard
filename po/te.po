@@ -108,3 +108,48 @@ msgstr "సంగ్రహ నిర్వాహకం"
 
 msgid "Document Viewer"
 msgstr "పత్ర వీక్షకం"
+
+msgid "You can download Google Chrome (.deb package) for Zorin OS from the web"
+msgstr "మీరు వెబ్ నుండి జోరిన్ OS కోసం Google Chrome (.deb ప్యాకేజీ) ను డౌన్‌లోడ్ చేసుకోవచ్చు"
+
+msgid "You can download Dropbox (Ubuntu package) for Zorin OS from the web"
+msgstr "మీరు వెబ్ నుండి జోరిన్ OS కోసం డ్రాప్‌బాక్స్ (ఉబుంటు ప్యాకేజీ) ను డౌన్‌లోడ్ చేసుకోవచ్చు"
+
+msgid "You can download Itch (Linux package) for Zorin OS from the web"
+msgstr "మీరు వెబ్ నుండి జోరిన్ OS కోసం దురద (లైనక్స్ ప్యాకేజీ) ను డౌన్‌లోడ్ చేసుకోవచ్చు"
+
+msgid "You can download TeamViewer (.deb package) for Zorin OS from the web"
+msgstr "మీరు వెబ్ నుండి జోరిన్ OS కోసం టీం వ్యూయర్ (.దేబ్ ప్యాకేజీ) ను డౌన్‌లోడ్ చేసుకోవచ్చు"
+
+msgid "You can download Genymotion (Ubuntu package) for Zorin OS from the web"
+msgstr "మీరు వెబ్ నుండి జోరిన్ OS కోసం జెనిమోషన్ (ఉబుంటు ప్యాకేజీ) ను డౌన్‌లోడ్ చేసుకోవచ్చు"
+
+msgid "You can use WhatsApp on the web"
+msgstr "మీరు వెబ్‌లో వాట్సాప్‌ను ఉపయోగించవచ్చు"
+
+msgid "League of Legends is available on Lutris"
+msgstr "లుట్రిస్‌లో లీగ్ ఆఫ్ లెజెండ్స్ అందుబాటులో ఉన్నాయి"
+
+msgid "Overwatch is available on Lutris"
+msgstr "లూట్రిస్‌లో ఓవర్‌వాచ్ అందుబాటులో ఉంది"
+
+msgid "Warframe is available on Lutris"
+msgstr "లూట్రిస్‌లో వార్‌ఫ్రేమ్ అందుబాటులో ఉంది"
+
+msgid "World of Warcraft is available on Lutris"
+msgstr "వరల్డ్ ఆఫ్ వార్‌క్రాఫ్ట్ లుట్రిస్‌లో అందుబాటులో ఉంది"
+
+msgid "Zorin OS is already resistant to Windows viruses and malware"
+msgstr "జోరిన్ OS ఇప్పటికే విండోస్ వైరస్లు మరియు మాల్వేర్లకు నిరోధకతను కలిగి ఉంది"
+
+msgid "Flash Player is no longer supported"
+msgstr "ఫ్లాష్ ప్లేయర్‌కు మద్దతు లేదు"
+
+msgid "Install GNOME Boxes to run Microsoft Windows inside a Virtual Machine in Zorin OS"
+msgstr "జోరిన్ OS లోని వర్చువల్ మెషీన్ లోపల మైక్రోసాఫ్ట్ విండోస్ ను అమలు చేయడానికి గ్నోమ్ బాక్సులను ఇన్స్టాల్ చేయండి"
+
+msgid ".rar file support"
+msgstr ".rar ఫైల్ మద్దతు"
+
+msgid ".7z file support"
+msgstr ".7z ఫైల్ మద్దతు"

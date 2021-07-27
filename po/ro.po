@@ -104,3 +104,48 @@ msgstr "Administrator de arhive"
 
 msgid "Document Viewer"
 msgstr "Vizualizator de documente"
+
+msgid "You can download Google Chrome (.deb package) for Zorin OS from the web"
+msgstr "Puteți descărca pachetul Google Chrome (.deb ) pentru Zorin OS direct de pe internet"
+
+msgid "You can download Dropbox (Ubuntu package) for Zorin OS from the web"
+msgstr "Puteți descărca Dropbox (pachetul Ubuntu) pentru sistemul de operare Zorin de pe web"
+
+msgid "You can download Itch (Linux package) for Zorin OS from the web"
+msgstr "Puteți descărca Itch (pachet Linux) pentru sistemul de operare Zorin de pe web"
+
+msgid "You can download TeamViewer (.deb package) for Zorin OS from the web"
+msgstr "Puteți descărca TeamViewer (pachetul .deb) pentru sistemul de operare Zorin de pe web"
+
+msgid "You can download Genymotion (Ubuntu package) for Zorin OS from the web"
+msgstr "Puteți descărca Genymotion (pachetul Ubuntu) pentru sistemul de operare Zorin de pe web"
+
+msgid "You can use WhatsApp on the web"
+msgstr "Puteți utiliza WhatsApp pe web"
+
+msgid "League of Legends is available on Lutris"
+msgstr "League of Legends este disponibil pe Lutris. "
+
+msgid "Overwatch is available on Lutris"
+msgstr "Overwatch este disponibil pe Lutris"
+
+msgid "Warframe is available on Lutris"
+msgstr "Warframe este disponibil pe Lutris "
+
+msgid "World of Warcraft is available on Lutris"
+msgstr "World of Warcraft este disponibil pe Lutris "
+
+msgid "Zorin OS is already resistant to Windows viruses and malware"
+msgstr "Zorin OS este deja rezistent la virușii de tip Windows cât și Malware "
+
+msgid "Flash Player is no longer supported"
+msgstr "Flash Player nu mai este disponibil "
+
+msgid "Install GNOME Boxes to run Microsoft Windows inside a Virtual Machine in Zorin OS"
+msgstr "Instalează GNOME Boxes pentru a rula versiunea Minecraft-ului de tip Windows in mașina virtuală pe Zorin OS"
+
+msgid ".rar file support"
+msgstr "suport pentru fișiere .rar"
+
+msgid ".7z file support"
+msgstr "suport pentru fișiere .7z"

@@ -104,3 +104,48 @@ msgstr "归档管理器"
 
 msgid "Document Viewer"
 msgstr "文档查看器"
+
+msgid "You can download Google Chrome (.deb package) for Zorin OS from the web"
+msgstr "您可以从网上下载适用于Zorin OS的Google Chrome (.deb 格式安装包)"
+
+msgid "You can download Dropbox (Ubuntu package) for Zorin OS from the web"
+msgstr "您可以从网上下载适用于Zorin OS的Dropbox (Ubuntu 安装包)"
+
+msgid "You can download Itch (Linux package) for Zorin OS from the web"
+msgstr "您可以从网上下载适用于Zorin OS的Itch (Linux 安装包)"
+
+msgid "You can download TeamViewer (.deb package) for Zorin OS from the web"
+msgstr "您可以从网上下载适用于Zorin OS的TeamViewer (.deb 格式安装包)"
+
+msgid "You can download Genymotion (Ubuntu package) for Zorin OS from the web"
+msgstr "您可以从网上下载适用于Zorin OS的Genymotion (Ubuntu 安装包)"
+
+msgid "You can use WhatsApp on the web"
+msgstr "您可以使用网页版WhatsApp"
+
+msgid "League of Legends is available on Lutris"
+msgstr "您可以在Lutris上游玩《英雄联盟》(League of Legends)"
+
+msgid "Overwatch is available on Lutris"
+msgstr "您可以在Lutris上游玩《守望先锋》(Overwatch)"
+
+msgid "Warframe is available on Lutris"
+msgstr "您可以在Lutris上游玩《星际战甲》(Warframe)"
+
+msgid "World of Warcraft is available on Lutris"
+msgstr "您可以在Lutris上游玩《魔兽世界》(World of Warcraft)"
+
+msgid "Zorin OS is already resistant to Windows viruses and malware"
+msgstr "Zorin OS可以抵御针对Windows的病毒和有害软件"
+
+msgid "Flash Player is no longer supported"
+msgstr "不在支持Flash Player"
+
+msgid "Install GNOME Boxes to run Microsoft Windows inside a Virtual Machine in Zorin OS"
+msgstr "安装GNOME Boxes以便在Zorin OS中通过虚拟机运行Microsoft Windows"
+
+msgid ".rar file support"
+msgstr "支持 .rar 格式的文件"
+
+msgid ".7z file support"
+msgstr "支持 .7z 格式的文件"

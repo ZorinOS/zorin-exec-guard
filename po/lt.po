@@ -104,3 +104,48 @@ msgstr "Archyvų tvarkymo programa"
 
 msgid "Document Viewer"
 msgstr "Dokumentų peržiūros programa"
+
+msgid "You can download Google Chrome (.deb package) for Zorin OS from the web"
+msgstr "Galite atsisiųsti \"Google Chrome\" (.deb paketas)  dėl Zorin OS iš interneto"
+
+msgid "You can download Dropbox (Ubuntu package) for Zorin OS from the web"
+msgstr "Galite atsisiūsti Dropbox (Ubuntu paketas) dėl Zorin OS iš interneto"
+
+msgid "You can download Itch (Linux package) for Zorin OS from the web"
+msgstr "Galite atsisiūsto ltch (Linux paketas) dėl Zorin OS iš interneto"
+
+msgid "You can download TeamViewer (.deb package) for Zorin OS from the web"
+msgstr "Galite atsisiūsti TeamViewer (.deb paketas) dėl Zorin OS iš interneto"
+
+msgid "You can download Genymotion (Ubuntu package) for Zorin OS from the web"
+msgstr "Galite atsisiųsti Genymotion (Ubuntu paketas) dėl Zorin OS iš interneto"
+
+msgid "You can use WhatsApp on the web"
+msgstr "Galite naudotis WhatsApp naršyklėje"
+
+msgid "League of Legends is available on Lutris"
+msgstr "Leage of Legends prieinama Lutris programoje"
+
+msgid "Overwatch is available on Lutris"
+msgstr "Overwatch prieinama Lutris programoje"
+
+msgid "Warframe is available on Lutris"
+msgstr "Warframe prieinama Lutris programoje"
+
+msgid "World of Warcraft is available on Lutris"
+msgstr "World of Worcraft prieinama Lutris programoje"
+
+msgid "Zorin OS is already resistant to Windows viruses and malware"
+msgstr "Zorin OS  atsparus Windows virusams ir kenkėjiškoms programoms"
+
+msgid "Flash Player is no longer supported"
+msgstr "Flash Player daugiau nebepalaikomas"
+
+msgid "Install GNOME Boxes to run Microsoft Windows inside a Virtual Machine in Zorin OS"
+msgstr "Idiegti GNOME Boxes, kad paleisti Mikrosoft Windows Virtualioje Mašinoje Zorin OS sistemoje"
+
+msgid ".rar file support"
+msgstr ".rar failų palaikymas"
+
+msgid ".7z file support"
+msgstr ".7z failų palaikymas"

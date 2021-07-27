@@ -104,3 +104,48 @@ msgstr "আর্কাইভ ম্যানেজার"
 
 msgid "Document Viewer"
 msgstr "নথি প্রদর্শক"
+
+msgid "You can download Google Chrome (.deb package) for Zorin OS from the web"
+msgstr "আপনি ওয়েব থেকে Zorin OS এর জন্য Google Chrome (.deb প্যাকেজ) ডাউনলোড করতে পারেন"
+
+msgid "You can download Dropbox (Ubuntu package) for Zorin OS from the web"
+msgstr "আপনি ওয়েব থেকে Zorin OS এর জন্য Dropbox (উবুন্টু প্যাকেজ) ডাউনলোড করতে পারেন"
+
+msgid "You can download Itch (Linux package) for Zorin OS from the web"
+msgstr "আপনি ওয়েব থেকে Zorin OS এর জন্য Itch (লিনাক্স প্যাকেজ) ডাউনলোড করতে পারেন"
+
+msgid "You can download TeamViewer (.deb package) for Zorin OS from the web"
+msgstr "আপনি ওয়েব থেকে Zorin OS এর জন্য TeamViewer (.deb প্যাকেজ) ডাউনলোড করতে পারেন"
+
+msgid "You can download Genymotion (Ubuntu package) for Zorin OS from the web"
+msgstr "আপনি ওয়েব থেকে Zorin OS এর জন্য Genymotion (উবুন্টু প্যাকেজ) ডাউনলোড করতে পারেন"
+
+msgid "You can use WhatsApp on the web"
+msgstr "আপনি ওয়েব এ্যাপলিকেশন হিসেবে WhatsApp ব্যবহার করতে পারবেন"
+
+msgid "League of Legends is available on Lutris"
+msgstr "Lutris এ League of Legends পাওয়া যাচ্ছে"
+
+msgid "Overwatch is available on Lutris"
+msgstr "Lutris এ Overwatch পাওয়া যাচ্ছে"
+
+msgid "Warframe is available on Lutris"
+msgstr "Lutris এ Warframe পাওয়া যাচ্ছে"
+
+msgid "World of Warcraft is available on Lutris"
+msgstr "Lutris এ World of Warcraft পাওয়া যাচ্ছে"
+
+msgid "Zorin OS is already resistant to Windows viruses and malware"
+msgstr "Windows এর ভাইরাস এবং ম্যালওয়্যার থেকে Zorin OS ইতোম‌ধ্যেই সুরক্ষিত"
+
+msgid "Flash Player is no longer supported"
+msgstr "ফ্ল্যাশ প্লেয়ার আর সমর্থিত নয়"
+
+msgid "Install GNOME Boxes to run Microsoft Windows inside a Virtual Machine in Zorin OS"
+msgstr "জরিন ওস এ ভার্চুয়াল মেশিনে মাইক্রোসফট উইন্ডোজ চালানোর জন্য GNOME Boxes ইন্সটল করুন"
+
+msgid ".rar file support"
+msgstr ".rar ফাইল সমর্থন"
+
+msgid ".7z file support"
+msgstr ".7z ফাইল সমর্থন"

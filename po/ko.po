@@ -104,3 +104,48 @@ msgstr "압축 관리자"
 
 msgid "Document Viewer"
 msgstr "문서 보기"
+
+msgid "You can download Google Chrome (.deb package) for Zorin OS from the web"
+msgstr "웹에서 Zorin OS용 Chrome(.deb 패키지)을 다운로드할 수 있습니다."
+
+msgid "You can download Dropbox (Ubuntu package) for Zorin OS from the web"
+msgstr "Zorin OS용 Dropbox(Ubuntu 패키지)는 웹에서 다운로드할 수 있습니다."
+
+msgid "You can download Itch (Linux package) for Zorin OS from the web"
+msgstr "웹에서 Zorin OS용 Itch(Linux 패키지)를 다운로드할 수 있습니다."
+
+msgid "You can download TeamViewer (.deb package) for Zorin OS from the web"
+msgstr "웹에서 Zorin OS용 TeamViewer(.deb 패키지)를 다운로드할 수 있습니다."
+
+msgid "You can download Genymotion (Ubuntu package) for Zorin OS from the web"
+msgstr "웹에서 Zorin OS용 Genymotion(Ubuntu 패키지)을 다운로드할 수 있습니다."
+
+msgid "You can use WhatsApp on the web"
+msgstr "웹에서 WhatsApp을 사용할 수 있습니다."
+
+msgid "League of Legends is available on Lutris"
+msgstr "리그 오브 레전드는 Lutris에서 사용할 수 있습니다"
+
+msgid "Overwatch is available on Lutris"
+msgstr "오버워치는 Lutris에서 사용할 수 있습니다."
+
+msgid "Warframe is available on Lutris"
+msgstr "Warframe은 Lutris에서 사용할 수 있습니다."
+
+msgid "World of Warcraft is available on Lutris"
+msgstr "월드 오브 워크래프트는 Lutris에서 사용할 수 있습니다"
+
+msgid "Zorin OS is already resistant to Windows viruses and malware"
+msgstr "Zorin OS는 이미 Windows 바이러스 및 맬웨어에 내성이 있습니다."
+
+msgid "Flash Player is no longer supported"
+msgstr "Flash Player는 더 이상 지원되지 않습니다."
+
+msgid "Install GNOME Boxes to run Microsoft Windows inside a Virtual Machine in Zorin OS"
+msgstr "Zorin OS의 가상 머신 내에서 Microsoft Windows를 실행하려면 GNOME Boxes를 설치하십시오."
+
+msgid ".rar file support"
+msgstr ".rar 파일 지원"
+
+msgid ".7z file support"
+msgstr ".7z 파일 지원"

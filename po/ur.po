@@ -103,3 +103,48 @@ msgstr "انسٹال"
 
 msgid "Archive Manager"
 msgstr "محفوظہ منیجر"
+
+msgid "You can download Google Chrome (.deb package) for Zorin OS from the web"
+msgstr "آپ ویب سے زورین OS کے لئے گوگل کروم (.deb پیکیج) ڈاؤن لوڈ کرسکتے ہیں"
+
+msgid "You can download Dropbox (Ubuntu package) for Zorin OS from the web"
+msgstr "آپ ڈراپ باکس (اوبنٹو پیکیج) کو زیورین OS کے لئے ویب سے ڈاؤن لوڈ کرسکتے ہیں"
+
+msgid "You can download Itch (Linux package) for Zorin OS from the web"
+msgstr "آپ ویب سے زورین OS کے لئے کھجلی (لینکس پیکیج) ڈاؤن لوڈ کرسکتے ہیں"
+
+msgid "You can download TeamViewer (.deb package) for Zorin OS from the web"
+msgstr "آپ ویب سے زونین او ایس کے لئے ٹیم ویور (.deb پیکیج) ڈاؤن لوڈ کرسکتے ہیں"
+
+msgid "You can download Genymotion (Ubuntu package) for Zorin OS from the web"
+msgstr "آپ جورین او ایس کے لئے جینیموشن (اوبنٹو پیکیج) کو ویب سے ڈاؤن لوڈ کرسکتے ہیں"
+
+msgid "You can use WhatsApp on the web"
+msgstr "آپ ویب پر واٹس ایپ استعمال کرسکتے ہیں"
+
+msgid "League of Legends is available on Lutris"
+msgstr "لیگ آف لیجنڈس لیوٹرس پر دستیاب ہے"
+
+msgid "Overwatch is available on Lutris"
+msgstr "اورواچ لٹرز پر دستیاب ہے"
+
+msgid "Warframe is available on Lutris"
+msgstr "وارفریم لٹرز پر دستیاب ہے"
+
+msgid "World of Warcraft is available on Lutris"
+msgstr "ورلڈ وارکرافٹ لوٹریس پر دستیاب ہے"
+
+msgid "Zorin OS is already resistant to Windows viruses and malware"
+msgstr "زورین OS ونڈوز وائرس اور میلویئر کے خلاف پہلے ہی مزاحم ہے"
+
+msgid "Flash Player is no longer supported"
+msgstr "فلیش پلیئر اب تعاون یافتہ نہیں ہے"
+
+msgid "Install GNOME Boxes to run Microsoft Windows inside a Virtual Machine in Zorin OS"
+msgstr "زورین OS میں ورچوئل مشین کے اندر مائیکروسافٹ ونڈوز چلانے کے لئے جینیوم باکسز انسٹال کریں"
+
+msgid ".rar file support"
+msgstr ".rar فائل کی حمایت"
+
+msgid ".7z file support"
+msgstr ".7z فائل کی حمایت"

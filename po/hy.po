@@ -101,3 +101,48 @@ msgstr "Տեղադրված է"
 
 msgid "Archive Manager"
 msgstr "Արխիվի մենեջեր"
+
+msgid "You can download Google Chrome (.deb package) for Zorin OS from the web"
+msgstr "Դուք կարող եք ներբեռնել Google Chrome- ը (.deb փաթեթ) Zorin OS- ի համար համացանցից"
+
+msgid "You can download Dropbox (Ubuntu package) for Zorin OS from the web"
+msgstr "Դուք կարող եք ներբեռնել Dropbox (Ubuntu փաթեթ) Zorin OS- ի համար համացանցից"
+
+msgid "You can download Itch (Linux package) for Zorin OS from the web"
+msgstr "Itin- ը (Linux փաթեթ) Zorin OS- ի համար կարող եք ներբեռնել ոստայնից"
+
+msgid "You can download TeamViewer (.deb package) for Zorin OS from the web"
+msgstr "Դուք կարող եք ներբեռնել TeamViewer (.deb փաթեթը) Zorin OS- ի համար համացանցից"
+
+msgid "You can download Genymotion (Ubuntu package) for Zorin OS from the web"
+msgstr "Geninotion- ը (Ubuntu փաթեթ) Zorin OS- ի համար կարող եք ներբեռնել ոստայնից"
+
+msgid "You can use WhatsApp on the web"
+msgstr "WhatsApp- ը կարող եք օգտագործել ոստայնում"
+
+msgid "League of Legends is available on Lutris"
+msgstr "Լեգենդների լիգան հասանելի է Lutris- ում"
+
+msgid "Overwatch is available on Lutris"
+msgstr "Overwatch- ը հասանելի է Lutris- ում"
+
+msgid "Warframe is available on Lutris"
+msgstr "Warframe- ը հասանելի է Lutris- ում"
+
+msgid "World of Warcraft is available on Lutris"
+msgstr "World of Warcraft- ը հասանելի է Lutris- ում"
+
+msgid "Zorin OS is already resistant to Windows viruses and malware"
+msgstr "Zorin OS- ն արդեն դիմացկուն է Windows վիրուսներին և չարամիտ ծրագրերին"
+
+msgid "Flash Player is no longer supported"
+msgstr "Flash Player- ն այլևս չի աջակցվում"
+
+msgid "Install GNOME Boxes to run Microsoft Windows inside a Virtual Machine in Zorin OS"
+msgstr "Տեղադրեք GNOME Boxes ՝ Microsoft Windows- ը Zorin OS- ում վիրտուալ մեքենայի ներսում աշխատեցնելու համար"
+
+msgid ".rar file support"
+msgstr ".rar ֆայլերի աջակցություն"
+
+msgid ".7z file support"
+msgstr ".7z ֆայլերի աջակցություն"

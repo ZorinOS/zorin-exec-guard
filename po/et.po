@@ -104,3 +104,48 @@ msgstr "Arhiivihaldur"
 
 msgid "Document Viewer"
 msgstr "Dokumendinäitaja"
+
+msgid "You can download Google Chrome (.deb package) for Zorin OS from the web"
+msgstr "Zorin OS-i jaoks mõeldud Google Chrome'i (.deb-pakett) saate veebist alla laadida"
+
+msgid "You can download Dropbox (Ubuntu package) for Zorin OS from the web"
+msgstr "Dropboxi (Ubuntu pakett) Zorin OS-i jaoks saate veebist alla laadida"
+
+msgid "You can download Itch (Linux package) for Zorin OS from the web"
+msgstr "Zorin OS-i jaoks saate Itchi (Linuxi pakett) veebist alla laadida"
+
+msgid "You can download TeamViewer (.deb package) for Zorin OS from the web"
+msgstr "Zorin OS-i jaoks saate TeamVieweri (.deb-paketi) veebist alla laadida"
+
+msgid "You can download Genymotion (Ubuntu package) for Zorin OS from the web"
+msgstr "Genymotioni (Ubuntu pakett) Zorin OS-i jaoks saate veebist alla laadida"
+
+msgid "You can use WhatsApp on the web"
+msgstr "WhatsAppi saate kasutada veebis"
+
+msgid "League of Legends is available on Lutris"
+msgstr "League of Legends on saadaval veebisaidil Lutris"
+
+msgid "Overwatch is available on Lutris"
+msgstr "Lutris on saadaval Overwatch"
+
+msgid "Warframe is available on Lutris"
+msgstr "Warframe on saadaval Lutris"
+
+msgid "World of Warcraft is available on Lutris"
+msgstr "World of Warcraft on saadaval veebisaidil Lutris"
+
+msgid "Zorin OS is already resistant to Windows viruses and malware"
+msgstr "Zorin OS on juba Windowsi viiruste ja pahavara suhtes vastupidav"
+
+msgid "Flash Player is no longer supported"
+msgstr "Flash Playerit ei toetata enam"
+
+msgid "Install GNOME Boxes to run Microsoft Windows inside a Virtual Machine in Zorin OS"
+msgstr "Installige GNOME Boxes, et Microsoft Windowsi käivitada virtuaalses masinas Zorin OS-is"
+
+msgid ".rar file support"
+msgstr ".rar-failide tugi"
+
+msgid ".7z file support"
+msgstr ".7z failide tugi"

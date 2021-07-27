@@ -104,3 +104,48 @@ msgstr "Pengurus Arkib"
 
 msgid "Document Viewer"
 msgstr "Pelihat Dokumen"
+
+msgid "You can download Google Chrome (.deb package) for Zorin OS from the web"
+msgstr "Anda boleh memuat turun Google Chrome (pakej .deb) untuk Zorin OS menerusi Sesawang"
+
+msgid "You can download Dropbox (Ubuntu package) for Zorin OS from the web"
+msgstr "Anda boleh memuat turun Dropbox (pakej .deb) untuk Zorin OS menerusi Sesawang"
+
+msgid "You can download Itch (Linux package) for Zorin OS from the web"
+msgstr "Anda boleh memuat turun Itch (pakej .deb) untuk Zorin OS menerusi Sesawang"
+
+msgid "You can download TeamViewer (.deb package) for Zorin OS from the web"
+msgstr "Anda boleh memuat turun TeamViewer (pakej .deb) untuk Zorin OS menerusi Sesawang"
+
+msgid "You can download Genymotion (Ubuntu package) for Zorin OS from the web"
+msgstr "Anda boleh memuat turun Genymotion (pakej .deb) untuk Zorin OS menerusi Sesawang"
+
+msgid "You can use WhatsApp on the web"
+msgstr "Anda boleh menggunakan WhatsApp berasaskan sesawang"
+
+msgid "League of Legends is available on Lutris"
+msgstr "League of Legends tersedia dalam Lutris"
+
+msgid "Overwatch is available on Lutris"
+msgstr "Overwatch tersedia dalam Lutris"
+
+msgid "Warframe is available on Lutris"
+msgstr "Warframe tersedia dalam Lutris"
+
+msgid "World of Warcraft is available on Lutris"
+msgstr "World of Warcraft tersedia dalam Lutris"
+
+msgid "Zorin OS is already resistant to Windows viruses and malware"
+msgstr "Zorin OS sememangnya kalis terhadap virus dan perisian hasad Windows"
+
+msgid "Flash Player is no longer supported"
+msgstr "Flash Player tidak lagi disokong"
+
+msgid "Install GNOME Boxes to run Microsoft Windows inside a Virtual Machine in Zorin OS"
+msgstr "Pasang GNOME Boxes supaya dapat menjalankan Microsoft Windows secara maya di dalam Zorin OS"
+
+msgid ".rar file support"
+msgstr "sokongan fail .rar"
+
+msgid ".7z file support"
+msgstr "sokongan fail .7z"

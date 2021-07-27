@@ -104,3 +104,48 @@ msgstr "Bainisteoir Cartlann"
 
 msgid "Document Viewer"
 msgstr "Amharcán Cáipéisí"
+
+msgid "You can download Google Chrome (.deb package) for Zorin OS from the web"
+msgstr "Is féidir leat Google Chrome (pacáiste .deb) do Zorin OS a íoslódáil ón ngréasán"
+
+msgid "You can download Dropbox (Ubuntu package) for Zorin OS from the web"
+msgstr "Is féidir leat Dropbox (pacáiste Ubuntu) do Zorin OS a íoslódáil ón ngréasán"
+
+msgid "You can download Itch (Linux package) for Zorin OS from the web"
+msgstr "Is féidir leat Itch (pacáiste Linux) do Zorin OS a íoslódáil ón ngréasán"
+
+msgid "You can download TeamViewer (.deb package) for Zorin OS from the web"
+msgstr "Is féidir leat TeamViewer (pacáiste .deb) do Zorin OS a íoslódáil ón ngréasán"
+
+msgid "You can download Genymotion (Ubuntu package) for Zorin OS from the web"
+msgstr "Is féidir leat Genymotion (pacáiste Ubuntu) do Zorin OS a íoslódáil ón ngréasán"
+
+msgid "You can use WhatsApp on the web"
+msgstr "Is féidir leat WhatsApp a úsáid ar an ngréasán"
+
+msgid "League of Legends is available on Lutris"
+msgstr "Tá League of Legends ar fáil ar Lutris"
+
+msgid "Overwatch is available on Lutris"
+msgstr "Tá Overwatch ar fáil ar Lutris"
+
+msgid "Warframe is available on Lutris"
+msgstr "Tá Warframe ar fáil ar Lutris"
+
+msgid "World of Warcraft is available on Lutris"
+msgstr "Tá World of Warcraft ar fáil ar Lutris"
+
+msgid "Zorin OS is already resistant to Windows viruses and malware"
+msgstr "Tá Zorin OS frithsheasmhach in aghaidh víris agus malware Windows cheana féin"
+
+msgid "Flash Player is no longer supported"
+msgstr "Ní thacaítear le Flash Player a thuilleadh"
+
+msgid "Install GNOME Boxes to run Microsoft Windows inside a Virtual Machine in Zorin OS"
+msgstr "Suiteáil GNOME Boxes chun Microsoft Windows a reáchtáil taobh istigh de Mheaisín Fíorúil in Zorin OS"
+
+msgid ".rar file support"
+msgstr "tacaíocht comhad .rar"
+
+msgid ".7z file support"
+msgstr "tacaíocht comhad .7z"

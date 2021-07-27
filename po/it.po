@@ -104,3 +104,48 @@ msgstr "Gestore di archivi"
 
 msgid "Document Viewer"
 msgstr "Visualizzatore documenti"
+
+msgid "You can download Google Chrome (.deb package) for Zorin OS from the web"
+msgstr "Puoi scaricare Google Chrome (pacchetto .deb) per Zorin OS dal web"
+
+msgid "You can download Dropbox (Ubuntu package) for Zorin OS from the web"
+msgstr "Puoi scaricare Dropbox (pacchetto per Ubuntu) per Zorin OS dal web"
+
+msgid "You can download Itch (Linux package) for Zorin OS from the web"
+msgstr "Puoi scaricare Itch (pacchetto per Linux) per Zorin OS dal web"
+
+msgid "You can download TeamViewer (.deb package) for Zorin OS from the web"
+msgstr "Puoi scaricare TeamViewer (pacchetto .deb) per Zorin OS dal web"
+
+msgid "You can download Genymotion (Ubuntu package) for Zorin OS from the web"
+msgstr "Puoi scaricare Genymotion (pacchetto per Ubuntu) per Zorin OS dal web"
+
+msgid "You can use WhatsApp on the web"
+msgstr "Puoi usare WhatsApp sul web"
+
+msgid "League of Legends is available on Lutris"
+msgstr "League of Legends è disponibile su Lutris"
+
+msgid "Overwatch is available on Lutris"
+msgstr "Overwatch è disponibile su Lutris"
+
+msgid "Warframe is available on Lutris"
+msgstr "Warframe è disponibile su Lutris"
+
+msgid "World of Warcraft is available on Lutris"
+msgstr "World of Warcraft è disponibile su Lutris"
+
+msgid "Zorin OS is already resistant to Windows viruses and malware"
+msgstr "Zorin OS è gia resistente ai virus e malware di Windows"
+
+msgid "Flash Player is no longer supported"
+msgstr "Flash Player non è più supportato"
+
+msgid "Install GNOME Boxes to run Microsoft Windows inside a Virtual Machine in Zorin OS"
+msgstr "Installa GNOME Boxes per eseguire Microsoft Windows all'interno di una macchina virtuale in Zorin OS"
+
+msgid ".rar file support"
+msgstr "supporto per file .rar"
+
+msgid ".7z file support"
+msgstr "supporto per file .7z"

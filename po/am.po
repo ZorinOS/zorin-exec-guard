@@ -110,3 +110,48 @@ msgstr "ተጭኗል"
 
 msgid "Archive Manager"
 msgstr "የመዝገብ ቤት መቆጣጠሪያ"
+
+msgid "You can download Google Chrome (.deb package) for Zorin OS from the web"
+msgstr "ጉግል ክሮምን (.deb ጥቅል) ለዞሪን OS ከድር ማውረድ ይችላሉ"
+
+msgid "You can download Dropbox (Ubuntu package) for Zorin OS from the web"
+msgstr "Dropbox (የኡቡንቱ ጥቅል) ለዞሪን OS ከድር ማውረድ ይችላሉ"
+
+msgid "You can download Itch (Linux package) for Zorin OS from the web"
+msgstr "ለ Zorin OS ኢትች (ሊነክስ ጥቅል) ከድር ማውረድ ይችላሉ"
+
+msgid "You can download TeamViewer (.deb package) for Zorin OS from the web"
+msgstr "TeamViewer (.deb ጥቅል) ለዞሪን OS ከድር ማውረድ ይችላሉ"
+
+msgid "You can download Genymotion (Ubuntu package) for Zorin OS from the web"
+msgstr "Genymotion (የኡቡንቱ ጥቅል) ለዞሪን OS ከድር ማውረድ ይችላሉ"
+
+msgid "You can use WhatsApp on the web"
+msgstr "ድር ላይ ዋትስአፕን መጠቀም ይችላሉ"
+
+msgid "League of Legends is available on Lutris"
+msgstr "ሊግ ኦፍ Legends በሉትሪስ ላይ ይገኛል"
+
+msgid "Overwatch is available on Lutris"
+msgstr "Overwatch በሉተር ላይ ይገኛል"
+
+msgid "Warframe is available on Lutris"
+msgstr "Warframe በሉተር ላይ ይገኛል"
+
+msgid "World of Warcraft is available on Lutris"
+msgstr "የ Warcraft ዓለም በሉትሪስ ላይ ይገኛል"
+
+msgid "Zorin OS is already resistant to Windows viruses and malware"
+msgstr "Zorin OS ቀድሞውኑ ለዊንዶውስ ቫይረሶች እና ተንኮል-አዘል ዌር ተከላካይ ነው"
+
+msgid "Flash Player is no longer supported"
+msgstr "ፍላሽ ማጫወቻ ከአሁን በኋላ አይደገፍም"
+
+msgid "Install GNOME Boxes to run Microsoft Windows inside a Virtual Machine in Zorin OS"
+msgstr "ማይክሮሶፍት ዊንዶውስ በቨርን ኦኤስ ውስጥ በቨርቹዋል ማሽን ውስጥ ለማሄድ የ GNOME ሳጥኖችን ይጫኑ"
+
+msgid ".rar file support"
+msgstr ".rar ፋይል ድጋፍ"
+
+msgid ".7z file support"
+msgstr ".7z ፋይል ድጋፍ"

@@ -104,3 +104,48 @@ msgstr "封存檔管理員"
 
 msgid "Document Viewer"
 msgstr "文件檢視器"
+
+msgid "You can download Google Chrome (.deb package) for Zorin OS from the web"
+msgstr "您可以從網路上下載Google Chrome (.deb包) 給 Zorin OS"
+
+msgid "You can download Dropbox (Ubuntu package) for Zorin OS from the web"
+msgstr "您可以從網路上下載Dropbox (Ubuntu包) 給 Zorin OS"
+
+msgid "You can download Itch (Linux package) for Zorin OS from the web"
+msgstr "您可以從網路上下載Itch (Linux包) 給 Zorin OS"
+
+msgid "You can download TeamViewer (.deb package) for Zorin OS from the web"
+msgstr "您可以從網路上下載TeamViewer (.deb包) 給 Zorin OS"
+
+msgid "You can download Genymotion (Ubuntu package) for Zorin OS from the web"
+msgstr "您可以從網路上下載Genymotion (Package包) 給 Zorin OS"
+
+msgid "You can use WhatsApp on the web"
+msgstr "您可以在網路上使用WhatsApp"
+
+msgid "League of Legends is available on Lutris"
+msgstr "英雄聯盟可以從Lutris上找到"
+
+msgid "Overwatch is available on Lutris"
+msgstr "鬥陣特攻可以從Lutris上找到"
+
+msgid "Warframe is available on Lutris"
+msgstr "戰甲神兵可以從Lutris上找到"
+
+msgid "World of Warcraft is available on Lutris"
+msgstr "魔獸世界可以從Lutris上找到"
+
+msgid "Zorin OS is already resistant to Windows viruses and malware"
+msgstr "Zorin OS已經有抵禦Windows的病毒和惡意軟體"
+
+msgid "Flash Player is no longer supported"
+msgstr "未來將不再支援Flash Player"
+
+msgid "Install GNOME Boxes to run Microsoft Windows inside a Virtual Machine in Zorin OS"
+msgstr "安裝GNOME Boxes並執行虛擬機來啟動Microsoft Windows"
+
+msgid ".rar file support"
+msgstr "支持.rar檔案"
+
+msgid ".7z file support"
+msgstr "支持.7z檔案"

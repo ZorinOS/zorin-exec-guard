@@ -2,7 +2,7 @@
 
 # This file is part of the Zorin Exec Guard program.
 #
-# Copyright 2018 Zorin OS Technologies Ltd.
+# Copyright 2018-2021 Zorin OS Technologies Ltd.
 #
 # This program is free software you can redistribute it and/or modify it
 # under the terms and conditions of the GNU General Public License,
@@ -16,6 +16,8 @@
 import gi
 import gettext
 import sys
+import os
+import stat
 
 gi.require_version('Gtk', '3.0')
 from gi.repository import Gtk, Gio, GLib
@@ -32,7 +34,12 @@ class ExecGuardApplicationLinux(ZorinExecGuard.ExecGuardApplication):
     APP_ID = 'com.zorin.exec-guard.linux'
 
     def _launch_executable(self, widget):
-        ZorinExecGuard.spawn_process(['gnome-software', '--local-filename', self.executable["path"]])
+        if self.executable["path"].lower().endswith(".appimage"):
+            mode = os.stat(self.executable["path"]).st_mode
+            os.chmod(self.executable["path"], mode | stat.S_IEXEC)
+            ZorinExecGuard.spawn_process([self.executable["path"]])
+        else: 
+            ZorinExecGuard.spawn_process(['gnome-software', '--local-filename', self.executable["path"]])
         self.quit()
 
     def _get_buttons(self, box):

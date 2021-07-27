@@ -108,3 +108,48 @@ msgstr "காப்பு மேலாளர்"
 
 msgid "Document Viewer"
 msgstr "ஆவண காட்டி"
+
+msgid "You can download Google Chrome (.deb package) for Zorin OS from the web"
+msgstr "இணையத்திலிருந்து Zorin OS க்கான Google Chrome (.deb தொகுப்பு) ஐ பதிவிறக்கம் செய்யலாம்"
+
+msgid "You can download Dropbox (Ubuntu package) for Zorin OS from the web"
+msgstr "Webல் இருந்து சோரின் ஓஎஸ்ஸிற்கான டிராப்பாக்ஸ் (உபுண்டு தொகுப்பு) பதிவிறக்கம் செய்யலாம்"
+
+msgid "You can download Itch (Linux package) for Zorin OS from the web"
+msgstr "சோரின் ஓஎஸ்க்கான Itch ஐ இணையத்திலிருந்து பதிவிறக்கிக் கொள்க"
+
+msgid "You can download TeamViewer (.deb package) for Zorin OS from the web"
+msgstr "Webல் இருந்து சோரின் OS க்கான TeamViewer (.deb தொகுப்பு) ஐ பதிவிறக்கம் செய்யலாம்"
+
+msgid "You can download Genymotion (Ubuntu package) for Zorin OS from the web"
+msgstr "Webல் இருந்து சோரின் ஓஎஸ்ஸிற்கான ஜெனிமோஷன் (உபுண்டு தொகுப்பு) பதிவிறக்கம் செய்யலாம்"
+
+msgid "You can use WhatsApp on the web"
+msgstr "Webல் நீங்கள் வாட்ஸ்அப்பைப் பயன்படுத்தலாம்"
+
+msgid "League of Legends is available on Lutris"
+msgstr "Lutrisல் League of Legends கிடைக்கும்"
+
+msgid "Overwatch is available on Lutris"
+msgstr "Lutrisல் Overwatch கிடைக்கும்"
+
+msgid "Warframe is available on Lutris"
+msgstr "Lutrisல் Warframe கிடைக்கும்"
+
+msgid "World of Warcraft is available on Lutris"
+msgstr "Lutrisல் World of Warcraft கிடைக்கும்"
+
+msgid "Zorin OS is already resistant to Windows viruses and malware"
+msgstr "Zorin OS விண்டோஸின் வைரல்கள் Malwareகளால் பாதிக்கப்படாது"
+
+msgid "Flash Player is no longer supported"
+msgstr "ஃப்ளாஷ் பிளேயர் இனி ஆதரிக்கப்படாது"
+
+msgid "Install GNOME Boxes to run Microsoft Windows inside a Virtual Machine in Zorin OS"
+msgstr "மெய்நிகர் இயந்திரத்திற்குள் Microsoft Windows பயன்படுத்த GNOME Boxesஐ நிறுவுக"
+
+msgid ".rar file support"
+msgstr ".rar கோப்பு ஆதரவு"
+
+msgid ".7z file support"
+msgstr ".7z கோப்பு ஆதரவு"

@@ -104,3 +104,48 @@ msgstr "Quản lý kho nén"
 
 msgid "Document Viewer"
 msgstr "Xem tài liệu"
+
+msgid "You can download Google Chrome (.deb package) for Zorin OS from the web"
+msgstr "Bạn có thể tải xuống Google Chrome (thông qua gói .deb) cho Zorin OS từ web"
+
+msgid "You can download Dropbox (Ubuntu package) for Zorin OS from the web"
+msgstr "Bạn có thể tải xuống Dropbox (dưới dạng gói của Ubuntu) cho Zorin OS từ web"
+
+msgid "You can download Itch (Linux package) for Zorin OS from the web"
+msgstr "Bạn có thể tải xuống Itch (dưới dạng gói của Linux) cho Zorin OS từ web"
+
+msgid "You can download TeamViewer (.deb package) for Zorin OS from the web"
+msgstr "Bạn có thể tải xuống TeamViewer (thông qua gói .deb) cho Zorin OS từ web"
+
+msgid "You can download Genymotion (Ubuntu package) for Zorin OS from the web"
+msgstr "Bạn có thể tải xuống Genymotion (dưới dạng gói của Ubuntu) cho Zorin OS từ web"
+
+msgid "You can use WhatsApp on the web"
+msgstr "Bạn có thể sử dụng WhatsApp trên web"
+
+msgid "League of Legends is available on Lutris"
+msgstr "Liên minh huyền thoại có sẵn trên Lutris"
+
+msgid "Overwatch is available on Lutris"
+msgstr "Overwatch có sẵn trên Lutris"
+
+msgid "Warframe is available on Lutris"
+msgstr "Warframe có sẵn trên Lutris"
+
+msgid "World of Warcraft is available on Lutris"
+msgstr "World of Warcraft hiện có trên Lutris"
+
+msgid "Zorin OS is already resistant to Windows viruses and malware"
+msgstr "Hệ điều hành Zorin đã có khả năng chống vi-rút Windows và phần mềm độc hại"
+
+msgid "Flash Player is no longer supported"
+msgstr "Flash Player hiện không được hỗ trợ"
+
+msgid "Install GNOME Boxes to run Microsoft Windows inside a Virtual Machine in Zorin OS"
+msgstr "Cài đặt GNOME Boxes để chạy Microsoft Windows bên trong Máy ảo trong của Zorin OS"
+
+msgid ".rar file support"
+msgstr "hỗ trợ tập tin .rar"
+
+msgid ".7z file support"
+msgstr "hỗ trợ tập tin .7z"

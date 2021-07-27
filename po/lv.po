@@ -104,3 +104,48 @@ msgstr "Arhīvu pārvaldnieks"
 
 msgid "Document Viewer"
 msgstr "Dokumentu skatītājs"
+
+msgid "You can download Google Chrome (.deb package) for Zorin OS from the web"
+msgstr "Varat lejupielādēt Google Chrome (.deb pakotni) Zorin OS no tīmekļa vietnes"
+
+msgid "You can download Dropbox (Ubuntu package) for Zorin OS from the web"
+msgstr "Varat lejupielādēt Dropbox (Ubuntu pakete) Zorin OS no tīmekļa vietnes"
+
+msgid "You can download Itch (Linux package) for Zorin OS from the web"
+msgstr "Itch (Linux pakete) Zorin OS varat lejupielādēt no tīmekļa vietnes"
+
+msgid "You can download TeamViewer (.deb package) for Zorin OS from the web"
+msgstr "Jūs varat lejupielādēt TeamViewer (.deb pakete) Zorin OS no tīmekļa vietnes"
+
+msgid "You can download Genymotion (Ubuntu package) for Zorin OS from the web"
+msgstr "Jūs varat lejupielādēt Genymotion (Ubuntu pakete) Zorin OS no tīmekļa vietnes"
+
+msgid "You can use WhatsApp on the web"
+msgstr "Varat izmantot WhatsApp tīmeklī"
+
+msgid "League of Legends is available on Lutris"
+msgstr "League of Legends ir pieejama Lutris"
+
+msgid "Overwatch is available on Lutris"
+msgstr "Overwatch ir pieejams Lutris"
+
+msgid "Warframe is available on Lutris"
+msgstr "Warframe ir pieejams Lutris"
+
+msgid "World of Warcraft is available on Lutris"
+msgstr "World of Warcraft ir pieejams Lutris"
+
+msgid "Zorin OS is already resistant to Windows viruses and malware"
+msgstr "Zorin OS jau ir izturīga pret Windows vīrusiem un ļaunprātīgu programmatūru."
+
+msgid "Flash Player is no longer supported"
+msgstr "Flash Player vairs netiek atbalstīts"
+
+msgid "Install GNOME Boxes to run Microsoft Windows inside a Virtual Machine in Zorin OS"
+msgstr "GNOME Boxes instalēšana, lai palaistu Microsoft Windows virtuālajā mašīnā Zorin OS sistēmā"
+
+msgid ".rar file support"
+msgstr ".rar failu atbalsts"
+
+msgid ".7z file support"
+msgstr ".7z failu atbalsts"
