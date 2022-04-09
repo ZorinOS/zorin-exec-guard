@@ -75,8 +75,8 @@ msgstr "%s સ્થાપિત થયેલ છે"
 #: 
 #, fuzzy
 
-msgid "Run %s anyway"
-msgstr "કોઈપણ રીતે %s ચલાવો"
+msgid "Run anyway"
+msgstr "કોઈપણ રીતે ચલાવો"
 
 #: 
 #, fuzzy

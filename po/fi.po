@@ -73,8 +73,8 @@ msgstr "%s on asennettu"
 
 #: 
 
-msgid "Run %s anyway"
-msgstr "Suorita %s kuitenkin"
+msgid "Run anyway"
+msgstr "Suorita kuitenkin"
 
 #: 
 

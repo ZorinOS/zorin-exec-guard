@@ -77,8 +77,8 @@ msgstr "%s நிறுவப்பட்டது"
 
 #: 
 
-msgid "Run %s anyway"
-msgstr "எவ்வகையிலேனும் %s ஐ இயக்கவும்"
+msgid "Run anyway"
+msgstr "எவ்வகையிலேனும் ஐ இயக்கவும்"
 
 #: 
 

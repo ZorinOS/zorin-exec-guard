@@ -73,8 +73,8 @@ msgstr "%s встановлено"
 
 #: 
 
-msgid "Run %s anyway"
-msgstr "Все одно виконати %s"
+msgid "Run anyway"
+msgstr "Все одно виконати"
 
 #: 
 

@@ -73,8 +73,8 @@ msgstr "%s-ը տեղադրվել է"
 
 #: 
 
-msgid "Run %s anyway"
-msgstr "Միևնույն է գործարկել %s-ը"
+msgid "Run anyway"
+msgstr "Միևնույն է գործարկել"
 
 #: 
 

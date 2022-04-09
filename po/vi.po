@@ -73,8 +73,8 @@ msgstr "%s đã được cài đặt xong"
 
 #: 
 
-msgid "Run %s anyway"
-msgstr "Cứ chạy %s đi"
+msgid "Run anyway"
+msgstr "Cứ chạy đi"
 
 #: 
 

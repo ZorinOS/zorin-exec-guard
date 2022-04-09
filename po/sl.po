@@ -73,8 +73,8 @@ msgstr "%s je nameščen"
 
 #: 
 
-msgid "Run %s anyway"
-msgstr "Vseeno zaženite %s"
+msgid "Run anyway"
+msgstr "Vseeno zaženite"
 
 #: 
 

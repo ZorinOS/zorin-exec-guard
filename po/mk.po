@@ -73,8 +73,8 @@ msgstr "%s е инсталиран"
 
 #: 
 
-msgid "Run %s anyway"
-msgstr "Во секој случај, покрени %s"
+msgid "Run anyway"
+msgstr "Во секој случај, покрени"
 
 #: 
 

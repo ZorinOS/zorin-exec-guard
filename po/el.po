@@ -73,8 +73,8 @@ msgstr "Το %s έχει εγκατασταθεί"
 
 #: 
 
-msgid "Run %s anyway"
-msgstr "Εκτελέστε το %s ούτως ή άλλως"
+msgid "Run anyway"
+msgstr "Εκτελέστε το ούτως ή άλλως"
 
 #: 
 

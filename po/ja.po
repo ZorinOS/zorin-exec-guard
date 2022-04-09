@@ -73,8 +73,8 @@ msgstr "%sをインストールしました"
 
 #: 
 
-msgid "Run %s anyway"
-msgstr "それでも%sを実行する"
+msgid "Run anyway"
+msgstr "それでもを実行する"
 
 #: 
 

@@ -73,8 +73,8 @@ msgstr "%s་ཧས་བེཨེན་ཨིནསྟལླེད"
 
 #: 
 
-msgid "Run %s anyway"
-msgstr "ཪུན་%s་ཨཉྭཡ"
+msgid "Run anyway"
+msgstr "ཪུནཨཉྭཡ"
 
 #: 
 

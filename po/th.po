@@ -82,8 +82,8 @@ msgstr "ติดตั้ง %s แล้ว"
 #: 
 #, fuzzy
 
-msgid "Run %s anyway"
-msgstr "เรียกใช้ %s ต่อไป"
+msgid "Run anyway"
+msgstr "เรียกใช้ ต่อไป"
 
 #: 
 #, fuzzy

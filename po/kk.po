@@ -73,8 +73,8 @@ msgstr "%s орнатылды"
 
 #: 
 
-msgid "Run %s anyway"
-msgstr "Барлығын %s іске қосыңыз"
+msgid "Run anyway"
+msgstr "Барлығын іске қосыңыз"
 
 #: 
 

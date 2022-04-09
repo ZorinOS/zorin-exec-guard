@@ -73,8 +73,8 @@ msgstr "%s is geínstalleerd"
 
 #: 
 
-msgid "Run %s anyway"
-msgstr "%s toch uitvoeren"
+msgid "Run anyway"
+msgstr "Toch uitvoeren"
 
 #: 
 

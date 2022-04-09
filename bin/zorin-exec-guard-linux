@@ -45,7 +45,7 @@ class ExecGuardApplicationLinux(ZorinExecGuard.ExecGuardApplication):
     def _get_buttons(self, box):
         button = None
 
-        button = Gtk.Button(label=_("Run %s anyway") % ZorinExecGuard.truncate_with_ellipses(self.executable["filename"], ZorinExecGuard.MAX_EXEC_CHAR_LENGTH))
+        button = Gtk.Button(label=_("Run anyway"))
         button.connect('clicked', self._launch_executable)
         box.add(button)
 

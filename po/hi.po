@@ -74,8 +74,8 @@ msgstr "%s स्थापित किया गया है"
 
 #: 
 
-msgid "Run %s anyway"
-msgstr "फिर भी %s चलाएं"
+msgid "Run anyway"
+msgstr "फिर भी चलाएं"
 
 #: 
 

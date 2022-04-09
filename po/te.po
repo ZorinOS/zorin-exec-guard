@@ -77,8 +77,8 @@ msgstr "%s వ్యవస్థాపించబడింది"
 
 #: 
 
-msgid "Run %s anyway"
-msgstr "ఏదేమైనా %s ను రన్ చేయండి"
+msgid "Run anyway"
+msgstr "ఏదేమైనా ను రన్ చేయండి"
 
 #: 
 

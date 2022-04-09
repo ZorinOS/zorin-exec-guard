@@ -75,8 +75,8 @@ msgstr "%s byl nainstalován"
 
 #: 
 
-msgid "Run %s anyway"
-msgstr "Přesto spustit %s"
+msgid "Run anyway"
+msgstr "Přesto spustit"
 
 #: 
 

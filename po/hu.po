@@ -69,12 +69,12 @@ msgstr "Néhány Windowsos alkalmazás nem kompatibilis a Windows Szoftvertámog
 #: 
 
 msgid "%s has been installed"
-msgstr "%s sikeresen feltelepítve."
+msgstr "%s sikeresen feltelepítve"
 
 #: 
 
-msgid "Run %s anyway"
-msgstr "%s futtatása mindenképp."
+msgid "Run anyway"
+msgstr "Futtatása mindenképp"
 
 #: 
 

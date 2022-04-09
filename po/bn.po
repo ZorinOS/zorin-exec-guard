@@ -73,8 +73,8 @@ msgstr "%s ইনস্টল হয়েছে"
 
 #: 
 
-msgid "Run %s anyway"
-msgstr "%s যেকোনো ভাবেই চালান"
+msgid "Run anyway"
+msgstr "যেকোনো ভাবেই চালান"
 
 #: 
 

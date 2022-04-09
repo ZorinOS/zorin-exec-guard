@@ -73,8 +73,8 @@ msgstr "%s的安装已完成"
 
 #: 
 
-msgid "Run %s anyway"
-msgstr "仍要运行%s"
+msgid "Run anyway"
+msgstr "仍要运行"
 
 #: 
 

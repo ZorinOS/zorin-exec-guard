@@ -73,8 +73,8 @@ msgstr "Tá %s suiteáilte"
 
 #: 
 
-msgid "Run %s anyway"
-msgstr "Feidhmigh %s ar aon nós"
+msgid "Run anyway"
+msgstr "Feidhmigh ar aon nós"
 
 #: 
 

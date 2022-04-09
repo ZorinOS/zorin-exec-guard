@@ -73,8 +73,8 @@ msgstr "Na-install na ang %s"
 
 #: 
 
-msgid "Run %s anyway"
-msgstr "Buksan pa rin ang %s"
+msgid "Run anyway"
+msgstr "Buksan pa rin ang"
 
 #: 
 

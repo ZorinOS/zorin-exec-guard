@@ -75,7 +75,7 @@ msgstr "%s انسٹال کیا گیا ہے"
 
 #: 
 
-msgid "Run %s anyway"
+msgid "Run anyway"
 msgstr "ویسے بھی چلائیں"
 
 #: 

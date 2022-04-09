@@ -73,8 +73,8 @@ msgstr "%s已安裝"
 
 #: 
 
-msgid "Run %s anyway"
-msgstr "無論如何都要運行%s"
+msgid "Run anyway"
+msgstr "無論如何都要運行"
 
 #: 
 

@@ -73,8 +73,8 @@ msgstr "%s הותקן בהצלחה"
 
 #: 
 
-msgid "Run %s anyway"
-msgstr "הרצה %s בכל מקרה"
+msgid "Run anyway"
+msgstr "הרצה בכל מקרה"
 
 #: 
 

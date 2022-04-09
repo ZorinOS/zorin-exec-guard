@@ -73,8 +73,8 @@ msgstr "%s telah dipasang"
 
 #: 
 
-msgid "Run %s anyway"
-msgstr "Pelancaran %s juga"
+msgid "Run anyway"
+msgstr "Pelancaran juga"
 
 #: 
 

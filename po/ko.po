@@ -73,8 +73,8 @@ msgstr "%s은(는) 이미 설치되어 있습니다."
 
 #: 
 
-msgid "Run %s anyway"
-msgstr "무조건 %s을(를) 실행"
+msgid "Run anyway"
+msgstr "무조건 실행"
 
 #: 
 

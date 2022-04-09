@@ -73,8 +73,8 @@ msgstr "%s został zainstalowany"
 
 #: 
 
-msgid "Run %s anyway"
-msgstr "Uruchom %s mimo to"
+msgid "Run anyway"
+msgstr "Uruchom mimo to"
 
 #: 
 

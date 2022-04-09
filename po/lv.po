@@ -73,8 +73,8 @@ msgstr "%s ir instalēta"
 
 #: 
 
-msgid "Run %s anyway"
-msgstr "Jebkurā gadījumā uzsākt %s"
+msgid "Run anyway"
+msgstr "Jebkurā gadījumā uzsākt"
 
 #: 
 

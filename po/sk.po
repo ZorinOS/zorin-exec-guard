@@ -87,8 +87,8 @@ msgstr "%s bol nainštalovaný"
 #: 
 #, fuzzy
 
-msgid "Run %s anyway"
-msgstr "Spustite %s akokoľvek"
+msgid "Run anyway"
+msgstr "Spustite akokoľvek"
 
 #: 
 #, fuzzy

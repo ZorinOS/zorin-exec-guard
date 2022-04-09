@@ -73,8 +73,8 @@ msgstr "Быў усталяваны %s"
 
 #: 
 
-msgid "Run %s anyway"
-msgstr "Запуск %s у любым выпадку"
+msgid "Run anyway"
+msgstr "Запуск у любым выпадку"
 
 #: 
 

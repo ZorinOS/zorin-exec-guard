@@ -1,3 +1,15 @@
+zorin-exec-guard (1.4.4) focal; urgency=medium
+
+  * Updated Turkish translations
+
+ -- Artyom Zorin <azorin@zoringroup.com>  Sat, 09 Apr 2022 13:14:14 +0100
+
+zorin-exec-guard (1.4.3) focal; urgency=medium
+
+  * Updated Run anyway button string
+
+ -- Artyom Zorin <azorin@zoringroup.com>  Sun, 27 Feb 2022 16:38:28 +0000
+
 zorin-exec-guard (1.4.2) focal; urgency=medium
 
   * Fixed a translation string

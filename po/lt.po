@@ -73,8 +73,8 @@ msgstr "%s įdiegtas"
 
 #: 
 
-msgid "Run %s anyway"
-msgstr "Vistiek paleisti %s"
+msgid "Run anyway"
+msgstr "Vistiek paleisti"
 
 #: 
 

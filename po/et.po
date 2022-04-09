@@ -73,8 +73,8 @@ msgstr "%s on paigaldatud"
 
 #: 
 
-msgid "Run %s anyway"
-msgstr "Käivitage %s niikuinii"
+msgid "Run anyway"
+msgstr "Käivitage niikuinii"
 
 #: 
 

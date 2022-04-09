@@ -56,7 +56,7 @@ msgstr ""
 msgid "%s has been installed"
 msgstr ""
 
-msgid "Run %s anyway"
+msgid "Run anyway"
 msgstr ""
 
 msgid "Launch %s"

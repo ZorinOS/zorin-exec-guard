@@ -73,8 +73,8 @@ msgstr "S'ha instal·lat %s"
 
 #: 
 
-msgid "Run %s anyway"
-msgstr "Executeu %s de totes maneres"
+msgid "Run anyway"
+msgstr "Executeu de totes maneres"
 
 #: 
 

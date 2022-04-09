@@ -73,8 +73,8 @@ msgstr "%s është instaluar"
 
 #: 
 
-msgid "Run %s anyway"
-msgstr "Nis %s gjithsesi"
+msgid "Run anyway"
+msgstr "Nis gjithsesi"
 
 #: 
 

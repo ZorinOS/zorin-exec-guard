@@ -73,8 +73,8 @@ msgstr "%s telah terinstal"
 
 #: 
 
-msgid "Run %s anyway"
-msgstr "Jalankan %s kapanpun"
+msgid "Run anyway"
+msgstr "Jalankan kapanpun"
 
 #: 
 

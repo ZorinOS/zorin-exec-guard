@@ -75,8 +75,8 @@ msgstr "%s is geïnstalleer"
 
 #: 
 
-msgid "Run %s anyway"
-msgstr "Hardloop %s buitendien"
+msgid "Run anyway"
+msgstr "Hardloop buitendien"
 
 #: 
 

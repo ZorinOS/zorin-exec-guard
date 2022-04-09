@@ -73,8 +73,8 @@ msgstr "%s было установлено"
 
 #: 
 
-msgid "Run %s anyway"
-msgstr "Всё равно запустить %s"
+msgid "Run anyway"
+msgstr "Всё равно запустить"
 
 #: 
 

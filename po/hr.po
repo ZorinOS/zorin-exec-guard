@@ -73,8 +73,8 @@ msgstr "Instalacija za %s je izvršena"
 
 #: 
 
-msgid "Run %s anyway"
-msgstr "Svejedno pokreni %s"
+msgid "Run anyway"
+msgstr "Svejedno pokreni"
 
 #: 
 

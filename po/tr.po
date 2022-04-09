@@ -73,8 +73,8 @@ msgstr "%s kurulumu tamamlandı"
 
 #: 
 
-msgid "Run %s anyway"
-msgstr "%s'i yine de çalıştır"
+msgid "Run anyway"
+msgstr "Yine de çalıştır"
 
 #: 
 

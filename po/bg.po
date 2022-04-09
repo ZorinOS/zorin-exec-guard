@@ -73,8 +73,8 @@ msgstr "%s беше инсталиран"
 
 #: 
 
-msgid "Run %s anyway"
-msgstr "Изпълняване на %s въпреки това"
+msgid "Run anyway"
+msgstr "Изпълняване въпреки това"
 
 #: 
 

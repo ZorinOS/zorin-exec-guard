@@ -79,8 +79,8 @@ msgstr "%s ተጭኗል"
 #: 
 #, fuzzy
 
-msgid "Run %s anyway"
-msgstr "ለማንኛውም%s አሂድ"
+msgid "Run anyway"
+msgstr "ለማንኛውም አሂድ"
 
 #: 
 #, fuzzy
