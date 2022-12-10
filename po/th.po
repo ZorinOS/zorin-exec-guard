@@ -161,3 +161,6 @@ msgstr "รองรับไฟล์ .rar"
 
 msgid ".7z file support"
 msgstr "รองรับไฟล์ .7z"
+
+msgid "Is this a video game?"
+msgstr "นี่เป็นวิดีโอเกมหรือไม่?"

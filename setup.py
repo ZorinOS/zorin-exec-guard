@@ -7,7 +7,7 @@ class zorin_exec_guard_build_i18n(build_i18n.build_i18n):
 
 setup(
     name='zorin-exec-guard',
-    version='1.4',
+    version='1.5',
     url='http://zorin.com',
     author='Zorin OS Technologies Ltd.',
     author_email='os@zoringroup.com',

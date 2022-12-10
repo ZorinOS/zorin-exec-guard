@@ -127,3 +127,6 @@ msgstr ""
 
 msgid ".7z file support"
 msgstr ""
+
+msgid "Is this a video game?"
+msgstr ""

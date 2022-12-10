@@ -149,3 +149,6 @@ msgstr "stöd för .rar-filer"
 
 msgid ".7z file support"
 msgstr "stöd för .7z-filer"
+
+msgid "Is this a video game?"
+msgstr "Är detta ett videospel?"

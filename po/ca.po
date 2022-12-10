@@ -149,3 +149,6 @@ msgstr "ajuda per arxius .rar"
 
 msgid ".7z file support"
 msgstr "ajuda per arxius .7z"
+
+msgid "Is this a video game?"
+msgstr "Això és un videojoc?"

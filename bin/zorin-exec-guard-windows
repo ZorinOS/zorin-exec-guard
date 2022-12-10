@@ -2,7 +2,7 @@
 
 # This file is part of the Zorin Exec Guard program.
 #
-# Copyright 2018 Zorin OS Technologies Ltd.
+# Copyright 2018-2022 Zorin OS Technologies Ltd.
 #
 # This program is free software you can redistribute it and/or modify it
 # under the terms and conditions of the GNU General Public License,
@@ -16,6 +16,8 @@
 import gi
 import gettext
 import sys
+import time
+from threading import Thread
 
 gi.require_version('Gtk', '3.0')
 from gi.repository import Gtk, Gio, GLib
@@ -26,7 +28,17 @@ t = gettext.translation('zorin-exec-guard', '/usr/share/locale',
                         fallback=True)
 _ = t.gettext
 
-WINDOWS_APP_SUPPORT = {"name": "Windows App Support", "apt": "zorin-windows-app-support"}
+WINDOWS_APP_SUPPORT = {
+    "name": "Windows App Support",
+    "apt": "zorin-windows-app-support",
+    "appstream": {
+        "id": "com.zorinos.windows-app-support"
+    }
+}
+
+MIN_INSTALLATION_TIMEOUT = 60
+MAX_EXECUTION_RETRIES = 40
+RETRY_WAIT_TIME = 15
 
 
 def is_wine_installed():
@@ -36,15 +48,32 @@ class ExecGuardApplicationWindows(ZorinExecGuard.ExecGuardApplication):
 
     APP_ID = 'com.zorin.exec-guard.windows'
 
-    def _launch_executable(self, widget):
+    def _launch_executable(self, widget=None):
         ZorinExecGuard.spawn_process(['wine', 'start', '/unix', self.executable["path"]])
+        print("Launching " + self.executable["filename"] + " with Wine")
         self.quit()
         
     def _install_windows_app_support(self, widget):
         self.window.hide()
-        package_install = ZorinExecGuard.AptInstallation(WINDOWS_APP_SUPPORT)
-        package_install.connect("finished", self._launch_executable)
-        package_install.do_update() # Update cache before installing to avoid missing dependencies error
+        ZorinExecGuard.install_app_from_software(WINDOWS_APP_SUPPORT)
+
+        thread = Thread(target=self._attempt_execution)
+        thread.start()
+
+    def _attempt_execution(self):
+        print("Waiting " + str(MIN_INSTALLATION_TIMEOUT) + " seconds before checking if Windows App Support is installed")
+        time.sleep(MIN_INSTALLATION_TIMEOUT)
+
+        retries = 0
+        while retries < MAX_EXECUTION_RETRIES:
+            if is_wine_installed():
+                self._launch_executable()
+                break
+            print("Windows App Support isn't installed yet. Trying again in " + str(RETRY_WAIT_TIME) + " seconds.")
+            time.sleep(RETRY_WAIT_TIME)
+            retries += 1
+
+        self.quit()
 
     def _get_main_message(self):
         if (not is_wine_installed()) and (not self.replacement):
@@ -64,13 +93,18 @@ class ExecGuardApplicationWindows(ZorinExecGuard.ExecGuardApplication):
         text_buffer = text_view.get_buffer()
 
         escaped_filename = ZorinExecGuard.truncate_with_ellipses(GLib.markup_escape_text(self.executable["filename"], -1), ZorinExecGuard.MAX_EXEC_CHAR_LENGTH*3)
-        text = _("%s is an unknown Windows app.") % escaped_filename + "\n\n" + _("Your computer and personal data may be vulnerable to a breach when running apps from unknown sources.") + "\n\n" + _("Some Windows apps may not be compatible with Windows App Support.")
+        text = _("%s is an unknown Windows app.") % escaped_filename + " " + _("Your computer and personal data may be vulnerable to a breach when running apps from unknown sources.") + "\n\n" + _("Some Windows apps may not be compatible with Windows App Support.")
 
         text_buffer.set_text(text, -1)
 
         frame.add(text_view)
 
         return frame
+
+    def _get_links(self, box):
+        if not self.replacement:
+            link = Gtk.LinkButton.new_with_label("https://help.zorin.com/docs/apps-games/play-games/", _("Is this a video game?"))
+            box.add(link)
 
     def _get_buttons(self, box):
         button = None

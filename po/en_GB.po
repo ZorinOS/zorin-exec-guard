@@ -79,3 +79,6 @@ msgstr "Archive Manager"
 
 msgid "Document Viewer"
 msgstr "Document Viewer"
+
+msgid "Is this a video game?"
+msgstr "Is this a video game?"

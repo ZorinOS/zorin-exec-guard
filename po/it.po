@@ -64,7 +64,7 @@ msgstr "Il tuo computer e i tuoi dati personali potrebbero essere soggetti ad un
 
 #: 
 msgid "Some Windows apps may not be compatible with Windows App Support."
-msgstr "Alcune applicazioni Windows potrebbero non essere compatibili con l'applicazione Windows Support"
+msgstr "Alcune applicazioni Windows potrebbero non essere compatibili con Supporto dell app di Windows"
 
 #: 
 
@@ -88,12 +88,12 @@ msgstr "Installa %s"
 
 #: 
 msgid "Install Windows App Support"
-msgstr "Installa l'applicazione Windows Support"
+msgstr "Installa Supporto dell app di Windows"
 
 #: 
 
 msgid "Install Windows App Support to run %s?"
-msgstr "Installare l'applicazione Windows Support per eseguire %s?"
+msgstr "Installare Supporto dell app di Windows per eseguire %s?"
 
 #: 
 msgid "Installed"
@@ -149,3 +149,6 @@ msgstr "supporto per file .rar"
 
 msgid ".7z file support"
 msgstr "supporto per file .7z"
+
+msgid "Is this a video game?"
+msgstr "È un videogioco?"

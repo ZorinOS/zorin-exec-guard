@@ -149,3 +149,6 @@ msgstr "tacaíocht comhad .rar"
 
 msgid ".7z file support"
 msgstr "tacaíocht comhad .7z"
+
+msgid "Is this a video game?"
+msgstr "An físchluiche é seo?"

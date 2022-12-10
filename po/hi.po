@@ -62,7 +62,6 @@ msgstr "%s एक अज्ञात विंडोज ऐप है।"
 msgid "Your computer and personal data may be vulnerable to a breach when running apps from unknown sources."
 msgstr "अज्ञात स्रोतों से एप्लिकेशन चलाने पर आपका कंप्यूटर और व्यक्तिगत डेटा असुरक्षित और चोरी हो सकता है।"
 
-#. 'Windows app' is repeated twice in Hindi translation so I've used quotes to differentiate it with Windows app support
 #: 
 msgid "Some Windows apps may not be compatible with Windows App Support."
 msgstr "कुछ 'विंडोज ऐप' विंडोज ऐप सपोर्ट के अनुकूल नहीं हो सकते हैं।"
@@ -89,7 +88,7 @@ msgstr "%s इनस्टौल करें"
 
 #: 
 msgid "Install Windows App Support"
-msgstr "विंडोज ऐप सपोरट स्थापित करें"
+msgstr "विंडोज ऐप सपोर्ट स्थापित करें"
 
 #: 
 
@@ -150,3 +149,6 @@ msgstr ".rar फ़ाइल समर्थन"
 
 msgid ".7z file support"
 msgstr ".7z फ़ाइल समर्थन"
+
+msgid "Is this a video game?"
+msgstr "क्या यह एक वीडियो गेम है?"

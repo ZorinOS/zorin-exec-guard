@@ -151,3 +151,6 @@ msgstr ".rar lêer ondersteuning"
 
 msgid ".7z file support"
 msgstr ".7s lêer ondersteuning"
+
+msgid "Is this a video game?"
+msgstr "Is dit 'n videospeletjie?"

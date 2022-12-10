@@ -153,3 +153,6 @@ msgstr ".rar கோப்பு ஆதரவு"
 
 msgid ".7z file support"
 msgstr ".7z கோப்பு ஆதரவு"
+
+msgid "Is this a video game?"
+msgstr "இது வீடியோ கேமா?"

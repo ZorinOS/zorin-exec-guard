@@ -149,3 +149,6 @@ msgstr "支持 .rar 格式的文件"
 
 msgid ".7z file support"
 msgstr "支持 .7z 格式的文件"
+
+msgid "Is this a video game?"
+msgstr "这是游戏吗？"

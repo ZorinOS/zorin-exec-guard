@@ -150,3 +150,6 @@ msgstr "دعم لصيغة الـrar"
 
 msgid ".7z file support"
 msgstr "دعم لصيغة الـ7z"
+
+msgid "Is this a video game?"
+msgstr "هل هذه لعبة فيديو؟"

@@ -149,3 +149,6 @@ msgstr ".rar fájl támogatás"
 
 msgid ".7z file support"
 msgstr ".7z fájl támogatás"
+
+msgid "Is this a video game?"
+msgstr "Ez egy videojáték?"

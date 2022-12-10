@@ -1,3 +1,41 @@
+zorin-exec-guard (1.5.5) focal; urgency=medium
+
+  * Added link to games guide if attempting to open an unknown Windows
+    executable
+
+ -- Artyom Zorin <azorin@zoringroup.com>  Sat, 10 Dec 2022 14:16:23 +0000
+
+zorin-exec-guard (1.5.4) focal; urgency=medium
+
+  * Update Wine check timeout and fixed bug when launching a Windows
+    executable with Wine after installation
+
+ -- Artyom Zorin <azorin@zoringroup.com>  Sun, 17 Jul 2022 12:31:40 +0100
+
+zorin-exec-guard (1.5.3) focal; urgency=medium
+
+  * Fixed bug when launching Windows executables with Wine
+
+ -- Artyom Zorin <azorin@zoringroup.com>  Sat, 16 Jul 2022 23:03:35 +0100
+
+zorin-exec-guard (1.5.2) focal; urgency=medium
+
+  * Updated translations
+
+ -- Artyom Zorin <azorin@zoringroup.com>  Sat, 16 Jul 2022 16:32:05 +0100
+
+zorin-exec-guard (1.5.1) focal; urgency=medium
+
+  * Updated launcher icons
+
+ -- Artyom Zorin <azorin@zoringroup.com>  Sat, 16 Jul 2022 00:16:16 +0100
+
+zorin-exec-guard (1.5) focal; urgency=medium
+
+  * Install Windows App Support with GNOME Software
+
+ -- Artyom Zorin <azorin@zoringroup.com>  Thu, 14 Jul 2022 23:54:29 +0100
+
 zorin-exec-guard (1.4.4) focal; urgency=medium
 
   * Updated Turkish translations

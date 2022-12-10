@@ -168,3 +168,6 @@ msgstr "podpora súborov .rar"
 
 msgid ".7z file support"
 msgstr "podpora súborov .7zip"
+
+msgid "Is this a video game?"
+msgstr "Je to videohra?"

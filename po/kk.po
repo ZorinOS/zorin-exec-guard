@@ -104,3 +104,6 @@ msgstr "Архивтер басқарушысы"
 
 msgid "Document Viewer"
 msgstr "Құжаттарды көрсету қолданбасы"
+
+msgid "Is this a video game?"
+msgstr "Бұл бейне ойыны ма?"

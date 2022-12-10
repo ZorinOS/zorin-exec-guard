@@ -124,16 +124,16 @@ msgid "You can use WhatsApp on the web"
 msgstr "您可以在网络上使用WhatsApp"
 
 msgid "League of Legends is available on Lutris"
-msgstr ""
+msgstr "您可以在Lutris上游玩《英雄联盟》(League of Legends)"
 
 msgid "Overwatch is available on Lutris"
-msgstr ""
+msgstr "您可以在Lutris上游玩《守望先锋》(Overwatch)"
 
 msgid "Warframe is available on Lutris"
-msgstr ""
+msgstr "您可以在Lutris上游玩《星际战甲》(Warframe)"
 
 msgid "World of Warcraft is available on Lutris"
-msgstr ""
+msgstr "您可以在Lutris上游玩《魔兽世界》(World of Warcraft)"
 
 msgid "Zorin OS is already resistant to Windows viruses and malware"
 msgstr "Zorin操作系统已经可以抵抗Windows病毒和恶意软件的攻击"
@@ -145,7 +145,10 @@ msgid "Install GNOME Boxes to run Microsoft Windows inside a Virtual Machine in 
 msgstr "安装GNOME Boxes，在Zorin OS的虚拟机中运行微软的Windows。"
 
 msgid ".rar file support"
-msgstr ""
+msgstr "支持 .rar 格式的文件"
 
 msgid ".7z file support"
-msgstr ""
+msgstr "支持 .7z 格式的文件"
+
+msgid "Is this a video game?"
+msgstr "这是游戏吗？"

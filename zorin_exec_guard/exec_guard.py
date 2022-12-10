@@ -1,6 +1,6 @@
 # This file is part of the Zorin Exec Guard program.
 #
-# Copyright 2018-2021 Zorin OS Technologies Ltd.
+# Copyright 2018-2022 Zorin OS Technologies Ltd.
 #
 # This program is free software you can redistribute it and/or modify it
 # under the terms and conditions of the GNU General Public License,
@@ -179,6 +179,9 @@ class ExecGuardApplication(Gtk.Application):
 
         return frame
 
+    def _get_links(self, box):
+        pass
+
     def _get_buttons(self, box):
         button = None
         application = self
@@ -222,6 +225,7 @@ class ExecGuardApplication(Gtk.Application):
                       margin=18,
                       spacing=18,
                       visible=True)
+        self.window.add(box)
 
         information_box = Gtk.Box(orientation=Gtk.Orientation.HORIZONTAL,
                                    halign=Gtk.Align.START,
@@ -258,13 +262,22 @@ class ExecGuardApplication(Gtk.Application):
         information_box.add(message_box)
         box.add(information_box)
 
-        button_box = Gtk.Box(orientation=Gtk.Orientation.HORIZONTAL,
+        actions_box = Gtk.Box(orientation=Gtk.Orientation.HORIZONTAL,
                               halign=Gtk.Align.END,
                               spacing=6)
+        box.pack_end(actions_box, False, True, 0)
 
+        link_box = Gtk.Box(orientation=Gtk.Orientation.HORIZONTAL,
+                           halign=Gtk.Align.START,
+                           spacing=6)
+        self._get_links(link_box)
+        actions_box.pack_start(link_box, False, False, 0)
+
+        button_box = Gtk.Box(orientation=Gtk.Orientation.HORIZONTAL,
+                             halign=Gtk.Align.END,
+                             spacing=6)
         self._get_buttons(button_box)
-        box.add(button_box)
-        self.window.add(box)
+        actions_box.pack_end(button_box, False, False, 0)
 
         self.window.show_all()
 
@@ -378,6 +391,8 @@ def get_software_app_id(replacement):
                 default_branch = flatpak_remote.get_default_branch()
                 if default_branch:
                     return 'system/flatpak/%s/desktop/%s.desktop/%s' % (remote, app_id, default_branch)
+    elif "appstream" in replacement:
+        app_id = replacement["appstream"]["id"]
     else:
         app_id = replacement["alternative"]["name"] if "alternative" in replacement else replacement["name"]
 
