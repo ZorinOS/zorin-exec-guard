@@ -222,13 +222,15 @@ class ExecGuardApplication(Gtk.Application):
         self.window.set_position(Gtk.WindowPosition.CENTER)
 
         box = Gtk.Box(orientation=Gtk.Orientation.VERTICAL,
+                      halign=Gtk.Align.FILL,
+                      hexpand=True,
                       margin=18,
                       spacing=18,
                       visible=True)
         self.window.add(box)
 
         information_box = Gtk.Box(orientation=Gtk.Orientation.HORIZONTAL,
-                                   halign=Gtk.Align.START,
+                                   halign=Gtk.Align.FILL,
                                    hexpand=True,
                                    margin_left=18,
                                    spacing=36)
@@ -240,22 +242,28 @@ class ExecGuardApplication(Gtk.Application):
 
         message_box = Gtk.Box(orientation=Gtk.Orientation.VERTICAL,
                               valign=Gtk.Align.START,
+                              halign=Gtk.Align.FILL,
+                              hexpand=True,
                               spacing=18)
 
         label = Gtk.Label(use_markup=True,
-                                wrap=True,
-                                max_width_chars=40,
-                                halign=Gtk.Align.CENTER,
-                                label=title(self._get_main_message()))
+                          wrap=True,
+                          halign=Gtk.Align.START,
+                          width_chars=30,
+                          max_width_chars=50,
+                          xalign=0,
+                          label=title(self._get_main_message()))
         message_box.add(label)
 
         app_alternative_message = self._get_app_alternative_message()
         if app_alternative_message:
             label = Gtk.Label(use_markup=True,
-                                    wrap=True,
-                                    max_width_chars=40,
-                                    halign=Gtk.Align.START,
-                                    label=app_alternative_message )
+                              wrap=True,
+                              halign=Gtk.Align.START,
+                              width_chars=30,
+                              max_width_chars=50,
+                              xalign=0,
+                              label=app_alternative_message )
             message_box.add(label)
 
         message_box.add(self._get_unknown_app_warning_message())
@@ -272,7 +280,8 @@ class ExecGuardApplication(Gtk.Application):
                            halign=Gtk.Align.START,
                            spacing=6)
         self._get_links(link_box)
-        actions_box.pack_start(link_box, False, False, 0)
+        if len(link_box.get_children()) > 0:
+            actions_box.pack_start(link_box, False, False, 0)
 
         button_box = Gtk.Box(orientation=Gtk.Orientation.HORIZONTAL,
                              halign=Gtk.Align.END,
