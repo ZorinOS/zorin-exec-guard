@@ -263,9 +263,10 @@ class ExecGuardApplication(Gtk.Application):
         box.add(information_box)
 
         actions_box = Gtk.Box(orientation=Gtk.Orientation.HORIZONTAL,
-                              halign=Gtk.Align.END,
+                              halign=Gtk.Align.FILL,
+                              hexpand=True,
                               spacing=6)
-        box.pack_end(actions_box, False, True, 0)
+        box.pack_start(actions_box, True, True, 0)
 
         link_box = Gtk.Box(orientation=Gtk.Orientation.HORIZONTAL,
                            halign=Gtk.Align.START,

@@ -1,3 +1,9 @@
+zorin-exec-guard (1.5.6) focal; urgency=medium
+
+  * Corrected alignment for button and link container
+
+ -- Artyom Zorin <azorin@zoringroup.com>  Sat, 10 Dec 2022 16:54:35 +0000
+
 zorin-exec-guard (1.5.5) focal; urgency=medium
 
   * Added link to games guide if attempting to open an unknown Windows
