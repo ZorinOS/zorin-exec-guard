@@ -1,0 +1,147 @@
+# Georgian translation for zorin-exec-guard
+# Copyright (c) 2025 zorin-exec-guard's authors
+# This file is distributed under the same license as the zorin-exec-guard package.
+# Ekaterine Papava <papava.e@gtu.ge>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: zorin-exec-guard\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-10-02 13:42-0400\n"
+"PO-Revision-Date: 2025-12-11 08:48+0100\n"
+"Last-Translator: Ekaterine Papava <papava.e@gtu.ge>\n"
+"Language-Team: Georgian <(nothing)>\n"
+"Language: ka\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.8\n"
+
+msgid "Install Linux Application"
+msgstr "Linux-ის აპლიკაციის დაყენება"
+
+msgid "Install Linux Applications"
+msgstr "Linux-ის აპლიკაციების დაყენება"
+
+msgid "Install Windows Application"
+msgstr "Windows-ის აპლიკაციის დაყენება"
+
+msgid "Install Windows Applications"
+msgstr "Windows-ის აპლიკაციების დაყენება"
+
+msgid "Are you sure you want to run %s?"
+msgstr "დარწმუნებული ბრძანდებით, რომ გნებავთ, გაუშვათ %s?"
+
+msgid "%s is available on Steam"
+msgstr "%s ხელმისაწვდომია Steam-ზე"
+
+msgid "%s is already installed"
+msgstr "%s უკვე დაყენებულია"
+
+msgid "%s can be installed from Software"
+msgstr "%s შეგიძლიათ, პროგრამების მმართველიდან დააყენოთ"
+
+msgid "%s is an alternative to %s."
+msgstr "%s წარმოადგენს %s-ის ალტერნატივას."
+
+msgid "%s is an unknown package."
+msgstr "%s უცნობი პაკეტია."
+
+msgid "%s is an unknown Windows app."
+msgstr "%s უცნობი Windows-ის აპია."
+
+msgid ""
+"Your computer and personal data may be vulnerable to a breach when running "
+"apps from unknown sources."
+msgstr ""
+"თქვენი კომპიუტერი და პირადი მონაცემები, შეიძლება, მოწყვლადი იყოს "
+"გაჟონვისთვის, როცა უშვებთ პროგრამებს, რომლების წყაროც გაურკვეველია."
+
+msgid "Some Windows apps may not be compatible with Windows App Support."
+msgstr ""
+"ზოგიერთი Windows-ის აპლიკაცია, შეიძლება, თავსებადი არ იყოს Windows-ის "
+"პროგრამების მხარდაჭერასთან."
+
+msgid "%s has been installed"
+msgstr "%s დაყენებულია"
+
+msgid "Run anyway"
+msgstr "მაინც გაშვება"
+
+msgid "Launch %s"
+msgstr "%s-ის გაშვება"
+
+msgid "Install %s"
+msgstr "%s-ის დაყენება"
+
+msgid "Install Windows App Support"
+msgstr "Windows-ის პროგრამების მხარდაჭერის დაყენება"
+
+msgid "Install Windows App Support to run %s?"
+msgstr "გნებავთ Windows-ის პროგრამების მხარდაჭერის დაყენება %s-ის გასაშვებად?"
+
+msgid "Installed"
+msgstr "დაყენებულია"
+
+msgid "Archive Manager"
+msgstr "არქივის მმართველი"
+
+msgid "Document Viewer"
+msgstr "დოკუმენტების მნახველი"
+
+msgid "You can download Google Chrome (.deb package) for Zorin OS from the web"
+msgstr ""
+"Google Chrome-ის (.deb პაკეტი) გადმოწერა Zorin OS-ისთვის ვებიდან შეგიძლიათ"
+
+msgid "You can download Dropbox (Ubuntu package) for Zorin OS from the web"
+msgstr ""
+"Dropbox-ის (Ubuntu-ის პაკეტი) გადმოწერა Zorin OS-ისთვის ვებიდან შეგიძლიათ"
+
+msgid "You can download Itch (Linux package) for Zorin OS from the web"
+msgstr "Itch-ის (Linux-ის პაკეტი) გადმოწერა Zorin OS-ისთვის ვებიდან შეგიძლიათ"
+
+msgid "You can download TeamViewer (.deb package) for Zorin OS from the web"
+msgstr ""
+"TeamViewer-ის (.deb-ის პაკეტი) გადმოწერა Zorin OS-ისთვის ვებიდან შეგიძლიათ"
+
+msgid "You can download Genymotion (Ubuntu package) for Zorin OS from the web"
+msgstr ""
+"Genymotion-ის (Ubuntu-ის პაკეტი) გადმოწერა Zorin OS-ისთვის ვებიდან შეგიძლიათ"
+
+msgid "You can use WhatsApp on the web"
+msgstr "WhatsApp შეგიძლიათ, ვებზე გამოიყენოთ"
+
+msgid "League of Legends is available on Lutris"
+msgstr "League of Legends ხელმისაწვდომია Lutris-ზე"
+
+msgid "Overwatch is available on Lutris"
+msgstr "Overwatch ხელმისაწვდომია Lutris-ზე"
+
+msgid "Warframe is available on Lutris"
+msgstr "Warframe ხელმისაწვდომია Lutris-ზე"
+
+msgid "World of Warcraft is available on Lutris"
+msgstr "World of Warcraft ხელმისაწვდომია Lutris-ზე"
+
+msgid "Zorin OS is already resistant to Windows viruses and malware"
+msgstr ""
+"Zorin OS უკვე გამძლეა Windows-ის ვირუსებისა და მავნე პროგრამების მიმართ"
+
+msgid "Flash Player is no longer supported"
+msgstr "Flash Player მხარდაჭერილი აღარაა"
+
+msgid ""
+"Install GNOME Boxes to run Microsoft Windows inside a Virtual Machine in "
+"Zorin OS"
+msgstr ""
+"დააყენეთ GNOME Boxes, რომ გაუშვათ Microsoft Windows ვირტუალურ მანქანაში "
+"Zorin OS-ში"
+
+msgid ".rar file support"
+msgstr ".rar ფაილის მხარდაჭერა"
+
+msgid ".7z file support"
+msgstr ".7z ფაილის მხარდაჭერა"
+
+msgid "Is this a video game?"
+msgstr "ეს ვიდეოთამაშია?"
